@@ -8,6 +8,8 @@
 
   <title>Your awesome title</title>
   <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search resu...">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.6.1/gridlex.min.css"/>
   
   <link rel="stylesheet" href="/assets/css/foundation.css">
   <link rel="stylesheet" href="/assets/css/style.css">
@@ -20,9 +22,10 @@
 
   <link rel="canonical" href="http://localhost:4000/">
   <link rel="alternate" type="application/rss+xml" title="Your awesome title" href="/feed.xml">
-  
+
   
 </head>
+
 
   <body class="">
 
@@ -36,7 +39,9 @@
       <li class='name'>
         <h1>
           <a href='/index.html'>
-            <img width="126" height="48" alt="" src="/assets/images/logo-3.png" />
+            <div class="logo-header-container">
+              <img alt="coco logo" src="/assets/images/logo-3.png" />
+            </div>
           </a>
         </h1>
       </li>
@@ -55,7 +60,7 @@
             
 
             
-            
+
             <a href="#top">Home</a>
           </li>
         
@@ -63,15 +68,7 @@
             
 
             
-            
-            <a href="#about">About</a>
-          </li>
-        
-          <li>
-            
 
-            
-            
             <a href="#services">Services</a>
           </li>
         
@@ -79,15 +76,15 @@
             
 
             
-            
-            <a href="#works">Works</a>
+
+            <a href="#rooms">Book a Room</a>
           </li>
         
           <li>
             
 
             
-            
+
             <a href="#team">Team</a>
           </li>
         
@@ -95,7 +92,7 @@
             
 
             
-            
+
             <a href="/blog/">Blog</a>
           </li>
         
@@ -103,7 +100,15 @@
             
 
             
+
+            <a href="#about">About</a>
+          </li>
+        
+          <li>
             
+
+            
+
             <a href="#contact">Contact</a>
           </li>
         
@@ -112,26 +117,27 @@
   </nav>
 </div>
 
+
     
 
     <div id="main" class="top-shift">
       <div class='full no-padding parallax home-video-wrapper'>
   <div class='fullscreen'>
     <video autoplay='autoplay' id='fullscreen-video' loop='loop'>
-      <source src='/assets/images/@stock/cover-video.optimized.mp4' type='video/mp4'>
+      <source src='/assets/images/templefly.mp4' type='video/mp4'>
     </video>
     <div class='overlay'></div>
     <div class='layer'>
-      <p class="small-title">Make the right choice </p>
-      <h1 class='thin' id="to-be-update">
-         <span class="fir">Too fast</span><br/>
-         <span class="sec">Too wild</span><br/>
-         <span class="thir">Too different</span>
+      <p class="small-title-hero">Come home to Chiang Mai</p>
+      <h1 class='thin' id="to-be-update" style="margin-bottom: 2%;">
+         <span class="fir">Coliving</span><br/>
+         <span class="sec">Coworking</span><br/>
+         <span class="thir">Community</span>
       </h1>
-      <h2 class='thin'>
-       This is wrap, a creative digital company, creating solutions for any visual identity project, espetically for digital experiences and brand identities. 
+      <h2 class='thin text-white'>
+       CoCo is your one-stop gateway to the best nomad experiences Chiang Mai has to offer. Our booking platform seamlessly plugs you in to services and amenities you need to hit the ground running, and our concierge is friendly backup for all the surprises you may encounter on your day to day.
        
-       <a href='/index.html#works'>View our works</a>
+       <a href='/index.html#rooms'>The first stop, book a room with us!</a>
       </h2>
     </div>
   </div>
@@ -141,31 +147,34 @@
 <a id='about'></a>
 <div class='full'>
   <div class='row'>
-    <div class='large-8 columns large-centered'>
+    <div class='large-10 columns large-centered'>
       <div class="section-title">
-        <p class="small-title">Creative experience</p>
+        <p class="small-title">Your New Community</p>
         <h2>
-          Creating solutions  <br/> 
-          is what we do best.
+          Welcome to Chiang Mai
         </h2>
-        <p class="big-size">We are creating solutions for any visual identity project, espetically for digital experiences and brand identities.</p>
-        <div class="four spacing"></div>
-        <img src="/assets/images/logo-black.png" alt="">
+        <p class="big-size">You're here to build your business and create the life of your dreams. That's the hard part. Finding a place to live, connecting to great wifi, and organizing your day to day? That should be easy - and we're here to help.
+        </p>
+      </div>
+      <div class="grid-center">
+        <div style="max-width:200px;">
+          <img src="/assets/images/logo.png" alt="">
+        </div>
       </div>
     </div>
     <div class="four spacing"></div>
   </div>
 </div>
-<div class="full no-overflow no-padding parallax" style="background-image: url(/assets/images/@stock/about-1.jpg)">
+<div class="full no-overflow no-padding parallax" style="background-image: url(/assets/images/cafe.jpg)">
   <div class="right-half">
     <div class="two spacing"></div>
     <div class="section-header alt white">
-      <h2>client focused</h2>
+      <h2>Live like a local</h2>
     </div>
-    <p class="light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A cupiditate rem aspernatur eos tempora corporis cum consequuntur quasi explicabo, aut omnis, pariatur minus numquam deserunt reprehenderit dignissimos illum voluptas animi!</p>
-    <p class="light">Dolor sit amet, consectetur adipisicing elit. Quod, eius optio eum hic dicta veritatis voluptates nisi amet nulla at!</p>
+    <p class="light">Why book through us? 'Cause we're <i>actually</i> local. That's not just important for finding the best cafes or negotiating good prices - lots of sites do that. What working with a local company means is when you book through us, we're here and we've got your back.</p>
+    <p class="light">Book a room with us to become a member and get access to benefits and perks along with our top-notch concierge.</p>
     <div class="two spacing"></div>
-    <a href="#" class="button small">Meat the team</a>
+    <a href="#rooms" class="button small">See Our Rooms</a>
     <div class="three spacing"></div>
   </div>
 </div>
@@ -174,10 +183,10 @@
 <a id='services'></a>
 <div class='full'>
   <div class='row'>
-    <div class='large-8 columns large-centered'>
+    <div class='large-10 columns large-centered'>
       <div class="section-title">
-        <p class="small-title">main services</p>
-        <h2>We transform business.</h2>
+        <p class="small-title">Book Rooms, Services & Experiences</p>
+        <h2>We Make Chiang Mai Easy</h2>
       </div>
     </div>
   </div>
@@ -187,105 +196,69 @@
     
       <div class='medium-6 large-4 columns'>
         <div class='mod modIconText moveup' data-delay='0'>
-  <div class='icon-text-advanced' data-bg="/assets/images/@stock/service-item-1-bg.jpg">
+  <div class='icon-text-advanced' data-bg="/assets/images/bedroom.png">
     <div class='wrapper'>
       <div class='content'>
-        <i class='fa fa-bell-o'></i>
+        <div class="icon-container">
+          <img src="/assets/svgs/comfort.svg"/>
+        </div>
       </div>
     </div>
-    <h3>Design</h3>
-    <p>Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus.</p>
+    <h3>Comfort</h3>
+    <p>Settling in starts with finding a place to live. We offer stylish, comfortable, serviced apartments and move-in-ready rooms perfect for digital nomads.</p>
     <div class="spacing"></div>
   </div>
 </div>
+
       </div>
     
       <div class='medium-6 large-4 columns'>
         <div class='mod modIconText moveup' data-delay='0'>
-  <div class='icon-text-advanced' data-bg="/assets/images/@stock/service-item-2-bg.jpg">
+  <div class='icon-text-advanced' data-bg="/assets/images/bike.png">
     <div class='wrapper'>
       <div class='content'>
-        <i class='fa fa-lightbulb-o'></i>
+        <div class="icon-container">
+          <img src="/assets/svgs/convenience.svg"/>
+        </div>
       </div>
     </div>
-    <h3>Art direction</h3>
-    <p>Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus.</p>
+    <h3>Convenience</h3>
+    <p>From the simple stuff like getting a Simcard, renting a motorbike and arranging meal deliveries to the trickier things like getting a visa, we&#39;re here to help.</p>
     <div class="spacing"></div>
   </div>
 </div>
+
       </div>
     
       <div class='medium-6 large-4 columns'>
         <div class='mod modIconText moveup' data-delay='0'>
-  <div class='icon-text-advanced' data-bg="/assets/images/@stock/service-item-3-bg.jpg">
+  <div class='icon-text-advanced' data-bg="/assets/images/community.png">
     <div class='wrapper'>
       <div class='content'>
-        <i class='fa fa-bookmark-o'></i>
+        <div class="icon-container">
+          <img src="/assets/svgs/hub.svg"/>
+        </div>
       </div>
     </div>
-    <h3>Branding</h3>
-    <p>Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus.</p>
+    <h3>Community</h3>
+    <p>We help you connect with talent and find your tribe. From coworking days and masterminds to parties and excursions, our roster of events bring together the best and brightest in the city.</p>
     <div class="spacing"></div>
   </div>
 </div>
-      </div>
-    
-      <div class='medium-6 large-4 columns'>
-        <div class='mod modIconText moveup' data-delay='0'>
-  <div class='icon-text-advanced' data-bg="/assets/images/@stock/service-item-4-bg.jpg">
-    <div class='wrapper'>
-      <div class='content'>
-        <i class='fa fa-heart-o'></i>
-      </div>
-    </div>
-    <h3>Photography</h3>
-    <p>Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus.</p>
-    <div class="spacing"></div>
-  </div>
-</div>
-      </div>
-    
-      <div class='medium-6 large-4 columns'>
-        <div class='mod modIconText moveup' data-delay='0'>
-  <div class='icon-text-advanced' data-bg="/assets/images/@stock/service-item-5-bg.jpg">
-    <div class='wrapper'>
-      <div class='content'>
-        <i class='fa fa-flag-o'></i>
-      </div>
-    </div>
-    <h3>Marketing</h3>
-    <p>Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus.</p>
-    <div class="spacing"></div>
-  </div>
-</div>
-      </div>
-    
-      <div class='medium-6 large-4 columns'>
-        <div class='mod modIconText moveup' data-delay='0'>
-  <div class='icon-text-advanced' data-bg="/assets/images/@stock/service-item-6-bg.jpg">
-    <div class='wrapper'>
-      <div class='content'>
-        <i class='fa fa-comment-o'></i>
-      </div>
-    </div>
-    <h3>Support</h3>
-    <p>Placeat vel itaque perspiciatis sed repellat qui nihil recusandae doloremque aperiam necessitatibus aspernatur. illum ad adipisci saepe dolores cumque fugit nihil minus.</p>
-    <div class="spacing"></div>
-  </div>
-</div>
+
       </div>
     
   </div>
 </div>
 
 
-<a id='works'></a>
+<a id='rooms'></a>
 <div class='full'>
   <div class='row'>
-    <div class='large-8 columns large-centered'>
+    <div class='large-10 columns large-centered'>
       <div class="section-title">
-  <p class="small-title">take a look</p>
-  <h2>What we recently do.</h2>
+  <p class="small-title">See Our Rooms</p>
+  <h2>Come Home to Chiang Mai</h2>
 </div>
     </div>
   </div>
@@ -301,12 +274,12 @@
         
 
         <li class="">
-          <a href='/portfolio/diff-foods/'>
+          <a href='/portfolio/51hometel-one-bedroom/'>
             <img width="500" height="350" alt="" src="/assets/images/@stock/work-23.jpg" />
             <div class='overlay'>
               <div class='thumb-info'>
-                <h3>Diff foods</h3>
-                <p>Design &amp; Development</p>
+                <h3>51hometel one bedroom</h3>
+                <p>Serviced Apartment &amp; Nimmanhaemin</p>
               </div>
             </div>
           </a>
@@ -319,12 +292,12 @@
         
 
         <li class="">
-          <a href='/portfolio/sketch-book/'>
+          <a href='/portfolio/51hometel-studio/'>
             <img width="500" height="350" alt="" src="/assets/images/@stock/msn-work-40.jpg" />
             <div class='overlay'>
               <div class='thumb-info'>
-                <h3>Sketch book</h3>
-                <p>Design &amp; Development</p>
+                <h3>51hometel studio</h3>
+                <p>Serviced Apartment &amp; Nimmanhaemin</p>
               </div>
             </div>
           </a>
@@ -337,12 +310,12 @@
         
 
         <li class="wide">
-          <a href='/portfolio/tv-video/'>
+          <a href='/portfolio/burisiri-hotel-deluxe-room/'>
             <img width="1000" height="350" alt="" src="/assets/images/@stock/work-21.jpg" />
             <div class='overlay'>
               <div class='thumb-info'>
-                <h3>Tv video</h3>
-                <p>Design &amp; Development</p>
+                <h3>Burisiri hotel deluxe room</h3>
+                <p>Serviced Apartment &amp; Nimmanhaemin</p>
               </div>
             </div>
           </a>
@@ -427,12 +400,12 @@
         
 
         <li class="">
-          <a href='/portfolio/flowers/'>
+          <a href='/portfolio/burisiri-hotel-superior-room/'>
             <img width="500" height="350" alt="" src="/assets/images/@stock/work-24.jpg" />
             <div class='overlay'>
               <div class='thumb-info'>
-                <h3>Flowers</h3>
-                <p>Design &amp; Development</p>
+                <h3>Burisiri hotel superior room</h3>
+                <p>Serviced Apartment &amp; Nimmanhaemin</p>
               </div>
             </div>
           </a>
@@ -447,22 +420,68 @@
   <div class="four spacing"></div>
   <div class='row'>
     <div class='large-8 columns'>
-      <h3 class="white">Customized to meet your needs.</h3>
+      <h3 class="white">Tell us about your perfect room!</h3>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur inventore minimar.
+        We're getting ready to launch in November 2019 and finalizing the list of our partner properties. Have a preferred part of town or must-have amenities? Let us know and we'll let you as soon as we have a room that fits your budget and needs!
       </p>
     </div>
     <div class='large-4 columns'>
       <p>
-        <a class='button small boxed' href='#'>Download Now</a>
+        <a class='button small boxed' href='#'>Make Your Room Request</a>
       </p>
     </div>
   </div>
   <div class='two spacing'></div>
 </div>
 
+<div class='full parallax social-networks' style="background-image: url(/assets/images/@stock/socials-bg.jpg)">
+  <div class='two spacing'></div>
+  <div class='row'>
+    <div class='medium-3 columns'>
+      <div class='big-social'>
+        <a href='http://facebook.com'>
+          <i class='fa fa-facebook'></i>
+        </a>
+        <h4>Facebook</h4>
+        <p>Connect us with facebook</p>
+      </div>
+      <div class='two spacing'></div>
+    </div>
+    <div class='medium-3 columns'>
+      <div class='big-social'>
+        <a href='http://twitter.com'>
+          <i class='fa fa-twitter'></i>
+        </a>
+        <h4>Twitter</h4>
+        <p>Follow our tweets</p>
+      </div>
+      <div class='two spacing'></div>
+    </div>
+    <div class='medium-3 columns'>
+      <div class='big-social'>
+        <a href='http://dribbble.com'>
+          <i class='fa fa-dribbble'></i>
+        </a>
+        <h4>Dribbble</h4>
+        <p>Share some latest works</p>
+      </div>
+      <div class='two spacing'></div>
+    </div>
+    <div class='medium-3 columns'>
+      <div class='big-social'>
+        <a href='http://tumblr.com'>
+          <i class='fa fa-tumblr'></i>
+        </a>
+        <h4>Tumblr</h4>
+        <p>View some new trends</p>
+      </div>
+      <div class='two spacing'></div>
+    </div>
+  </div>
+  <div class='two spacing'></div>
+</div>
 
-<a id='team'></a>
+<!-- <a id='team'></a>
 <div class='full dark-grey'>
   <div class='row'>
     <div class='large-8 columns large-centered'>
@@ -642,7 +661,7 @@
       
     </div>
   </div>
-</div>
+</div> -->
 
 
 <a id='blog'></a>
@@ -702,8 +721,7 @@
   
 </div>
 
-
-<div class='full no-overflow no-padding parallax' style="background-image: url(/assets/images/@stock/customers-bg.jpg)">
+<!-- <div class='full no-overflow no-padding parallax' style="background-image: url(/assets/images/@stock/customers-bg.jpg)">
   <div class="left-half">
     <div class="two spacing"></div>
     <div class="row">
@@ -763,9 +781,9 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
-<div class='full'>
+<!-- <div class='full'>
   <div class='row'>
     <div class='large-8 columns large-centered'>
       <div class="section-title">
@@ -856,7 +874,7 @@
   <div class="four spacing"></div>
 </div>
 
-<div class="four spacing"></div>
+<div class="four spacing"></div> -->
 <a id='contact'></a>
 <div class='full dark'>
   <div class='row'>
@@ -916,52 +934,6 @@
   </div>
 </div>
 
-<div class='full parallax social-networks' style="background-image: url(/assets/images/@stock/socials-bg.jpg)">
-  <div class='two spacing'></div>
-  <div class='row'>
-    <div class='medium-3 columns'>
-      <div class='big-social'>
-        <a href='http://facebook.com'>
-          <i class='fa fa-facebook'></i>
-        </a>
-        <h4>Facebook</h4>
-        <p>Connect us with facebook</p>
-      </div>
-      <div class='two spacing'></div>
-    </div>
-    <div class='medium-3 columns'>
-      <div class='big-social'>
-        <a href='http://twitter.com'>
-          <i class='fa fa-twitter'></i>
-        </a>
-        <h4>Twitter</h4>
-        <p>Follow our tweets</p>
-      </div>
-      <div class='two spacing'></div>
-    </div>
-    <div class='medium-3 columns'>
-      <div class='big-social'>
-        <a href='http://dribbble.com'>
-          <i class='fa fa-dribbble'></i>
-        </a>
-        <h4>Dribbble</h4>
-        <p>Share some latest works</p>
-      </div>
-      <div class='two spacing'></div>
-    </div>
-    <div class='medium-3 columns'>
-      <div class='big-social'>
-        <a href='http://tumblr.com'>
-          <i class='fa fa-tumblr'></i>
-        </a>
-        <h4>Tumblr</h4>
-        <p>View some new trends</p>
-      </div>
-      <div class='two spacing'></div>
-    </div>
-  </div>
-  <div class='two spacing'></div>
-</div>
     </div>
 
     <div class="full no-padding dark">
