@@ -14,17 +14,17 @@ services:
     icon: /assets/svgs/hub.svg
     desc: We help you connect with talent and find your tribe. From coworking days and masterminds to parties and excursions, our roster of events bring together the best and brightest in the city.
     bg: /assets/images/community.png
-works:
-  - path: _works/51hometel-one-bedroom.md
-  - path: _works/51hometel-studio.md
-  - path: _works/burisiri-hotel-deluxe-room.md
+rooms:
+  - path: _rooms/51hometel-one-bedroom.md
+  - path: _rooms/51hometel-studio.md
+  - path: _rooms/burisiri-hotel-deluxe-room.md
     style: wide
-  - path: _works/umbrella-beauty.md
-  - path: _works/amber.md
-  - path: _works/explore.md
-  - path: _works/uro-mag.md
+  - path: _rooms/umbrella-beauty.md
+  - path: _rooms/amber.md
+  - path: _rooms/explore.md
+  - path: _rooms/uro-mag.md
     style: wide
-  - path: _works/burisiri-hotel-superior-room.md
+  - path: _rooms/burisiri-hotel-superior-room.md
 members:
   - avatar: /assets/images/@stock/member-7.png
     name: Lily Jebari
@@ -126,7 +126,7 @@ clients:
       </h1>
       <h2 class='thin text-white'>
        CoCo is your one-stop gateway to the best nomad experiences Chiang Mai has to offer. Our booking platform seamlessly plugs you in to services and amenities you need to hit the ground running, and our concierge is friendly backup for all the surprises you may encounter on your day to day.
-       {% assign nav_obj = site.data.nav | where:'section_id','works' | first %}
+       {% assign nav_obj = site.data.nav | where:'section_id','rooms' | first %}
        <a href='{{ "index.html" | append:nav_obj.path | relative_url }}'>The first stop, book a room with us!</a>
       </h2>
     </div>
@@ -200,13 +200,13 @@ clients:
     </div>
   </div>
 </div>
-<div class='full no-padding' id="demo-1-works">
+<div class='full no-padding' id="demo-1-rooms">
   <div class='mod modMasonryGallery'>
     <ul class='gallery'>
 
-      {% for item in page.works %}
+      {% for item in page.rooms %}
 
-        {% assign work = site.works | where:"path",item.path | first %}
+        {% assign room = site.rooms | where:"path",item.path | first %}
 
         {% if item.style == 'wide' %}
           {% assign class = 'wide' %}
@@ -219,12 +219,12 @@ clients:
         {% endif %}
 
         <li class="{{class}}">
-          <a href='{{ work.url | relative_url }}'>
-            <img width="{{width}}" height="{{height}}" alt="" src="{{ work.thumbnail | relative_url }}" />
+          <a href='{{ room.url | relative_url }}'>
+            <img width="{{width}}" height="{{height}}" alt="" src="{{ room.thumbnail | relative_url }}" />
             <div class='overlay'>
               <div class='thumb-info'>
-                <h3>{{ work.title | downcase | capitalize }}</h3>
-                <p>{{ work.categories | join:" & " | escape }}</p>
+                <h3>{{ room.title | downcase | capitalize }}</h3>
+                <p>{{ room.categories | join:" & " | escape }}</p>
               </div>
             </div>
           </a>
@@ -253,7 +253,7 @@ clients:
   <div class='two spacing'></div>
 </div>
 
-{% include social-networks.html %}
+{% include socials.html %}
 
 <!-- <a id='team'></a>
 <div class='full dark-grey'>

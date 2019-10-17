@@ -365,7 +365,7 @@ ul.shortcode-list {
     height: auto;
   }
 /*Big social */
-.social-networks { color: #fff; }
+.socials { color: #fff; }
 .big-social {
   text-align: center; }
   .big-social i {
@@ -664,7 +664,7 @@ ul.shortcode-list {
 .contain-to-grid.alt .top-bar-section .dropdown li:not(.has-form) a:not(.button):hover {
   background: #555; }
 
-.works .contain-to-grid.transparent, .posts .contain-to-grid.transparent {
+.rooms .contain-to-grid.transparent, .posts .contain-to-grid.transparent {
   background: rgba(69,69,69,0.6);
 }
 .contain-to-grid.transparent {

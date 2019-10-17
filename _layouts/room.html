@@ -67,9 +67,9 @@ layout: default
             </a>
           {% endif %}
 
-          {% assign nav_obj = site.data.nav | where:'section_id','works' | first %}
+          {% assign nav_obj = site.data.nav | where:'section_id','rooms' | first %}
 
-          <a href='{{ "index.html" | append:nav_obj.path | relative_url }}' title='back to work list'>
+          <a href='{{ "index.html" | append:nav_obj.path | relative_url }}' title='back to room list'>
             <i class='icon-layout'></i>
           </a>
 
@@ -89,4 +89,4 @@ layout: default
 
 {% include contact-form.html %}
 
-{% include social-networks.html %}
+{% include socials.html %}

@@ -78,13 +78,13 @@ jQuery(document).foundation();
 
 
     var defaultOpts = {
-      anchors: ["home", "philosophy", "services", "milestones", "works", "team", "blog", "contact"],
-      navigationTooltips: ["home", "philosophy", "services", "milestones", "works", "team", "blog", "contact"]
+      anchors: ["home", "philosophy", "services", "milestones", "rooms", "team", "blog", "contact"],
+      navigationTooltips: ["home", "philosophy", "services", "milestones", "rooms", "team", "blog", "contact"]
     };
 
     var personalOpts = {
-      anchors: ["home", "about", "services", "works", "blog", "contact"],
-      navigationTooltips: ["home", "about", "services", "works", "blog", "contact"]
+      anchors: ["home", "about", "services", "rooms", "blog", "contact"],
+      navigationTooltips: ["home", "about", "services", "rooms", "blog", "contact"]
     };
 
 
@@ -173,7 +173,7 @@ jQuery(document).foundation();
           data: $(form).serialize(),
           dataType: "json",
           success: function(data) {
-            if(data.success) {                          
+            if(data.success) {
               $(form).trigger('reset');
               $('#thanks').show().removeClass('hide').fadeOut(5000);
             }
@@ -332,7 +332,7 @@ jQuery(document).foundation();
     // inline_nav('#section4', '.box:not(.slick-cloned) .modBlogPost', '.box .modBlogPost a');
     // inline_nav('#section3', '.gallery li a', ".gallery li a");
 
-    // inline_nav('#demo-1-works', '.gallery li a', ".gallery li a");
+    // inline_nav('#demo-1-rooms', '.gallery li a', ".gallery li a");
 
     function inline_nav(context_sel, items_sel, clickable_items_sel) {
       var items = $(items_sel, $(context_sel));
@@ -1392,6 +1392,3 @@ jQuery(document).foundation();
     }
   })
 })(Tc.$);
-
-
-
