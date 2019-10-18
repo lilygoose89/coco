@@ -1,11 +1,18 @@
 ---
-thumbnail: "/assets/images/@stock/work-23.jpg"
+thumbnail: "/assets/images/rooms/51hometel/51hometelthumb2.jpg"
 slides:
-  - "/assets/images/@stock/big-work-5.jpg"
-  - "/assets/images/@stock/big-work-7.jpg"
+  - "/assets/images/rooms/51hometel/51hometel1.jpg"
+  - "/assets/images/rooms/51hometel/51hometel2.jpg"
+  - "/assets/images/rooms/51hometel/51hometel3.jpg"
+  - "/assets/images/rooms/51hometel/51hometel4.jpg"
+  - "/assets/images/rooms/51hometel/51hometel6.jpg"
+  - "/assets/images/rooms/51hometel/51hometel7.jpg"
+  - "/assets/images/rooms/51hometel/51hometel8.jpg"
+  - "/assets/images/rooms/51hometel/51hometel9.jpg"
+  - "/assets/images/rooms/51hometel/51hometel10.jpg"
 categories:
   - Serviced Apartment
-  - Nimmanhaemin
+  - Chang Puak
 link:
   text: 'Visit website'
   url: 'https://themeforest.net/category/static-site-generators/jekyll?ref=honryou'

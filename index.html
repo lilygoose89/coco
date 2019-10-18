@@ -16,14 +16,10 @@ services:
     bg: /assets/images/community.png
 rooms:
   - path: _rooms/51hometel-one-bedroom.md
-  - path: _rooms/51hometel-studio.md
+  - path: _rooms/one-o-six-coliving.md
   - path: _rooms/burisiri-hotel-deluxe-room.md
     style: wide
-  - path: _rooms/umbrella-beauty.md
-  - path: _rooms/amber.md
-  - path: _rooms/explore.md
-  - path: _rooms/uro-mag.md
-    style: wide
+  - path: _rooms/51hometel-studio.md
   - path: _rooms/burisiri-hotel-superior-room.md
 members:
   - avatar: /assets/images/@stock/member-7.png
@@ -196,7 +192,7 @@ clients:
 <div class='full'>
   <div class='row'>
     <div class='large-10 columns large-centered'>
-      {% include section-title.html small_title="See Our Rooms" title="Come Home to Chiang Mai" %}
+      {% include section-title.html small_title="Enjoy a Sneak Peak at Our Properties! Coming November 2019" title="Come Home to Chiang Mai" %}
     </div>
   </div>
 </div>
@@ -219,12 +215,13 @@ clients:
         {% endif %}
 
         <li class="{{class}}">
+          <!-- <a> -->
           <a href='{{ room.url | relative_url }}'>
             <img width="{{width}}" height="{{height}}" alt="" src="{{ room.thumbnail | relative_url }}" />
             <div class='overlay'>
               <div class='thumb-info'>
-                <h3>{{ room.title | downcase | capitalize }}</h3>
-                <p>{{ room.categories | join:" & " | escape }}</p>
+                <!-- <h3>{{ room.title | downcase | capitalize }}</h3> -->
+                <h3>{{ room.categories | join:" - " | escape }}</h3>
               </div>
             </div>
           </a>

@@ -1,8 +1,12 @@
 ---
-thumbnail: "/assets/images/@stock/work-21.jpg"
+thumbnail: "/assets/images/rooms/burisiri/burisirithumb.jpg"
 slides:
-  - "/assets/images/@stock/big-work-5.jpg"
-  - "/assets/images/@stock/big-work-7.jpg"
+  - "/assets/images/rooms/burisiri/burisirideluxe.jpg"
+  - "/assets/images/rooms/burisiri/burisiri1.jpg"
+  - "/assets/images/rooms/burisiri/burisiri2.jpg"
+  - "/assets/images/rooms/burisiri/burisiri3.jpg"
+  - "/assets/images/rooms/burisiri/burisiri5.jpg"
+  - "/assets/images/rooms/burisiri/burisiri4.jpg"
 categories:
   - Serviced Apartment
   - Nimmanhaemin
