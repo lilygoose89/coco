@@ -3,7 +3,7 @@
     {% include section-title.html small_title="contact" title="Get in touch with us!" %}
     <div class="grid-center" style="text-align: center;">
 
-      <div class="col-6_md-8_sm-10">
+      <!-- <div class="col-6_md-8_sm-10">
         <div class='form'>
             <form id='contact_form' class='dark' action="https://formspree.io/coco@startupchiangmai.com" method='POST'>
               <p id='thanks'>
@@ -20,7 +20,31 @@
               </div>
             </form>
         </div>
+      </div> -->
+
+      <div class="col-6_md-8_sm-10">
+        <form method="post" action="https://formspree.io/coco@startupchiangmai.com" id="contact-form">
+          <p id='thanks'>
+            Thanks for contacting us, we'll be in touch soon.
+          </p>
+          <div>
+            <input type="text" name="email" placeholder="Your email address...">
+          </div>
+          <div>
+            <input type="text" name="name" placeholder="Your name...">
+          </div>
+          <div>
+            <input class='required' name='subject' placeholder='Subject: What are you contacting us about?' type='text'>
+          </div>
+          <div>
+            <textarea name="message" placeholder="Your message..."></textarea>
+          </div>
+          <input type="hidden" name="_subject" value="{{ page.contact_settings.email_subject }}" />
+          <input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val="">
+          <input class='button white' type='submit' style="width: 100%;">
+        </form>
       </div>
+
 
     </div>
 </div>
