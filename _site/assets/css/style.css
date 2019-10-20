@@ -193,7 +193,7 @@ hr {
   background: #eee;
 }
 
-.full.yellow {
+.full.aqua {
   background: #6bd1c6;;
 }
 
@@ -526,11 +526,11 @@ ul.shortcode-list {
   color: #fff;
   background: #333; }
 
-.button.boxed.yellow {
+.button.boxed.aqua {
   color: #6bd1c6;
   border: 2px solid #6bd1c6; }
 
-.button.boxed.yellow:hover {
+.button.boxed.aqua:hover {
   color: #333;
   background: #6bd1c6; }
 
@@ -783,7 +783,7 @@ ul.shortcode-list {
 
 /* about intro */
 .section-title {
-  padding-top: 2.5%;
+  padding-top: 3.5%;
   text-align: center;
 }
 
@@ -912,7 +912,7 @@ form input.error, form textarea.error {
   margin-bottom: 30px; }
 
 #contact_form.dark {
-  width: 90%; }
+  width: 100%; }
   #contact_form.dark input[type="text"], #contact_form.dark input[type="password"], #contact_form.dark input[type="date"], #contact_form.dark input[type="datetime"], #contact_form.dark input[type="datetime-local"], #contact_form.dark input[type="month"], #contact_form.dark input[type="week"], #contact_form.dark input[type="email"], #contact_form.dark input[type="number"], #contact_form.dark input[type="search"], #contact_form.dark input[type="tel"], #contact_form.dark input[type="time"], #contact_form.dark input[type="url"], #contact_form.dark textarea {
     background: none;
     border: 1px solid #555;
@@ -1314,9 +1314,8 @@ form input.error, form textarea.error {
 
 /* fullscreen header */
 .home-video-wrapper {
- position: relative;
+  position: relative;
   top: -100px;
-  height: 100vh;
 }
 
 .fullscreen {
@@ -1345,7 +1344,9 @@ form input.error, form textarea.error {
   width: 100%;
   top: 0;
   left: 0;
-  height: 100%; }
+  height: 100%;
+}
+
 .fullscreen .layer {
   position: absolute;
   z-index: 4;
@@ -1426,10 +1427,12 @@ p.small-title {
     line-height: 1.6em;
     width: 50%;
   }
-
-  .fullscreen .layer h2 a {
-
+@media only screen and (max-width: 767px) {
+  .fullscreen .layer h2 {
+    width: 80%;
   }
+}
+
 
   .fullscreen .layer h2 a:hover {
     color: #fff;
@@ -1461,6 +1464,9 @@ p.small-title {
     width: 40px;
     font-size: 40px;
     color: #666; }
+
+
+.fullscreen .layer h2
 
 /* Services */
 .main-services {
@@ -2255,6 +2261,16 @@ body {
   text-align: center;
   z-index: 2;
 }
+
+@media only screen and (max-width: 767px) {
+  .slide-container {
+    height: 400px;
+  }
+  .slide-button {
+    top: 40vh;
+  }
+}
+
 .modBoxedTextSlider .box {
   padding: 50px 40px 50px;
   margin: 0 20px;
