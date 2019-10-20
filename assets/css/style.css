@@ -1318,6 +1318,7 @@ form input.error, form textarea.error {
 .home-video-wrapper {
   position: relative;
   top: -100px;
+  /* height: 100vh; */
 }
 
 .fullscreen {
@@ -3257,7 +3258,7 @@ body {
 .modIconText .icon-text-simple h3, .modIconText .icon-text-simple p {
   margin-left: 73px; }
 .modIconText .icon-text-advanced {
-  padding: 80px 100px;
+  padding: 60px 100px;
   color: #999;
   text-align: center;
   background: none; }
