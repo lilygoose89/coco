@@ -1,16 +1,33 @@
 ---
 layout: post
-title: Why Do Digital Nomads Choose Chiang Mai?
+title: Why Do Digital Nomads Like Chiang Mai?
 images:
   - /assets/images/@stock/blog-1.jpg
   - /assets/images/@stock/blog-2.jpg
-author: honryou
+author: Lily
 categories:
-  - misc
-  - update
-comments: true
+  - Chiang Mai
+  - Nomad List
+comments: false
 tags:
-  - news
-  - javascript
 ---
 
+Intro
+
+Well-Developed Travel Insfrastructure
+
+Great Weather
+
+Beautiful Natural Surroundings
+
+Friendly People
+
+Delicious Food
+
+Low Cost of Living
+
+A Great Place to Connect With Talent
+
+Blazing-fast WiFi
+
+&nbsp;
