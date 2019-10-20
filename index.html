@@ -67,11 +67,14 @@ members:
     desc:
       "Jone started designing web sites back in 1992. Since then, he has worked for a wide range of digital agencies in the UK and America. At Wrap, Jone’s role means solving all kinds of visual design problems."
 
-team_slides:
-  - /assets/images/@stock/slide-full-1.jpg
-  - /assets/images/@stock/slide-full-8.jpg
-  - /assets/images/@stock/slide-full-11.jpg
-  - /assets/images/@stock/slide-full-10.jpg
+photo_slides:
+  - /assets/images/rooms/oldtale/oldtale12.jpg
+  - /assets/images/rooms/51hometel/51hometel8.jpg
+  - /assets/images/rooms/burisiri/burisiri4.jpg
+  - /assets/images/rooms/oldtale/oldtale7.jpg
+  - /assets/images/rooms/51hometel/51hometel10.jpg
+  - /assets/images/rooms/oldtale/oldtale5.jpg
+  - /assets/images/rooms/51hometel/51hometel6.jpg
 
 testimonials:
   - quote: "Reprehenderit eos et non et ut eum reprehenderit quis sequi quia vel repellendus id. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est. Velit quit blanditiis dolor quam error eos dolores sequi eaque rerum est."
@@ -188,6 +191,23 @@ clients:
 </div>
 
 
+<div class="full no-padding">
+  <div class="slide-button">
+    <a href="#rooms" class="button small">See Our Rooms</a>
+  </div>
+  <div class='mod modBoxedSlider' data-timeout='1500'>
+    <div class='slides'>
+      {% for image in page.photo_slides %}
+        <div class='slide'>
+          <div class="slide-container" style="background-image: url({{ image | relative_url }})">
+            <!-- <img alt="" src="{{ image | relative_url }}" /> -->
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
 <a id='rooms'></a>
 <div class='full'>
   <div class='row'>
@@ -215,8 +235,8 @@ clients:
         {% endif %}
 
         <li class="{{class}}">
-          <!-- <a> -->
-          <a href='{{ room.url | relative_url }}'>
+          <a>
+          <!-- <a href='{{ room.url | relative_url }}'> -->
             <img width="{{width}}" height="{{height}}" alt="" src="{{ room.thumbnail | relative_url }}" />
             <div class='overlay'>
               <div class='thumb-info'>
@@ -238,19 +258,17 @@ clients:
     <div class='large-8 columns'>
       <h3 class="white">Tell us about your perfect room!</h3>
       <p>
-        We're getting ready to launch in November 2019 and finalizing the list of our partner properties. Have a preferred part of town or must-have amenities? Let us know and we'll let you as soon as we have a room that fits your budget and needs!
+        We're getting ready to launch in November 2019 and finalizing the list of our partner properties. Have a preferred part of town or must-have amenities? Let us know and we'll let you know as soon as we have a room that fits your budget and needs!
       </p>
     </div>
     <div class='large-4 columns'>
       <p>
-        <a class='button small boxed' href='#'>Make Your Room Request</a>
+        <a class='button small boxed' href='https://forms.gle/XUNjmVwT7ZDQsTBU7' target="blank">Make Your Room Request</a>
       </p>
     </div>
   </div>
   <div class='two spacing'></div>
 </div>
-
-{% include socials.html %}
 
 <!-- <a id='team'></a>
 <div class='full dark-grey'>
@@ -295,21 +313,10 @@ clients:
     {% endfor %}
   </div>
   <div class="four spacing"></div>
-</div>
-<div class="full no-padding">
-  <div class='mod modBoxedSlider' data-timeout='1500'>
-    <div class='slides'>
-      {% for image in page.team_slides %}
-        <div class='slide'>
-          <img width="1200" height="800" alt="" src="{{ image | relative_url }}" />
-        </div>
-      {% endfor %}
-    </div>
-  </div>
 </div> -->
 
 
-<a id='blog'></a>
+<!-- <a id='blog'></a>
 <div class='full grey'>
   <div class='row'>
     <div class='large-8 columns large-centered'>
@@ -333,7 +340,9 @@ clients:
       <div class="four spacing"></div>
     </div>
   {% endfor %}
-</div>
+</div> -->
+
+{% include socials.html %}
 
 <!-- <div class='full no-overflow no-padding parallax' style="background-image: url({{ "/assets/images/@stock/customers-bg.jpg" | relative_url }})">
   <div class="left-half">

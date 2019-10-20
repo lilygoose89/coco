@@ -785,6 +785,7 @@ ul.shortcode-list {
 
 /* about intro */
 .section-title {
+  padding-top: 2.5%;
   text-align: center;
 }
 
@@ -2243,6 +2244,19 @@ body {
 .modBoxedSlider img {
   width: 100%; }
 
+.slide-container {
+  overflow: hidden;
+  background-size: cover;
+  width: auto;
+  height: 100vh;
+}
+.slide-button {
+  height: 0px;
+  position: relative;
+  top: 50vh;
+  text-align: center;
+  z-index: 2;
+}
 .modBoxedTextSlider .box {
   padding: 50px 40px 50px;
   margin: 0 20px;
