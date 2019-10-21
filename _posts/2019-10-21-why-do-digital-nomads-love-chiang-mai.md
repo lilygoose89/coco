@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Do Digital Nomads Choose Chiang Mai?
+title: Why Do Digital Nomads Love Chiang Mai?
 images:
   - /assets/images/wat.jpg
 author: Lily
@@ -10,15 +10,15 @@ comments: false
 tags:
 ---
 
-Thailand's second city and its undisputed cultural capital. Take a gander at the endless temples and scenic mountains and it's no wonder why Chiang Mai draws millions of visitors a year. Once you taste your first kao soi or sai-ua sausage, you'll also start to understand why many never leave.
+Thailand's second city and its undisputed cultural capital. Take a gander at the endless temples and scenic mountains and it's no wonder why Chiang Mai draws millions of visitors a year. Once you taste your first kao soi or discover your first hidden-gem cafe, you'll also start to understand why many never leave.
 
 But why is it that digital nomads are so obsessed with Chiang Mai? While its ranking wobbles up and down seasonally, you'll almost always [find Chiang Mai topping the charts on the like of Nomad List](https://nomadlist.com/best-cities-for-digital-nomads){: target="_blank"}, and anyone who's been "nomadding" it up for a while is sure to have the city on their radar.
 
-There are scores of blog posts and videos on the topic, so to make this worth publishing, we're gonna help add some context. We've got your classic checklist for essntial reading, but we'll also give you the why of it.
+There are scores of blog posts and videos on the topic, so to make this worth publishing, we're gonna help add some context. We've got your classic checklist for essential reading, but we'll also give you the why of it.
 
 Any nincompoop can show up and get a good sense of the why for themselves (or hire someone on Upwork to research and regurgitate their own version of course), but with our history here, we hope to add a little more nuance. How did these things come about, how have they changed over time, and how unique are these factors really?
 
-So without further ado, here are the ten reasons why Chiang Mai is such a beloved digital nomad hotspot.
+So without further ado, here are the twelve reasons why Chiang Mai is such a beloved digital nomad hotspot.
 
 ## 1\. Well-Developed Travel Insfrastructure
 
@@ -26,11 +26,11 @@ Let's start with a big round of applause for dear old CNX. For those not in the 
 
 It's a given that good airport connections are important to the location independent entrepreneur with a penchant for country-hopping, so the ability to come and go easily is one of the top reasons for Chiang Mai's popularity.
 
-It might seem like a small thing, but heading out to the airport from other Thai cities like takes time. Bangkok? Good luck getting in or out during rush hour which last basically half the day. Phuket? Pattaya? That's a looooong drive my friend. Anywhere in the islands? You've got ferries to contend with if not also extra connecting flights.
+It might seem like a small thing, but heading out to the airport from other Thai cities takes time. Bangkok? Good luck getting in or out during rush hour which lasts basically half the day. Phuket? Pattaya? That's a looooong drive my friend. Anywhere in the islands? You've got ferries to contend with if not extra connecting flights.
 
 In Chiang Mai, most of us live within 30 minutes of the airport. 30 minutes is also about the time you typically need to allot to going through security (if you're fond of living on the edge). It's pretty easy breezy all around.
 
-[CNX takes you directly to most anywhere you want to go in Thailand and tons more destinations abroad](https://www.flightconnections.com/flights-from-chiang-mai-cnx){: target="_blank"} courtesy of Air Asia and other budget-friendly airlines.&nbsp; Coming here from North America or Europe? You might be able to get away with just a single layover thanks to long-hauls from the likes of Emirates, Korean Air (codeshared with Delta), EVA Air, and Cathay Pacific.
+[CNX takes you directly to most anywhere you want to go in Thailand and tons more destinations abroad](https://www.flightconnections.com/flights-from-chiang-mai-cnx){: target="_blank"} courtesy of Air Asia and other budget-friendly airlines.&nbsp; Coming and going from North America or Europe? You might be able to get away with just a single layover thanks to long-hauls from the likes of Emirates, Korean Air (codeshared with Delta), EVA Air, and Cathay Pacific.
 
 While you may be maddened by the noise of airplanes constantly flying overhead when you're living here, its the price we pay to be able to so effortlessly hop and bop around Southeast Asia and the rest of the world. Essential for a city that caters to the nomad set.
 
@@ -58,25 +58,47 @@ If you truly do want to escape though, there are jungle homestays, remote retrea
 
 Few travellers come all the way to Thailand without taking advantage of its natural delights, but it has been our experience that an astonishing number of digital nomads miss out on this aspect entirely, spending all their time within the few blocks that surround their apartment and coworking space.
 
-Those that fall in love with Chiang Mai often cite nature, the mountains and our beautiful surroundings as one of the city's most enchanting qualities, so we highly recommend making the time to truly experience it.
+Those that fall in love with Chiang Mai often cite nature, the mountains and our beautiful surroundings as one of the city's most enchanting qualities, so we highly recommend taking the time to truly experience it.
 
 ## 4\. People Are Friendly
 
 Truly connecting with Thailand also means connecting with its people. Known as the Land of Smiles, this moniker is one visitors can easily confirm. Hospitality and manners are deeply important to Thais and the country has long been developed for tourism, so everywhere you go you can find friendly people ready to help you.
 
-Beyond the gracious hospitality, Thais have a very live and let live attitude that makes it easy for people from very different backgrounds to feel like they have a place here. While the behavior of Westerners may often elicit a raised eyebrow, it will be accompanied by the Thai smile.
+Beyond the gracious hospitality, Thais have a very live and let live attitude that makes it easy for people from very different backgrounds to feel like they have a place here. While the behavior of some Westerners may elicit a raised eyebrow, it will be accompanied by an accommodating Thai smile. "Mae pen rai," as we say. No worries, you do you.
 
-For the oddballs, geeks, and outsiders who never feel like they fit in at home, Chiang Mai is a haven, and the city boasts a very eclectic and intellectual expat community. For anybody who's just bursting with creative expression or just likes to be a little outrageous, welcome, you will find your weirdos here.&nbsp;
+For the oddballs, geeks, and outsiders who never feel like they fit in at home, Chiang Mai is a haven and the city boasts a very eclectic and intellectual expat community. For anybody who's bursting with creative expression or just likes to be a little outrageous, welcome, you will find your weirdos here.&nbsp;
 
-Thai people are very friendly, but it's also the long-standing expat community that makes Chiang Mai such a great place for digital nomads. The city has long been home to English Teachers, NGO workers, and a thriving int'l business community. The first wave of the digital nomads movement were the tech workers who relocated to Chiang Mai which has long been a destination for software outsourcing.
+Thai people are very friendly, but it's also the long-standing expat community that makes Chiang Mai such a great place for digital nomads. The city has long been home to English Teachers, NGO workers, and a thriving int'l business community. The first wave of the digital nomad movement were the tech workers who relocated to Chiang Mai which has long been a destination for software outsourcing.
 
 Get to know the locals, we're a weird, wonderful bunch and you might be surprised at the tech, innovation, and entrepreneurship that's happening outside the nomad scene.
 
 ## 5\. Making Friends is Easy
 
+It's one thing for the lady who sells you your daily coconut or avocado smoothie to be smiley, it's another thing entirely to be able to make friends. In Thailand's most touristy destinations, many expats feel the Thai smile is cheapened by the lack of genuine connection. It's hard crossing cultural boundaries to make friends, but in Chiang Mai it's easy to find community.
+
+Have we mentioned we've got lots of oddballs and creatives here? Whatever your hobby or pet project, there's almost certainly a meetup or event that supports it. And if there isn't? It's so easy to start your own thing. Having the space to explore these affinities equates to opportunities to find your tribe. Improv? Crypto? Ice-baths? Board games? Queer poetry?
+
+When you're travelling a lot, it's easy to feel lonely and disconnected, so being able to make friends and feel truly seen and heard is important. It also helps when you feel like those friendships aren't just passing.
+
+As a digital nomad hotspot, chances are really good that the friend you made in Berlin or Bali last year will come around at some point so you can reconnect. Your friendships may not be continuous, but they continue when Chiang Mai is one of your bases.
+
+While they're not that common yet (though trust us, we'll make them happen) coliving spaces also provide as easy way to slot into a community. More than just move-in ready rentals, they're a place where casual conversations in the shared kitchen can deepen into real friendships.
+
+And if it's the local Thai community you want to connect with? Honestly, Tinder is the easiest way to start making connections, though the quality of these encounters romntic or not can be hit and miss. If you work on your spoken Thai and make an effort to escape the nomad bubbles though, Thais are a welcoming lot. People can be shy and nervous because they don't speak English well, but attitudes are quite welcoming of foreigners.
+
 ## 6\. You're Surrounded By Talent
 
-.
+Beyond friendships and hobbies, Chiang Mai is also a great place to meet people who can help you to level up.
+
+This is the real magic of Chiang Mai for digital nomads. If you want a crash course on how to get into the SEO and affiliate marketing game or how to set up your Amazon FBA empire, there is an incredible wealth of knowledge you can absorb. Yes, there's ots of people who will try to sell you on their course or coaching, but theres as many or more people who will share their time and talent with you for free.
+
+People like being good at stuff, and we've got a lot of people here who are at the top of their game. it's like they almost can't help themselves when they see somebody sturggling with something that's so easy for them. Why not help?They're already crushing it and they're not threatened that some noob might run off with their secrets.
+
+Our experience has been that established entrepreneurs and professionals are super generous with their time and knowledge here. It feeds a virtuous circle where mentors and masterminds groups are easy to find because people pay it forward. The city has web development and marketing experts galore. Experienced entrepreneurs and consultants for all areas of business.
+
+If you want a free crash course, just hang around the watercooler at a coworking space or show up at a few meetups. And if you want to pay for the real deal? We've got experts at the top of their game you can hire if you've got the coin, as well as freelancers just starting out willing to cut a good deal or who'll work for trade.
+
+The networking opportunities here are insane. The hard part isn't so much meeting people, it's balancing the time to actually get work done with all the opportunities to learn and grow. Fortunately there are also plenty of accountability groups to join and productivity workshops too...
 
 ## 7\. There's Support for Personal Development
 
