@@ -6,7 +6,6 @@ images:
 author: Lily
 categories:
   - Chiang Mai
-  - Nomad List
 comments: false
 tags:
 ---
@@ -93,13 +92,13 @@ Eat healthy, wholesome food, go vegan or Paleo. Try yoga, Crossfit or pole dance
 
 ## Low Cost of Living
 
-## Easy Visa Options for Longstays
+## Easy Visa Options
 
-Ok, ok, hold your horses\! We can practically hear you long-timers screaming your dissent from across the web. If you've been here a while, you know that it has, in actuality, become significantly harder to spend long stretches of time in Thailand as the immigration department has tightened up visa controls.
+Ok, ok, hold your horses\! We can practically hear you long-timers screaming your dissent from across the web. If you've been here a while, you know that it has, in actuality, become harder to spend long stretches of time in Thailand as the immigration department has tightened up visa controls and, ya know, actually enforced rules and such.
 
-What's also true though, is that a significant number of passports, especially those from Europe and North America, are able to enter Thailand visa-free. It's quite common for people to arrive, get stamped in, and then simply apply for an extension to add another 30 days to their initial 30 or 60, all without ever having to make an embassy appointment or pay a fee.
+What's also true though, is that a significant number of passports, especially those from Europe and North America, are able to enter Thailand visa-free. It's quite common for people to arrive, get stamped in, and then simply apply for an extension to add another 30 days to the first 30 you're given, all without ever having to make an embassy appointment or pay a fee. Apply for a tourist visa ahead of time and you can start with 60 days.
 
-If you're coming for the first time or you're a classic digital nomad who's constantly on the go, this is great. For those of you who are more into slow-travel or if trying to make Chiang Mai your hub, however, Thailand's current visa situation does leave a lot to be desired.
+If you're coming for the first time or you're a classic digital nomad who's constantly on the go, this is great. For those of you who are more into slow-travel or working to make Chiang Mai your hub, however, Thailand's current visa situation does leave a lot to be desired.
 
 For a loooooong time, it was easy to swan into the country and when your stay was up, just border hop to Mae Sai, Vientiane, Penang, Bali, Hanoi or any number of nearby spots and then mosey back in for a fresh stamp. Alas, these golden years are over. This easy movement is absolutely one of the factors that helped make Chiang Mai a hub for digital nomads, but a little more effort is required these days.
 
@@ -108,6 +107,16 @@ We'll save the details on the many options for extending your stay in Thailand l
 Efforts on both the local and national level are in place to push for more nomad-friendly visa options (and you can help these move forward by [contributing to a survey on the Economic Impact of Digital Nomads in Chiang Mai](https://docs.google.com/forms/d/e/1FAIpQLSceB-ZX_nBstr5P6XExdxofVpxadse-MKrmtuyN6xq2qg5xnw/viewform?usp=sf_link){: target="_blank"}) so while we wait on the government to get immigration in line with national policies for attracting talent, you've got options and [we've got your back when it comes to visa services](https://www.facebook.com/mjandco.th/){: target="_blank"}.
 
 ## Blazing-fast WiFi
+
+Lastly, of course, no list of why Chiang Mai caters so well to digital nomads would be complete without acknowledging the importance of great motherf\*\*\*ing WiFi. It's not optional, and [Chiang Mai's internet speeds](https://www.speedtest.net/global-index/thailand){: target="_blank"}&nbsp;and coverage are solid.
+
+In other nomad hotspots like Bali, coworking spaces offer the antidote to insfrastructure issues like power cuts and sh\*\*ty WiFi, but in Chiang Mai, you never have to worry. Thailand has an excellent telecom infrastructure and wherever you may wander, you won't be far from WiFi.
+
+It's available for free at nearly all accommodations, cafes, restaurants, massage shops, nail salons and more. Cheap data-plans and extensive 4G coverage mean that your phone is always connected and can act as a WiFi hotspot too.
+
+At coworking spaces you'll typically have access to multiple networks for backup and those who prefer to work from their home office will have no trouble setting up private internet without the need for a long-term contract.
+
+Whether you prefer the phrase "digital nomad" or "location independent" the crux is that you rely on your laptop and WiFi to enable your lifestyle. Chiang Mai has excellent internet, making it an ideal place from which to live and work.
 
 \---
 
