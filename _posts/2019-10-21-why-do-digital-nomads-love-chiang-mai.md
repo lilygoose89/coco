@@ -114,21 +114,39 @@ Eat healthy, wholesome food, go vegan or Paleo. Try yoga, Crossfit or pole dance
 
 ## 8\. The Food is Goddamn Delicious
 
-Speaking of healthy eating - how has it taken us so long to get to Thai food? Chiang Mai has Thai food in abundance, and it's all delicious and affordable. Thanks to fresh quality ingredients, a lot of it's pretty damn good for you too.&nbsp;
+Speaking of healthy eating - how has it taken us so long to get to Thai food? Chiang Mai has Thai food in abundance, and it's all delicious and affordable. Thanks to fresh quality ingredients, a lot of it's pretty damn good for you too.
 
-And if you're a soulless monster and Thai food's not your thing? Well, you can stil eat really well here for a fraction of what you might expect to spend at home.
+Have you tried Chiang Mai's signature dish, kao soi, yet? A creamy, mildly spiced broth and slippery delicious egg noodles paired with fall-off-the-bone braised meat? Yuuummmm. Or sai ua sausages filled with spices and herbs? They pair with sticky rice a treat\! And then there's Thai fruit, the bounty of the tropics knows no bounds, and there's nothing like enjoying fresh fruit at its seasonal best, whether that's mangos and mangosteen or lychee and longan. It's mouthwatering stuff, be excited.
 
-Avocado toast for $2. Decadent smoothies bowls full of superfood for $5.&nbsp;
+And if you're a soulless monster and Thai food and fruits are not your thing? Well, you can still eat really well here, and for a fraction of what you might expect to spend at home. We've got brunch spots with avocado toast, fancy French restaurants, sublime sushi, and damn good tacos too. If you fancy a taste of home, there are plenty of Western style supermarkets stocked with many things you'd expect from Publix or M&S (but it might cost you a pretty penny thanks to import duties).&nbsp;
 
-Ask anybody who's been here a while why the love Thailand so much, and the food's sure to be part of it. Afterall, you are what you eat, and we spend a significant amount of our lives eating, so when this part's enjoyable and good for you, it's a pretty good foundation for your life, wouldn't you say?
+For those focused on maximising their productivity, you can get healthy meal deliveries and lots of coworking spaces either have restaurants onsite or they hook you up with vendors nearby so you don't even need to leave your desk (though we recommend you do so every now and then for rest and variety\!).
+
+Ask anybody who's been here a while why the love Thailand so much, and the food's sure to be part of it. We have it in vast quantities, at great quality and in infinite varieties. Afterall, you are what you eat, and we spend a significant amount of our lives eating, so when this part's enjoyable and good for you, it's a pretty good foundation for your life, wouldn't you say?
 
 ## 9\. A Great Lifestyle is Affordable
 
-It's not that Chiang Mai is the absolute cheapest place to live, but ther eare so many options at every pricepoint offering tremendous value for money.
+Food is just one of the many things that are is cheap and of good value in Chiang Mai. Essentials like transport, haircuts, and gyms are cheap, and even luxuries like dining out, massages and spas are shockingly affordable.
+
+It's not that Chiang Mai is the absolute cheapest place to live, but there are so many options at every pricepoint offering tremendous value for money. You can essentially name your budget for food, whether that's $1 or $100 and there's a place to go in Chiang Mai.
+
+The same applies to finding a place to live. You can rent studio apartment for&nbsp; $150 or even enjoy luxury coliving with a pool and coworking space onsite for less than $1000 a month. Name your price and you can find it. Of course, you might struggle to match your exact budget with your desired amenities and neighborhood, but the options and range are plentiful.
+
+Affordability is, of course, important for the digital nomad or loction independent entrepreneur for two reasons. The first is that your money goes further. While the value of the baht is currently up, your money will still go a lot further here than it would if you were living in London or New York while trying to build up your business.
+
+The second reason? Well frankly it gives you the option to work less, if that's what you want. So many of us get sucked into a life built around work at the expense of health, happiness and personal fulfillment. The ability to ease off the gas for a bit to explore your options and know that you're not going to starve or end up on the street is exactly what you need to start designing your dream life and taking a chance on that business idea or passion project.
 
 ## 10\. It's Easy to Get Around
 
-Try living in Bangkok where it takes half an hour to get anywhere and you can easily lose a third of your day just to travel. if you work form home, thsi is fine of course, but then what kind of life is that?
+Whether you have only stolen moments in between professional projects or loads of free time to spend, time is still valuable, and you don't want to waste it commuting or being stuck in traffic. Blessedly, Chiang Mai is small and at its absolute worst, you might end up spending 40 minutes instead of 20 driving from one end of town to the other.
+
+Try living in Bangkok where it takes half an hour to get anywhere and you can easily lose a third of your day just to travel. If you work from home, this is fine of course, but then what kind of life is that? Being able to get out and explore leads to a fuller, richer life, and Chiang Mai's got lots to explore.
+
+While the city is lacking in good public transport, it's still very easy to get around. Central neighborhoods like the Old City, Nimmanhaemin and Santitham are highly walkable, with shops and cafes in abundance. With just a bicycle, you can access the majority of the city's amenities.
+
+Rent a motorbike and your options extend even further\! Though it can be dangerous to drive on Thailand's roads, this option is highly recommended. The freedom to get around on your own terms opens the city up tremendously.
+
+If you'd rather not face the hazards, no problem. You can get around on public buses, the Red Trucks which function as ad hoc public transport, or hire a taxi via Grab (the Southeast Asian equivalent of Uber).
 
 ## 11\. Easy Visa Options
 
