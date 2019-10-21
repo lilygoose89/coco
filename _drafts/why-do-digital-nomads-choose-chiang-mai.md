@@ -93,10 +93,28 @@ Eat healthy, wholesome food, go vegan or Paleo. Try yoga, Crossfit or pole dance
 
 ## Low Cost of Living
 
-## Blazing-fast WiFi
-
 ## Easy Visa Options for Longstays
 
-&nbsp;
+Ok, ok, hold your horses\! We can practically hear you long-timers screaming your dissent from across the web. If you've been here a while, you know that it has, in actuality, become significantly harder to spend long stretches of time in Thailand as the immigration department has tightened up visa controls.
 
-why digital nomads have chosen and continue to choose Chiang Mai
+What's also true though, is that a significant number of passports, especially those from Europe and North America, are able to enter Thailand visa-free. It's quite common for people to arrive, get stamped in, and then simply apply for an extension to add another 30 days to their initial 30 or 60, all without ever having to make an embassy appointment or pay a fee.
+
+If you're coming for the first time or you're a classic digital nomad who's constantly on the go, this is great. For those of you who are more into slow-travel or if trying to make Chiang Mai your hub, however, Thailand's current visa situation does leave a lot to be desired.
+
+For a loooooong time, it was easy to swan into the country and when your stay was up, just border hop to Mae Sai, Vientiane, Penang, Bali, Hanoi or any number of nearby spots and then mosey back in for a fresh stamp. Alas, these golden years are over. This easy movement is absolutely one of the factors that helped make Chiang Mai a hub for digital nomads, but a little more effort is required these days.
+
+We'll save the details on the many options for extending your stay in Thailand long-term for its own post (Education Visas, the Elite Visa, hacking multiple passports etc.), but the gist is, plan ahead, or plan to keep moving.
+
+Efforts on both the local and national level are in place to push for more nomad-friendly visa options (and you can help these move forward by [contributing to a survey on the Economic Impact of Digital Nomads in Chiang Mai](https://docs.google.com/forms/d/e/1FAIpQLSceB-ZX_nBstr5P6XExdxofVpxadse-MKrmtuyN6xq2qg5xnw/viewform?usp=sf_link){: target="_blank"}) so while we wait on the government to get immigration in line with national policies for attracting talent, you've got options and [we've got your back when it comes to visa services](https://www.facebook.com/mjandco.th/){: target="_blank"}.
+
+## Blazing-fast WiFi
+
+\---
+
+Phew\! You made it. It's a long list, we know.
+
+As locals and natives, perhaps we're a little biased here at CoCo as to all the reasons our city is so great, but it doesn't seem hard to understand why digital nomads have chosen and continue to choose Chiang Mai. It's got everything you need to live, work, play, and lead your best life. And afterall, that's what embarking upon this digital nomad path is all about isn't it? Having the freedom and the flexibility to design your dream life.&nbsp;
+
+If you're a newbie nomad, you could do far worse than choose Chiang Mai as base from which to build your business and begin your travels. Those who've been around the block (or rather the globe...) a couple times will continue to find tremendous value in the city, whether it be from its amenities or it's talented community.
+
+At CoCo, we're obsessed with our hometown and we want you to love it as much as we do. That's why we've designed services, programs, and partnerships specifically to tap you into the best the city has to offer. Our dream is that digital nomads can continue to connect here, bringing their talent, their ideas and their creativity to&nbsp;
