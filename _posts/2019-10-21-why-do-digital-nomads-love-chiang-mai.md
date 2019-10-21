@@ -108,11 +108,19 @@ Creating something out of nothing takes grit, perserverance, and a constant abil
 
 Fortunately, Chiang Mai's an incredible place to do the self work that can prime you for, not just professional success, but greater satisfaction in life. Whether your brand of woo woo leans more towards crystals or NLP, you'll find experts, coaches, and support groups galore in Chiang Mai.
 
-Thailand's long been a destination for spirituality and wellness and something of this manages to seep into the day to day of life here, no matter which crowd you run with. People here talk about setting boundaries, self-care, meditation and emotional intelligence in the same breath they lay out their plans for taking over the world (or highly lucrative niche)&nbsp;
+Thailand's long been a destination for spirituality and wellness and something of this manages to seep into the day to day of life here, no matter which crowd you run with. People here talk about setting boundaries, self-care, meditation and emotional intelligence in the same breath they lay out their plans for taking over the world (or their highly lucrative niche).
 
 Eat healthy, wholesome food, go vegan or Paleo. Try yoga, Crossfit or pole dance. Go to a bio-hacking meetup, embark on a silent meditation retreat, or delve into Thai massage. When it comes to nurturing the mind, body, and spirit, Chiang Mai's got you covered.
 
 ## 8\. The Food is Goddamn Delicious
+
+Speaking of healthy eating - how has it taken us so long to get to Thai food? Chiang Mai has Thai food in abundance, and it's all delicious and affordable. Thanks to fresh quality ingredients, a lot of it's pretty damn good for you too.&nbsp;
+
+And if you're a soulless monster and Thai food's not your thing? Well, you can stil eat really well here for a fraction of what you might expect to spend at home.
+
+Avocado toast for $2. Decadent smoothies bowls full of superfood for $5.&nbsp;
+
+Ask anybody who's been here a while why the love Thailand so much, and the food's sure to be part of it. Afterall, you are what you eat, and we spend a significant amount of our lives eating, so when this part's enjoyable and good for you, it's a pretty good foundation for your life, wouldn't you say?
 
 ## 9\. A Great Lifestyle is Affordable
 
