@@ -10,6 +10,9 @@
 - name: Book a Room
   path: "#rooms"
   section_id: rooms
+- name: Blog
+  path: "#blog"
+  section_id: blog
 - name: Contact
   path: "#contact"
   section_id: contact
