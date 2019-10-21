@@ -174,7 +174,7 @@ At coworking spaces you'll typically have access to multiple networks for backup
 
 Whether you prefer the phrase "digital nomad" or "location independent" the crux is that you rely on your laptop and WiFi to enable your lifestyle. Chiang Mai has excellent internet, making it an ideal place from which to live and work.
 
-\-–
+&nbsp;
 
 Phew\! You made it. It's a long list, we know.
 
