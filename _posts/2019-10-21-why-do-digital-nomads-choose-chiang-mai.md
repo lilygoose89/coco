@@ -88,9 +88,13 @@ Thailand's long been a destination for spirituality and wellness and something o
 
 Eat healthy, wholesome food, go vegan or Paleo. Try yoga, Crossfit or pole dance. Go to a bio-hacking meetup, embark on a silent meditation retreat, or delve into Thai massage. When it comes to nurturing the mind, body, and spirit, Chiang Mai's got you covered.
 
+## Making Friends is Easy
+
 ## Delicious Food
 
 ## Low Cost of Living
+
+## It's Easy to Get Around
 
 ## Easy Visa Options
 
