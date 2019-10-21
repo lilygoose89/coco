@@ -20,7 +20,7 @@ Any nincompoop can show up and get a good sense of the why for themselves (or hi
 
 So without further ado, here are the ten reasons why Chiang Mai is such a beloved digital nomad hotspot.
 
-## Well-Developed Travel Insfrastructure
+## 1\. Well-Developed Travel Insfrastructure
 
 Let's start with a big round of applause for dear old CNX. For those not in the know, that's the airport code for Chiang Mai International Airport, the gateway to the city.
 
@@ -34,7 +34,7 @@ In Chiang Mai, most of us live within 30 minutes of the airport. 30 minutes is a
 
 While you may be maddened by the noise of airplanes constantly flying overhead when you're living here, its the price we pay to be able to so effortlessly hop and bop around Southeast Asia and the rest of the world. Essential for a city that caters to the nomad set.
 
-## Great Weather
+## 2\. The Weather is Great
 
 Thailand is a sunny, tropical destination. Do we really need to explain further? Temperatures range from a sizzling 36&deg;C in the summer ([which we very sensibly cope with by breaking out into a city-wide water fight](https://en.wikipedia.org/wiki/Songkran_&#40;Thailand&#41;){: target="_blank"}) to an adorably nippy 15&deg;C during "winter" nights and mornings.
 
@@ -46,7 +46,7 @@ That said, we Thais believe in airconditioning, so you're always able to escape 
 
 High season for tourism corresponds closely with the time of year when digital nomads are in Chiang Mai, from November through February. It's the best time to be here. Sunny warm days and refreshingly cool evenings and nights when you might even - gasp\! - want a sweater.
 
-## Beautiful Natural Surroundings
+## 3\. We're Surrounded By Natural Beauty
 
 As mentioned above, Chiang Mai's great weather lends itself to fun in the outdoors, and you absolutely must get out into the scenic countryside and hills of the province.
 
@@ -60,7 +60,7 @@ Few travellers come all the way to Thailand without taking advantage of its natu
 
 Those that fall in love with Chiang Mai often cite nature, the mountains and our beautiful surroundings as one of the city's most enchanting qualities, so we highly recommend making the time to truly experience it.
 
-## Friendly People
+## 4\. People Are Friendly
 
 Truly connecting with Thailand also means connecting with its people. Known as the Land of Smiles, this moniker is one visitors can easily confirm. Hospitality and manners are deeply important to Thais and the country has long been developed for tourism, so everywhere you go you can find friendly people ready to help you.
 
@@ -72,11 +72,13 @@ Thai people are very friendly, but it's also the long-standing expat community t
 
 Get to know the locals, we're a weird, wonderful bunch and you might be surprised at the tech, innovation, and entrepreneurship that's happening outside the nomad scene.
 
-## A Great Place to Connect With Talent
+## 5\. Making Friends is Easy
+
+## 6\. You're Surrounded By Talent
 
 .
 
-## Support for Personal Development
+## 7\. There's Support for Personal Development
 
 If you've been at this entrepreneurship game for any amount of time, you've probably started to realize that success isn't just about hard work and the perfect funnel, it has a lot more to do with personal and interpersonal skills.&nbsp;
 
@@ -88,15 +90,17 @@ Thailand's long been a destination for spirituality and wellness and something o
 
 Eat healthy, wholesome food, go vegan or Paleo. Try yoga, Crossfit or pole dance. Go to a bio-hacking meetup, embark on a silent meditation retreat, or delve into Thai massage. When it comes to nurturing the mind, body, and spirit, Chiang Mai's got you covered.
 
-## Making Friends is Easy
+## 8\. The Food is Goddamn Delicious
 
-## Delicious Food
+## 9\. A Great Lifestyle is Affordable
 
-## Low Cost of Living
+It's not that Chiang Mai is the absolute cheapest place to live, but ther eare so many options at every pricepoint offering tremendous value for money.
 
-## It's Easy to Get Around
+## 10\. It's Easy to Get Around
 
-## Easy Visa Options
+Try living in Bangkok where it takes half an hour to get anywhere and you can easily lose a third of your day just to travel. if you work form home, thsi is fine of course, but then what kind of life is that?
+
+## 11\. Easy Visa Options
 
 Ok, ok, hold your horses\! We can practically hear you long-timers screaming your dissent from across the web. If you've been here a while, you know that it has, in actuality, become harder to spend long stretches of time in Thailand as the immigration department has tightened up visa controls and, ya know, actually enforced rules and such.
 
@@ -110,7 +114,7 @@ We'll save the details on the many options for extending your stay in Thailand l
 
 Efforts on both the local and national level are in place to push for more nomad-friendly visa options (and you can help these move forward by [contributing to a survey on the Economic Impact of Digital Nomads in Chiang Mai](https://docs.google.com/forms/d/e/1FAIpQLSceB-ZX_nBstr5P6XExdxofVpxadse-MKrmtuyN6xq2qg5xnw/viewform?usp=sf_link){: target="_blank"}) so while we wait on the government to get immigration in line with national policies for attracting talent, you've got options and [we've got your back when it comes to visa services](https://www.facebook.com/mjandco.th/){: target="_blank"}.
 
-## Blazing-fast WiFi
+## 12\. Blazing-fast WiFi
 
 Lastly, of course, no list of why Chiang Mai caters so well to digital nomads would be complete without acknowledging the importance of great motherf\*\*\*ing WiFi. It's not optional, and [Chiang Mai's internet speeds](https://www.speedtest.net/global-index/thailand){: target="_blank"}&nbsp;and coverage are solid.
 
@@ -122,12 +126,12 @@ At coworking spaces you'll typically have access to multiple networks for backup
 
 Whether you prefer the phrase "digital nomad" or "location independent" the crux is that you rely on your laptop and WiFi to enable your lifestyle. Chiang Mai has excellent internet, making it an ideal place from which to live and work.
 
-\---
+\-–
 
 Phew\! You made it. It's a long list, we know.
 
 As locals and natives, perhaps we're a little biased here at CoCo as to all the reasons our city is so great, but it doesn't seem hard to understand why digital nomads have chosen and continue to choose Chiang Mai. It's got everything you need to live, work, play, and lead your best life. And afterall, that's what embarking upon this digital nomad path is all about isn't it? Having the freedom and the flexibility to design your dream life.&nbsp;
 
-If you're a newbie nomad, you could do far worse than choose Chiang Mai as base from which to build your business and begin your travels. Those who've been around the block (or rather the globe...) a couple times will continue to find tremendous value in the city, whether it be from its amenities or it's talented community.
+If you're a newbie nomad, you could do far worse than choose Chiang Mai as base from which to build your business and begin your travels. Those who've been around the block (or rather the globe…) a couple times will continue to find tremendous value in the city, whether it be from its amenities or it's talented community.
 
 At CoCo, we're obsessed with our hometown and we want you to love it as much as we do. That's why we've designed services, programs, and partnerships specifically to tap you into the best the city has to offer. Our dream is that digital nomads can continue to connect here, bringing their talent, their ideas and their creativity to&nbsp;
