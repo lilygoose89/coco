@@ -69,13 +69,29 @@ Beyond the gracious hospitality, Thais have a very live and let live attitude th
 
 For the oddballs, geeks, and outsiders who never feel like they fit in at home, Chiang Mai is a haven, and the city boasts a very eclectic and intellectual expat community. For anybody who's just bursting with creative expression or just likes to be a little outrageous, welcome, you will find your weirdos here.&nbsp;
 
-Thai people are very friendly, but it's also the long-standing expat community that makes Chiang Mai such a great place for digital nomads. The first wave of this movement were the tech workers who relocated to Chiang Mai
+Thai people are very friendly, but it's also the long-standing expat community that makes Chiang Mai such a great place for digital nomads. The city has long been home to English Teachers, NGO workers, and a thriving int'l business community. The first wave of the digital nomads movement were the tech workers who relocated to Chiang Mai which has long been a destination for software outsourcing.
+
+Get to know the locals, we're a weird, wonderful bunch and you might be surprised at the tech, innovation, and entrepreneurship that's happening outside the nomad scene.
+
+## A Great Place to Connect With Talent
+
+.
+
+## Support for Personal Development
+
+If you've been at this entrepreneurship game for any amount of time, you've probably started to realize that success isn't just about hard work and the perfect funnel, it has a lot more to do with personal and interpersonal skills.&nbsp;
+
+Creating something out of nothing takes grit, perserverance, and a constant ability to problem-solve. The website and the ads are the easy part hon. What prevents most businesses from scaling and breaks apart founding teams? Poor communication and a lack of self-awareness.
+
+Fortunately, Chiang Mai's an incredible place to do the self work that can prime you for, not just professional success, but greater satisfaction in life. Whether your brand of woo woo leans more towards crystals or NLP, you'll find experts, coaches, and support groups galore in Chiang Mai.
+
+Thailand's long been a destination for spirituality and wellness and something of this manages to seep into the day to day of life here, no matter which crowd you run with. People here talk about setting boundaries, self-care, meditation and emotional intelligence in the same breath they lay out their plans for taking over the world (or highly lucrative niche)&nbsp;
+
+Eat healthy, wholesome food, go vegan or Paleo. Try yoga, Crossfit or pole dance. Go to a bio-hacking meetup, embark on a silent meditation retreat, or delve into Thai massage. When it comes to nurturing the mind, body, and spirit, Chiang Mai's got you covered.
 
 ## Delicious Food
 
 ## Low Cost of Living
-
-## A Great Place to Connect With Talent
 
 ## Blazing-fast WiFi
 
