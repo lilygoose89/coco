@@ -20,7 +20,7 @@ title: CoCo - Find serviced apartments Chiang Mai perfect for digital nomads.
 # email: your-email@example.com
 
 description: > # this means to ignore newlines until "baseurl:"
-CoCo is curated specifically for digital nomads. Find and rent an apartment with us and we'll plug you into the services and amenities you need to hit the ground running. Members get access to our friendly concierge service as well as our awesome community.
+  CoCo is curated specifically for digital nomads. Find and rent an apartment with us and we'll plug you into the services and amenities you need to hit the ground running. Members get access to our friendly concierge service as well as our awesome community.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
