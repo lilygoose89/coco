@@ -72,7 +72,7 @@ Those that fall in love with Chiang Mai often cite nature, the mountains and our
 
 ## 5\. Making Friends is Easy
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/g3XM1kyHHf1f2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<div style="width:100%;height:0;padding-bottom:64%;position:relative;"><iframe src="https://giphy.com/embed/DuRTsbyVCRCwg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 <br>It's one thing for the lady who sells you your daily coconut or avocado smoothie to be smiley, it's another thing entirely to be able to make friends. It's hard crossing cultural boundaries to make friends, but in Chiang Mai it's easy to find your tribe.
 
