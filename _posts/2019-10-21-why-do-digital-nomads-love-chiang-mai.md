@@ -72,7 +72,7 @@ Those that fall in love with Chiang Mai often cite nature, the mountains and our
 
 ## 5\. Making Friends is Easy
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/g3XM1kyHHf1f2" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/g3XM1kyHHf1f2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 <br>It's one thing for the lady who sells you your daily coconut or avocado smoothie to be smiley, it's another thing entirely to be able to make friends. It's hard crossing cultural boundaries to make friends, but in Chiang Mai it's easy to find your tribe.
 
@@ -208,10 +208,10 @@ Phew\! You made it. It's a long list and a beast of a post, we know.
 
 <br>As locals and natives, perhaps we're a little biased here at CoCo as to all the reasons our city is so great, but it doesn't seem hard to understand why digital nomads have chosen and continue to choose Chiang Mai. It's got everything you need to live, work, play, and lead your best life. And afterall, that's what embarking upon this digital nomad path is all about isn't it? Having the freedom and the flexibility to design your dream life.&nbsp;
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;">If you're a newbie nomad, you could do far worse than choose Chiang Mai as base from which to build your business and begin your travels. Those who've been around the block (or rather the globe&hellip;) a couple times will continue to find tremendous value in the city, whether it be from its amenities or it's talented community.</div>
+If you're a newbie nomad, you could do far worse than choose Chiang Mai as base from which to build your business and begin your travels. Those who've been around the block (or rather the globe&hellip;) a couple times will continue to find tremendous value in the city, whether it be from its amenities or it's talented community.
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;">At CoCo, we're obsessed with our hometown and we want you to love it as much as we do. That's why we've designed services, programs, and partnerships specifically to tap you into the best the city has to offer. Our dream is that digital nomads can continue to connect here, bringing their talent, their ideas and their badass selves to Chiang Mai for years to come.</div>
+At CoCo, we're obsessed with our hometown and we want you to love it as much as we do. That's why we've designed services, programs, and partnerships specifically to tap you into the best the city has to offer. Our dream is that digital nomads can continue to connect here, bringing their talent, their ideas and their badass selves to Chiang Mai for years to come.
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ACcXRXwUqJ6Ok" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><br />Start planning your Chiang Mai life by <a target="_blank" href="https://cococnx.com/#rooms">booking a place to stay with us</a>!</div>
+<br />Start planning your Chiang Mai life by <a target="_blank" href="https://cococnx.com/#rooms">booking a place to stay with us</a>!
