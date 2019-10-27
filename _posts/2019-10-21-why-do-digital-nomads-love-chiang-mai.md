@@ -10,9 +10,9 @@ comments: false
 tags:
 ---
 
-Thailand's second city and its undisputed cultural capital. Take a gander at the endless temples and scenic mountains and it's no wonder why Chiang Mai draws millions of visitors a year. Once you taste your first kao soi or discover your first hidden-gem cafe, you'll also start to understand why many never leave.
+Welcome to Chiang Mai\! Thailand's second city and its undisputed cultural capital. Take a gander at the endless temples and scenic mountains and it's no wonder why Chiang Mai draws millions of visitors a year. Once you taste your first kao soi or discover your first hidden-gem cafe, you'll also start to understand why many never leave.
 
-But why is it that digital nomads are so obsessed with Chiang Mai? While its ranking wobbles up and down seasonally, you'll almost always [find Chiang Mai topping the charts on the like of Nomad List](https://nomadlist.com/best-cities-for-digital-nomads){: target="_blank"}, and anyone who's been "nomadding" it up for a while is sure to have the city on their radar.
+But why is it that digital nomads are so obsessed with Chiang Mai? While its ranking wobbles up and down seasonally, you'll almost always&nbsp;[find Chiang Mai topping the charts on the like of Nomad List](https://nomadlist.com/best-cities-for-digital-nomads){: target="_blank"}. Anyone who's been "nomadding" it up for a while is sure to have the city on their radar.
 
 There are scores of blog posts and videos on the topic, so to make this worth publishing, we're gonna help add some context. We've got your classic checklist for essential reading, but we'll also give you the why of it.
 
