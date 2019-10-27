@@ -22,7 +22,7 @@ So without further ado, here are the thirteen reasons why Chiang Mai is such a b
 
 ## 1\. Well-Developed Travel Insfrastructure
 
-&lt;div style="width:100%;height:0;padding-bottom:53%;position:relative;"&gt;&lt;iframe src="https://giphy.com/embed/rDroB384ydCvK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p&gt;&lt;a href="https://giphy.com/gifs/dancing-harlem-shake-airport-rDroB384ydCvK"&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+<div style="width:100%;height:0;padding-bottom:53%;position:relative;"><iframe src="https://giphy.com/embed/rDroB384ydCvK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 Let's start with a big round of applause for dear old CNX. For those not in the know, that's the airport code for Chiang Mai International Airport, the gateway to the city.
 
