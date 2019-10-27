@@ -38,7 +38,7 @@ While you may be maddened by the noise of airplanes constantly flying overhead w
 
 ## 2\. The Weather is Great
 
-&lt;div style="width:100%;height:0;padding-bottom:65%;position:relative;"&gt;&lt;iframe src="https://giphy.com/embed/vadsqiBwAM18c" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p&gt;&lt;a href="https://giphy.com/gifs/sun-sunshine-vadsqiBwAM18c"&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+<div style="width:100%;height:0;padding-bottom:65%;position:relative;"><iframe src="https://giphy.com/embed/vadsqiBwAM18c" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sun-sunshine-vadsqiBwAM18c">via GIPHY</a></p>
 
 Thailand is a sunny, tropical destination. Do we really need to explain further? Temperatures range from a sizzling 36&deg;C in the summer ([which we very sensibly cope with by breaking out into a city-wide water fight](https://en.wikipedia.org/wiki/Songkran_&#40;Thailand&#41;){: target="_blank"}) to an adorably nippy 15&deg;C during "winter" nights and mornings.
 
