@@ -22,7 +22,7 @@ So without further ado, here are the thirteen reasons why Chiang Mai is such a b
 
 ## 1\. Well-Developed Travel Insfrastructure
 
-<div style="width:100%;height:0;padding-bottom:53%;position:relative;"><iframe src="https://giphy.com/embed/rDroB384ydCvK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dancing-harlem-shake-airport-rDroB384ydCvK">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3oxRmwOLK6OLi9IFI4?video=0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cbc-plane-landing-hellogoodbye-3oxRmwOLK6OLi9IFI4">via GIPHY</a></p>
 
 Let's start with a big round of applause for dear old CNX. For those not in the know, that's the airport code for Chiang Mai International Airport, the gateway to the city.
 
@@ -38,7 +38,7 @@ While you may be maddened by the noise of airplanes constantly flying overhead w
 
 ## 2\. The Weather is Great
 
-<div style="width:100%;height:0;padding-bottom:65%;position:relative;"><iframe src="https://giphy.com/embed/vadsqiBwAM18c" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/sun-sunshine-vadsqiBwAM18c">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/JHCcEc9vLvHZS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-hat-sunshine-JHCcEc9vLvHZS">via GIPHY</a></p>
 
 Thailand is a sunny, tropical destination. Do we really need to explain further? Temperatures range from a sizzling 36&deg;C in the summer ([which we very sensibly cope with by breaking out into a city-wide water fight](https://en.wikipedia.org/wiki/Songkran_&#40;Thailand&#41;){: target="_blank"}) to an adorably nippy 15&deg;C during "winter" nights and mornings.
 
