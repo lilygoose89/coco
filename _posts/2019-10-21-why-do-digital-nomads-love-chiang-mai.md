@@ -18,7 +18,7 @@ There are scores of blog posts and videos on the topic, so to make this worth pu
 
 Any nincompoop can show up and get a good sense of the why for themselves (or hire someone on Upwork to research and regurgitate their own version of course), but with our history here, we hope to add a little more nuance. How did these things come about, how have they changed over time, and how unique are these factors really?
 
-So without further ado, here are the twelve reasons why Chiang Mai is such a beloved digital nomad hotspot.
+So without further ado, here are the thirteen reasons why Chiang Mai is such a beloved digital nomad hotspot.
 
 ## 1\. Well-Developed Travel Insfrastructure
 
@@ -136,7 +136,17 @@ Affordability is, of course, important for the digital nomad or location indepen
 
 The second reason? Well frankly it gives you the option to work less, if that's what you want. So many of us get sucked into a life built around work at the expense of health, happiness and personal fulfillment. The ability to ease off the gas for a bit to explore your options and know that you're not going to starve or end up on the street is exactly what you need to start designing your dream life and taking a chance on that business idea or passion project.
 
-## 10\. It's Easy to Get Around
+## 10\. Arts, Culture, and Creativity Abound
+
+Chiang Mai's annual festivals like [Songkran in April](https://en.wikipedia.org/wiki/Songkran_&#40;Thailand&#41;){: target="_blank"} and [Loy Kratong in October/November](https://en.wikipedia.org/wiki/Loi_Krathong){: target="_blank"}draw tons of visitors from around the world and absolutely live up to the hype. These are bucket-list items for a reason, and worth fitting into your travel agenda at least once.
+
+Be sure to also put [Jai Thep Music and Arts Festival](https://jaithepfestival.com/){: target="_blank"}, [TEDx Chiang Mai](http://www.tedxchiangmai.com/){: target="_blank"}, [Chiang Mai Street Jazz Festival](https://chiangmaistreetjazzfestival.com/){: target="_blank"},&nbsp;
+
+[Countless other smaller festivals](http://www.paperplanesblog.com/thai-festivals-in-chiang-mai/){: target="_blank"} and artistic gatherings happen across town, and you can enjoy festive vibes every weekend at pop-up markets and the walking street. Art galleries and handicraft workshops abound and Chiang Mai is so well known for all this that it's [officially designated as a "Creative City" by none other than UNESCO](https://www.chiangmaicitylife.com/citylife-articles/chiang-mai-unesco-creative-city/){: target="_blank"}.
+
+Living amidst all of this creative energy is not only fun for your activity calendar, it's also great for your work. Soak in the inspiration, explore a creative outlet or find artistic collaborators for your projects. Let Chiang Mai's creative streak move you\!
+
+## 11\. It's Easy to Get Around
 
 Whether you have only stolen moments in between professional projects or loads of free time to spend, time is still valuable, and you don't want to waste it commuting or being stuck in traffic. Blessedly, Chiang Mai is small and at its absolute worst, you might end up spending 40 minutes instead of 20 driving from one end of town to the other.
 
@@ -148,7 +158,7 @@ Rent a motorbike and your options extend even further\! Though it can be dangero
 
 If you'd rather not face the hazards, no problem. You can [get around on Chiang Mai's public buses](https://www.chiangmaitraveller.com/chiang-mai-public-bus/){: target="_blank"}, [try the Red Trucks (also known as *songtaews*](https://tastythailand.com/how-to-take-a-songtaew-red-pick-up-truck-taxi-in-chiang-mai-thailand/){: target="_blank"}) which function as ad hoc public transport, or [hire a taxi via Grab](https://www.grab.com/th/en/download/){: target="_blank"} (the Southeast Asian equivalent of Uber).
 
-## 11\. Easy Visa Options
+## 12\. Easy Visa Options
 
 Yep, we said it (and we know that some of you long-termers are probably screaming and shaking your heads). Sure there's stuff that can be improved upon, but for the average nomad, things are pretty sweet. If you've been here a while, you know that it has become harder to spend long stretches of time in Thailand as the immigration department has tightened up visa controls and, ya know, actually enforced rules and such, but compared neighboring Vietnam where you still need to apply for a visa ahead of time, Thailand's nice and simple.
 
@@ -162,7 +172,7 @@ We'll save the details on the many options for extending your stay in Thailand l
 
 Efforts on both the local and national level are in place to push for more nomad-friendly visa options (and you can help these move forward by [contributing to a survey on the Economic Impact of Digital Nomads in Chiang Mai](https://docs.google.com/forms/d/e/1FAIpQLSceB-ZX_nBstr5P6XExdxofVpxadse-MKrmtuyN6xq2qg5xnw/viewform?usp=sf_link){: target="_blank"}) so while we wait on the government to get immigration in line with national policies for attracting talent, you've got options and [our partners have got your back when it comes to affordable visa services](https://www.facebook.com/mjandco.th/){: target="_blank"}.
 
-## 12\. Blazing-fast WiFi
+## 13\. Blazing-fast WiFi
 
 Lastly, of course, no list of why Chiang Mai caters so well to digital nomads would be complete without acknowledging the importance of great motherf\*\*\*ing WiFi. It's not optional, and [Chiang Mai's internet speeds](https://www.speedtest.net/global-index/thailand){: target="_blank"}&nbsp;and coverage are solid.
 
