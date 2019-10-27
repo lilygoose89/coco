@@ -1,6 +1,8 @@
 ---
 layout: default
+featured_image: /assets/images/CoCoChiangMaiforDigitalNomads.png
 onepage: true
+
 services:
   - title: Comfort
     icon: /assets/svgs/comfort.svg
@@ -12,8 +14,9 @@ services:
     bg: /assets/images/bike.png
   - title: Community
     icon: /assets/svgs/hub.svg
-    desc: Connect with talent and find your tribe. From coworking days and masterminds to parties and excursions, our events bring together the best and brightest in the city.
+    desc: Connect with talent and find your tribe. From coworking days and masterminds to parties and excursions, our events bring together the city's best.
     bg: /assets/images/community.png
+
 rooms:
   - path: _rooms/51hometel-one-bedroom.md
   - path: _rooms/burisiri-hotel-deluxe-room.md
@@ -21,9 +24,10 @@ rooms:
     style: wide
   - path: _rooms/51hometel-studio.md
   - path: _rooms/burisiri-hotel-superior-room.md
+
 members:
   - avatar: /assets/images/@stock/member-7.png
-    name: Lily Jebari
+    name: Lily
     position: Founder
     socials:
       - link: http://twitter.com
@@ -32,40 +36,6 @@ members:
         icon: facebook
     desc:
       "As the founder and CEO of Wrap, and as an interactions and visual design specialist, she knows that user- centred and easy-to-use design is an essential way to distinguish a good product and an awesome product."
-  - avatar: /assets/images/@stock/member-9.png
-    name: Mark Wayne
-    position: Creative Director
-    socials:
-      - link: http://twitter.com
-        icon: twitter
-      - link: http://facebook.com
-        icon: facebook
-      - link: http://dribbble.com
-        icon: dribbble
-    desc:
-      "Mark started designing web sites back in 1992. Since then, he has worked for a wide range of digital agencies in the UK and America. At Wrap, Mark’s role means solving all kinds of visual design problems."
-  - avatar: /assets/images/@stock/member-8.png
-    name: Clare Watson
-    position: Front-end Developer
-    socials:
-      - link: http://twitter.com
-        icon: twitter
-      - link: http://facebook.com
-        icon: facebook
-      - link: http://tumblr.com
-        icon: tumblr
-    desc:
-      "Clare is a senior front-end developer here at Wrap, specialises in building blocks of the web: HTML, CSS, and JavaScript. She has almost ten years experiencs in the front-end development."
-  - avatar: /assets/images/@stock/member-4-4.png
-    name: Jone Bucan
-    position: Senior Designer
-    socials:
-      - link: http://twitter.com
-        icon: twitter
-      - link: http://facebook.com
-        icon: facebook
-    desc:
-      "Jone started designing web sites back in 1992. Since then, he has worked for a wide range of digital agencies in the UK and America. At Wrap, Jone’s role means solving all kinds of visual design problems."
 
 photo_slides:
   - /assets/images/rooms/oldtale/oldtale12.jpg
@@ -124,9 +94,9 @@ clients:
          <span class="thir">Community</span>
       </h1>
       <h2 class='thin text-white'>
-       CoCo is your one-stop gateway to the best nomad experiences Chiang Mai has to offer. Our booking platform seamlessly plugs you in to services and amenities you need to hit the ground running, and our concierge is friendly backup for all the surprises you may encounter on your day to day.
+       CoCo is curated specifically for digital nomads. Find and rent an apartment with us and we'll plug you into the services and amenities you need to hit the ground running. Members get access to our friendly concierge service as well as our awesome community.
        {% assign nav_obj = site.data.nav | where:'section_id','rooms' | first %}
-       <a href='{{ "" | append:nav_obj.path | relative_url }}'>The first stop, book a room with us!</a>
+       <a href='{{ "" | append:nav_obj.path | relative_url }}'>To join CoCo, book a room with us!</a>
       </h2>
     </div>
   </div>
