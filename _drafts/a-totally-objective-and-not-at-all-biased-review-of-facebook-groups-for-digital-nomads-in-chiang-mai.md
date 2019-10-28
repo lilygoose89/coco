@@ -7,9 +7,12 @@ images:
   - /assets/images/wat.jpg
 author: Lily
 categories:
-  - Chiang Mai
+  - Resources
 comments: false
 tags:
+  - resources
+  - lists
+  - facebook groups
 ---
 
 Facebook groups might just be the single most valuable resource a nomad new to Chiang Mai has. Nomad List kills it with all their live-feeds and data and many a wise blogger has spent time in Chiang Mai and shared their insights with the world, but still these groups are damn useful.
@@ -70,7 +73,7 @@ Repetitive questions can bring down the quality of the group (and open you up to
 
 &nbsp;
 
-## [SECONDHAND CHIANGMAI (Chiang Mai's Trading Post)](https://www.facebook.com/profile.php?id=601956903170625&amp;ref=br_rs)
+## [SECONDHAND CHIANGMAI](https://www.facebook.com/profile.php?id=601956903170625&amp;ref=br_rs)
 
 &nbsp;
 
