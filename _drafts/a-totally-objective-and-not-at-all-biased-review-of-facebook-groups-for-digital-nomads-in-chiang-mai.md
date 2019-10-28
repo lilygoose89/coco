@@ -26,9 +26,13 @@ But before we start, we want to give you the one super useful tip that will make
 
 When looking at a group on your web-browser, you'll see the search bar on the left options panel:
 
+![](/uploads/screen-shot-2019-10-28-at-10-59-31-am.png){: width="2050" height="1226"}
+
 In mobile, this lives at the top of the page when you're within the group:
 
-Repetitive questions can bring down the quality of the group (and open you up to newbie-bashing by trolls). Since most situations are not entirely unique to you, help others help you by helping yourself first and check that someone's not already taken the time to provide an answer to your question.
+![](/uploads/screen-shot-2019-10-28-at-11-07-52-am.png){: width="1392" height="1162"}
+
+Repetitive questions can bring down the quality of the group (and open you up to newbie-bashing by trolls). Since most situations are probably not unique to you, help others help you by helping yourself first and check that someone's not already taken the time to provide an answer to your question.
 
 \-----
 
