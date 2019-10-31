@@ -153,4 +153,6 @@ Whether you're on the hunt for furniture, a motorbike, a house or some electroni
 * Friendliness: 2/5
 * Trolliness: 2/5
 
+&nbsp;
+
 And there you have it. Remember to proceed with courtesy, try to give more than you take, and do the decent thing and search before you ask. Happy Facebooking\!
