@@ -10,36 +10,34 @@ comments: false
 tags:
 ---
 
-Need a coffee fix and place to work from in the morning? While Chiang Mai has a robust cafe culture, you may have noticed that most cafes here don't open until 10am or later... Chiang Mai's&nbsp;*sabai sabai*&nbsp;and relaxed pace is one of its best qualities, but not when you're dying for caffeine and you've got work to do.
+Need a coffee fix and place to work from in the morning? While Chiang Mai has a robust cafe culture, you may have noticed that most coffee shops here don't open until 10am or later... Chiang Mai's&nbsp;*sabai sabai*&nbsp;and relaxed pace is one of its best qualities, but not when you're dying for caffeine and you've got work to do.
 
-Fortunately there are loads of cafes strewn across town that open reasonably early and come with the workspace and wifi you need to start your day\!
+Fortunately there are loads of cafes strewn across town that open reasonably early and come with the workspace and wifi you need to get your day started\!
 
-We've gathered a handy list of cafes in Chiang Mai open before 9AM so you don't waste time showing up at your favorite spot only to find they barista's not expected for another couple hours. Most of the cafes on this list are ones we've visited ourselves and can vouch for, but bear in mind small businesses in Thailand change things at the drop of a hat often without bothering to update their online listings so&nbsp;
+We've gathered a handy list of cafes in Chiang Mai open before 9AM so you don't waste time showing up at your favorite spot only to find they barista's not expected for another couple hours.
 
-Taste
+Most of the cafes on this list are ones we've visited ourselves and can vouch for, but bear in mind small businesses in Thailand change things at the drop of a hat often without bothering to update their online listings, so do check ahead yourself if timing is critical.
 
-Roastniyom
+## Taste Cafe (Nimman)
 
-Artisan
+## Overstand (Nimman and Old City)
 
-Hoshi
+## Fern Forest (Old City)
 
-Overstand
+## Akha Ama La Fattoria (Old City)
 
-Ombra
+## Ombra (Santitham)
 
-Cotton Tree
+## Akha Ama (Santitham)
 
-Fern Forest
+## Cottontree (Jed Yod)
 
-Akha Ama
+## Hoshi (Suthep)
 
-Akha Ama La Fattoria
+## Art Roastery (Suthep)
 
-Art Roastery
+## Baristro (Multiple Locations)
 
-Baristro
+## Roastniyom (Multiple Locations)
 
-Starbucks
-
-Roastniyom
+## Starbucks (Mutiple Locations)
