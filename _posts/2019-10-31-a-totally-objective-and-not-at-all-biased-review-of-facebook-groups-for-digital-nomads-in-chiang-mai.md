@@ -23,7 +23,7 @@ That said, it's dangerous stuff wandering in the online world with strangers, an
 
 If you're trying to research Chiang Mai for the next stop on your nomad tour or&nbsp; you're newly arrived and trying to settle in, here's are some Facebook groups you might consider joining and some suggestions, caveats and warnings about what they're like.
 
-\-—-
+\_\_\_
 
 But before we start, we want to give you the one super useful tip that will make your life a whole lot easier and keep you on group admins' good side. Search\!
 
@@ -36,6 +36,8 @@ In mobile, this lives at the top of the page when you're within the group:
 ![](/uploads/screen-shot-2019-10-28-at-11-07-52-am.png){: width="1392" height="1162"}
 
 Repetitive questions can bring down the quality of the group (and open you up to newbie-bashing by trolls). Since most situations are probably not unique to you, help others help you by helping yourself first and check that someone's not already taken the time to provide an answer to your question.
+
+\_\_\_
 
 ## [Chiang Mai Digital Nomads](https://www.facebook.com/groups/1408876269365450/?ref=group_browse){: target="_blank"}
 
@@ -173,6 +175,6 @@ Whether you're on the hunt for furniture, a motorbike, a house or some electroni
 * Friendliness: 2/5
 * Trolliness: 2/5
 
-&nbsp;
+\_\_\_
 
 And there you have it. Remember to proceed with courtesy, try to give more than you take, and do the decent thing and search before you ask. Happy Facebooking\!
