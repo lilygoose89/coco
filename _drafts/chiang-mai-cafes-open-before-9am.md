@@ -20,24 +20,141 @@ Most of the cafes on this list are ones we've visited ourselves and can vouch fo
 
 ## Taste Cafe (Nimman)
 
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
+
 ## Overstand (Nimman and Old City)
+
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
 
 ## Fern Forest (Old City)
 
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
+
 ## Akha Ama La Fattoria (Old City)
+
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
 
 ## Ombra (Santitham)
 
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
+
 ## Akha Ama (Santitham)
+
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
 
 ## Cottontree (Jed Yod)
 
-## Hoshi (Suthep)
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
+
+## Hoshi Coffee (Suthep)
+
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
 
 ## Art Roastery (Suthep)
 
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
+
 ## Baristro (Multiple Locations)
+
+Baristro Nimman
+
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
+
+Baristro Riverside
+
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
+
+Baristro Wat Ket (Train Station)
+
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
 
 ## Roastniyom (Multiple Locations)
 
+Roastniyom Nimman
+
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
+
+Roastniyom Suan Dok
+
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
+
+Roastniyom Jed Yod
+
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
+
+Roastniyom Chang Klan
+
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
+
 ## Starbucks (Mutiple Locations)
+
+Starbucks Nimman
+
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
+
+Starbucks Ram Hospital
+
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
+
+Starbucks Tha Pae
+
+* Hours:&nbsp;
+* Address (Click for Google Maps directions)
+* Facebook:&nbsp;
+* Phone:
+
+&nbsp;
