@@ -23,7 +23,7 @@ That said, it's dangerous stuff wandering in the online world with strangers, an
 
 If you're trying to research Chiang Mai for the next stop on your nomad tour or&nbsp; you're newly arrived and trying to settle in, here's are some Facebook groups you might consider joining and some suggestions, caveats and warnings about what they're like.
 
-\-----
+\-—-
 
 But before we start, we want to give you the one super useful tip that will make your life a whole lot easier and keep you on group admins' good side. Search\!
 
@@ -37,47 +37,85 @@ In mobile, this lives at the top of the page when you're within the group:
 
 Repetitive questions can bring down the quality of the group (and open you up to newbie-bashing by trolls). Since most situations are probably not unique to you, help others help you by helping yourself first and check that someone's not already taken the time to provide an answer to your question.
 
-\-----
-
 ## [Chiang Mai Digital Nomads](https://www.facebook.com/groups/1408876269365450/?ref=group_browse){: target="_blank"}
 
-&nbsp;
+The best place to start your foray into life as a Chiang Mai digital nomad is this aptly named group. Running since 2014, this massive Facebook community is 30K members strong an counting.
+
+While the networking opportunities are tremendous and you can tap into a wealth of highly relevant knowledge an experience, do know that noob-trolling is likely. Before posting in this group, check Google, or you'll bring great shame upon your house. The admins and moderators seem to have stepped it up of late, but beware the comments can get gnarly from time to time.
+
+Most posts in this group fall under the categories of "how to digital nomad," "
+
+Posts need to be approved by an admin before they go up which usually happens within a day, but it's not the best for urgent questions. If you make use of the search function though, there's tons of great answers which have been provided over the years.
+
+* Relevance: 5/5
+* Friendliness: 4/5
+* Trolliness: 4/5
 
 ## [Chiang Mai Nomad Girls](https://www.facebook.com/groups/ChiangMaiNomadGirls/){: target="_blank"}
 
-&nbsp;
+If you identify as a woman, you're in luck. Chiang Mai Nomad Girls is one of the friendliest, most supportive, and informative Facebook groups for nomads and expats. "Girl" aside, this is an age-inclusive community and you'll find as many long-termers in there as true nomads.
+
+A great place to find out about events and activities in Chiang Mai, buy/sell/swap clothing and household tems, and get advice on figuring out how to live in Chiang Mai, the women in this group have each other's backs.
+
+Do refrain from asking for recommendations for where to get your hair done or what the best "ethical elephant experience" is because the moderators have seen that shit go down way too often and comments will get turned off.
+
+There's a high expectation for the quality of engagement, but as long as you're polite and not blatantly advertising just about anything goes.
+
+* Relevance: 4/5
+* Friendliness: 5/5
+* Trolliness: 0.1/5
 
 ## [Chiang Mai Nomad Community](https://www.facebook.com/groups/330015100986334/){: target="_blank"}
 
-&nbsp;
+An attempt to recreate the magic of the girl's group for a gender-inclusive audience, Chiang Mai Nomad Community was created in response to a low-point in the history of the first Chiang Mai Digital Nomads group.
+
+While it definitely doesn't have as many members, the people in this group are engaged and helpful. Conversations here tend towards activities and lifestyle
+
+* Relevance: 5/5
+* Friendliness: 4/5
+* Trolliness: 4/5
 
 ## [Chiang Mai Events](https://www.facebook.com/groups/ChiangMaiEvents/?ref=group_header){: target="_blank"}
 
-&nbsp;
-
-## &nbsp;
+* Relevance: 5/5
+* Friendliness: 4/5
+* Trolliness: 4/5
 
 ## [Chiang Mai Eats](https://www.facebook.com/profile.php?id=624398594280154&amp;ref=br_rs){: target="_blank"}
 
-&nbsp;
+* Relevance: 5/5
+* Friendliness: 4/5
+* Trolliness: 4/5
 
 ## [Chiang Mai Digital Jobs](https://www.facebook.com/groups/875310962556727/){: target="_blank"}
 
-&nbsp;
+* Relevance: 5/5
+* Friendliness: 4/5
+* Trolliness: 4/5
 
 ## [Chiang Mai Entrepreneurship Association](https://www.facebook.com/profile.php?id=197100170904410&amp;ref=br_rs){: target="_blank"}
 
-&nbsp;
+* Relevance: 5/5
+* Friendliness: 4/5
+* Trolliness: 4/5
 
 ## [Farang Community Chiang Mai](https://www.facebook.com/groups/413059602129176/){: target="_blank"}
 
-&nbsp;
+* Relevance: 5/5
+* Friendliness: 4/5
+* Trolliness: 4/5
 
 ## [SECONDHAND CHIANGMAI](https://www.facebook.com/profile.php?id=601956903170625&amp;ref=br_rs)
 
-&nbsp;
+* Relevance: 5/5
+* Friendliness: 4/5
+* Trolliness: 4/5
 
 ## [กลุ่ม "จังหวัดเชียงใหม่ CM108.com"](https://www.facebook.com/groups/cm108/?ref=group_header)
+
+* Relevance: 5/5
+* Friendliness: 4/5
+* Trolliness: 4/5
 
 &nbsp;
 
