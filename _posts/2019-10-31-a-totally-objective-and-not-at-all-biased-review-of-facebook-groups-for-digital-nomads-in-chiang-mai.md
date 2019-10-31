@@ -39,6 +39,8 @@ Repetitive questions can bring down the quality of the group (and open you up to
 
 ## [Chiang Mai Digital Nomads](https://www.facebook.com/groups/1408876269365450/?ref=group_browse){: target="_blank"}
 
+![](/uploads/screen-shot-2019-10-31-at-4-51-43-pm.png){: width="2034" height="668"}
+
 The best place to start your foray into life as a Chiang Mai digital nomad is this aptly named group. Running since 2014, this massive Facebook community is 30K members strong an counting.
 
 While the networking opportunities are tremendous and you can tap into a wealth of highly relevant knowledge an experience, do know that noob-trolling is likely. Before posting in this group, check Google, or you'll bring great shame upon your house. The admins and moderators seem to have stepped it up of late, but beware the comments can get gnarly from time to time.
@@ -52,6 +54,8 @@ Posts need to be approved by an admin before they go up which usually happens wi
 * Trolliness: 4/5
 
 ## [Chiang Mai Nomad Girls](https://www.facebook.com/groups/ChiangMaiNomadGirls/){: target="_blank"}
+
+![](/uploads/screen-shot-2019-10-31-at-4-52-03-pm.png){: width="2042" height="772"}
 
 If you identify as a woman, you're in luck. Chiang Mai Nomad Girls is one of the friendliest, most supportive, and informative Facebook groups for nomads and expats. "Girl" aside, this is an age-inclusive community and you'll find as many long-termers in there as true nomads.
 
@@ -67,6 +71,8 @@ There's a high expectation for the quality of engagement, but as long as you're 
 
 ## [Chiang Mai Nomad Community](https://www.facebook.com/groups/330015100986334/){: target="_blank"}
 
+![](/uploads/screen-shot-2019-10-31-at-4-52-30-pm.png){: width="2040" height="664"}
+
 An attempt to recreate the magic of the girl's group for a gender-inclusive audience, Chiang Mai Nomad Community was created in response to a low-point in the history of the first Chiang Mai Digital Nomads group.
 
 While it definitely doesn't have as many members, the people in this group are engaged and helpful. Conversations here tend towards events and lifestyle in Chiang Mai more than nuts and bolts of making a living online and travelling the world, but as it grows topics are becoming more diverse.
@@ -75,7 +81,9 @@ While it definitely doesn't have as many members, the people in this group are e
 * Friendliness: 5/5
 * Trolliness: 0/5
 
-# [Thai Visa Advice](https://www.facebook.com/groups/1395920320731833/?ref=group_header){: target="_blank"}
+## [Thai Visa Advice](https://www.facebook.com/groups/1395920320731833/?ref=group_header){: target="_blank"}
+
+![](/uploads/screen-shot-2019-10-31-at-4-52-49-pm.png){: width="2046" height="772"}
 
 If you have visa questions, this is the place to go. The admin of this Facebook group, Tod Daniels, is ON IT and irrelevant posts will definitely get deleted.
 
@@ -89,6 +97,8 @@ The group is geared more towards expats and the long-term community, but also ac
 
 ## [Chiang Mai Events](https://www.facebook.com/groups/ChiangMaiEvents/?ref=group_header){: target="_blank"}
 
+![](/uploads/screen-shot-2019-10-31-at-4-53-12-pm.png){: width="2036" height="770"}
+
 An excellent repository for events in Chiang Mai, this group definitely beats whatever new features Facebook is trying to flog with it's new Local app.
 
 If you're trying to find what's happening in the city, you'll see restaurant and bar promotions, parties, arts and cultural activities, workshops and professional events, conferences, and more in this group.
@@ -100,6 +110,8 @@ The admins are strict about how often people post in the group so do be mindful 
 * Trolliness: 0/5
 
 ## [Chiang Mai Eats](https://www.facebook.com/profile.php?id=624398594280154&amp;ref=br_rs){: target="_blank"}
+
+![](/uploads/screen-shot-2019-10-31-at-4-53-25-pm.png){: width="2046" height="806"}
 
 If you're a foodie, you've absolutely gotta join this group\! A few long-time expats and locals contribute the vast majority of restaurant reviews in this group, but all are welcomed to share their food experiences and reviews in this Facebook group.
 
@@ -113,6 +125,8 @@ Check this group for new restaurant alerts and dining promotions. They also regu
 
 ## [Chiang Mai Entrepreneurship Association](https://www.facebook.com/profile.php?id=197100170904410&amp;ref=br_rs){: target="_blank"}
 
+![](/uploads/screen-shot-2019-10-31-at-4-53-59-pm.png){: width="2044" height="774"}
+
 Created by the hosts of the monthly [Chiang Mai Entrepreneurs Meetup](https://www.facebook.com/events/351594402154543/){: target="_blank"}, this private Facebook group is a place for networking and sharing jobs and opportunities.
 
 Pionering a "public networking" mentality, they encourage people to post in the group when they're in search of support or professional services instead of just messaging people one-to-one. Afterall, loads of entrepreneurs and aspiring business-owners probably want access to some of that same information.
@@ -125,6 +139,8 @@ Doing business in Thailand depends on who you know even more so than in many oth
 
 ## [Chiang Mai Digital Jobs](https://www.facebook.com/groups/875310962556727/){: target="_blank"}
 
+![](/uploads/screen-shot-2019-10-31-at-4-54-15-pm.png){: width="2038" height="762"}
+
 Does exactly what it says on the tin. This Facebook group is for advertising job vacancies and promoting your professional services. You can, of course, do this in the main nomads group and others as well, but it helps that this one is a bit more focused.&nbsp;
 
 * Relevance: 5/5
@@ -133,9 +149,11 @@ Does exactly what it says on the tin. This Facebook group is for advertising job
 
 ## [Farang Community Chiang Mai](https://www.facebook.com/groups/413059602129176/){: target="_blank"}
 
-Oh boy... This group can be super duper useful because the network taps into a lot of long-term residents, but that same network has a lot of middle-aged dudes with nothing better to do than sit at home on their computers all day and blast their opinions online.
+![](/uploads/screen-shot-2019-10-31-at-4-54-28-pm.png){: width="2042" height="774"}
 
-Literally nobody asked you for your opinion on Thai women and how Thailand is changing for the worse or otherwise Dave\! The OP asked where she could buy running shoes in Western sizes....
+Oh boy… This group can be super duper useful because the network taps into a lot of long-term residents, but that same network has a lot of middle-aged dudes with nothing better to do than sit at home on their computers all day and blast their opinions online.
+
+Literally nobody asked you for your opinion on Thai women and how Thailand is changing for the worse or otherwise Dave\! The OP asked where she could buy running shoes in Western sizes….
 
 Proceed with caution and be prepared for vitriol and misogyny. Under no circumstances admin publically that you're a digital nomad or face vast quantities of judgement from old dudes who can't cope with a world that's making them less and less relevant.
 
@@ -144,6 +162,8 @@ Proceed with caution and be prepared for vitriol and misogyny. Under no circumst
 * Trolliness: 5/5
 
 ## [SECONDHAND CHIANGMAI](https://www.facebook.com/profile.php?id=601956903170625&amp;ref=br_rs)
+
+![](/uploads/screen-shot-2019-10-31-at-4-54-47-pm.png){: width="2042" height="760"}
 
 Buy things\! Sell things\! The sharing economy in Chiang Mai is very well facilitated by this ginormous group. The admins have A LOT on their hands so they can get a bit finicky about the rules and taking down old posts so give them a hand why don't you and put in the effort to be a quality seller.
 
