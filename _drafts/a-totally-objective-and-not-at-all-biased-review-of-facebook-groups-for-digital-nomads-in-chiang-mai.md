@@ -43,7 +43,7 @@ The best place to start your foray into life as a Chiang Mai digital nomad is th
 
 While the networking opportunities are tremendous and you can tap into a wealth of highly relevant knowledge an experience, do know that noob-trolling is likely. Before posting in this group, check Google, or you'll bring great shame upon your house. The admins and moderators seem to have stepped it up of late, but beware the comments can get gnarly from time to time.
 
-Most posts in this group fall under the categories of "how to digital nomad," "
+Most posts in this group fall under the categories of "how to digital nomad," "what condo should I live in," and visa questions and gripes, but&nbsp;
 
 Posts need to be approved by an admin before they go up which usually happens within a day, but it's not the best for urgent questions. If you make use of the search function though, there's tons of great answers which have been provided over the years.
 
@@ -69,23 +69,47 @@ There's a high expectation for the quality of engagement, but as long as you're 
 
 An attempt to recreate the magic of the girl's group for a gender-inclusive audience, Chiang Mai Nomad Community was created in response to a low-point in the history of the first Chiang Mai Digital Nomads group.
 
-While it definitely doesn't have as many members, the people in this group are engaged and helpful. Conversations here tend towards activities and lifestyle
+While it definitely doesn't have as many members, the people in this group are engaged and helpful. Conversations here tend towards events and lifestyle in Chiang Mai more than nuts and bolts of making a living online and travelling the world, but as it grows topics are becoming more diverse.
+
+* Relevance: 4/5
+* Friendliness: 5/5
+* Trolliness: 0/5
+
+# [Thai Visa Advice](https://www.facebook.com/groups/1395920320731833/?ref=group_header){: target="_blank"}
+
+If you have visa questions, this is the place to go. The admin of this Facebook group, Tod Daniels, is ON IT and irrelevant posts will definitely get deleted.
+
+Maybe that seems initimidating, but it actually means lots of high quality answers to search through and great responses to new questions.
+
+The group is geared more towards expats and the long-term community, but also accommodates digital nomads. Because Thailand's visa and immigration situation is so irregular and prone to changes, this visa advice group is absolute gold.
 
 * Relevance: 5/5
 * Friendliness: 4/5
-* Trolliness: 4/5
+* Trolliness: 0/5
 
 ## [Chiang Mai Events](https://www.facebook.com/groups/ChiangMaiEvents/?ref=group_header){: target="_blank"}
 
+An excellent repository for events in Chiang Mai, this group definitely beats whatever new features Facebook is trying to flog with it's new Local app.
+
+If you're trying to find what's happening in the city, you'll see restaurant and bar promotions, parties, arts and cultural activities, workshops and professional events, conferences, and more in this group.
+
+The admins are strict about how often people post in the group so do be mindful of the rules if you're using it to promote an event, but the quality of posts and interactions in this group are generally good.
+
 * Relevance: 5/5
 * Friendliness: 4/5
-* Trolliness: 4/5
+* Trolliness: 0/5
 
 ## [Chiang Mai Eats](https://www.facebook.com/profile.php?id=624398594280154&amp;ref=br_rs){: target="_blank"}
 
+If you're a foodie, you've absolutely gotta join this group\! A few long-time expats and locals contribute the vast majority of restaurant reviews in this group, but all are welcomed to share their food experiences and reviews in this Facebook group.
+
+The admins do ask that you include the name of the restaurant and an address when sharing a review, and they will also vocally remind you to be careful about negative reviews because Thailand's anti-defamation laws are no joke, but other than that it's a chill and enthusiastic vibe.
+
+Check this group for new restaurant alerts and dining promotions. They also regularly do a "Chiang Mai Food Fight" and awards for categories like best burger, best khao soi, or best cheap Thai eats.
+
 * Relevance: 5/5
 * Friendliness: 4/5
-* Trolliness: 4/5
+* Trolliness: 3/5
 
 ## [Chiang Mai Digital Jobs](https://www.facebook.com/groups/875310962556727/){: target="_blank"}
 
