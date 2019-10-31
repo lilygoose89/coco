@@ -111,13 +111,21 @@ Check this group for new restaurant alerts and dining promotions. They also regu
 * Friendliness: 4/5
 * Trolliness: 3/5
 
-## [Chiang Mai Digital Jobs](https://www.facebook.com/groups/875310962556727/){: target="_blank"}
+## [Chiang Mai Entrepreneurship Association](https://www.facebook.com/profile.php?id=197100170904410&amp;ref=br_rs){: target="_blank"}
+
+Created by the hosts of the monthly [Chiang Mai Entrepreneurs Meetup](https://www.facebook.com/events/351594402154543/){: target="_blank"}, this private Facebook group is a place for networking and sharing jobs and opportunities.
+
+Pionering a "public networking" mentality, they encourage people to post in the group when they're in search of support or professional services instead of just messaging people one-to-one. Afterall, loads of entrepreneurs and aspiring business-owners probably want access to some of that same information.
+
+Doing business in Thailand depends on who you know even more so than in many other countries, so this is definitely a useful group if you're thinking to start a local business or put down roots in Chiang Mai.
 
 * Relevance: 5/5
 * Friendliness: 4/5
-* Trolliness: 4/5
+* Trolliness: 0/5
 
-## [Chiang Mai Entrepreneurship Association](https://www.facebook.com/profile.php?id=197100170904410&amp;ref=br_rs){: target="_blank"}
+## [Chiang Mai Digital Jobs](https://www.facebook.com/groups/875310962556727/){: target="_blank"}
+
+Does exactly what it says on the tin. This Facebook group is for advertising job vacancies and promoting your professional services. You can, of course, do this in the main nomads group and others as well, but it helps that this one is a bit more focused.&nbsp;
 
 * Relevance: 5/5
 * Friendliness: 4/5
@@ -125,22 +133,24 @@ Check this group for new restaurant alerts and dining promotions. They also regu
 
 ## [Farang Community Chiang Mai](https://www.facebook.com/groups/413059602129176/){: target="_blank"}
 
-* Relevance: 5/5
-* Friendliness: 4/5
-* Trolliness: 4/5
+Oh boy... This group can be super duper useful because the network taps into a lot of long-term residents, but that same network has a lot of middle-aged dudes with nothing better to do than sit at home on their computers all day and blast their opinions online.
+
+Literally nobody asked you for your opinion on Thai women and how Thailand is changing for the worse or otherwise Dave\! The OP asked where she could buy running shoes in Western sizes....
+
+Proceed with caution and be prepared for vitriol and misogyny. Under no circumstances admin publically that you're a digital nomad or face vast quantities of judgement from old dudes who can't cope with a world that's making them less and less relevant.
+
+* Relevance: 2/5
+* Friendliness: 2/5
+* Trolliness: 5/5
 
 ## [SECONDHAND CHIANGMAI](https://www.facebook.com/profile.php?id=601956903170625&amp;ref=br_rs)
 
-* Relevance: 5/5
-* Friendliness: 4/5
-* Trolliness: 4/5
+Buy things\! Sell things\! The sharing economy in Chiang Mai is very well facilitated by this ginormous group. The admins have A LOT on their hands so they can get a bit finicky about the rules and taking down old posts so give them a hand why don't you and put in the effort to be a quality seller.
 
-## [กลุ่ม "จังหวัดเชียงใหม่ CM108.com"](https://www.facebook.com/groups/cm108/?ref=group_header)
+Whether you're on the hunt for furniture, a motorbike, a house or some electronic geegaws, this group is better than eBay. Do mentally prepare yourself for people asking questions that were already answered in your descriptions and attempting to low-ball you.
 
 * Relevance: 5/5
-* Friendliness: 4/5
-* Trolliness: 4/5
-
-&nbsp;
+* Friendliness: 2/5
+* Trolliness: 2/5
 
 And there you have it. Remember to proceed with courtesy, try to give more than you take, and do the decent thing and search before you ask. Happy Facebooking\!
