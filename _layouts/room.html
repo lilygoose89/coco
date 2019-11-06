@@ -1,24 +1,18 @@
 ---
 layout: default
 ---
-
-
-<div class='full'>
-  <div class='row'>
-    <div class='large-8 columns large-centered'>
+<section style="position: relative; top: -14.5vh; min-height: 80vh;">
+  <div class="grid">
+    <div class="col-6 pad-all-s" style="background:linear-gradient(rgba(0,110,144,0.4),rgba(0,110,144,0.4)),url({{page.featured_image}}); background-repeat: no-repeat; background-size: cover; background-position: center; overflow-y: hidden;">
       {% assign small_title = page.categories | join:" - " %}
       {% assign title = page.title | downcase | capitalize %}
       {% include section-title.html small_title=small_title title=title %}
     </div>
-  </div>
-</div>
-<div class='full no-padding'>
-  <div class='row'>
-    <div class='large-12 columns'>
+    <div class="col-6">
       <div class='mod modBoxedSlider'>
         <div class='slides'>
           {% for slide in page.slides %}
-            <div class='slide'>
+            <div class='slide' style="margin: 0;">
               <img alt="" src="{{ slide | relative_url }}" />
             </div>
           {% endfor %}
@@ -26,66 +20,109 @@ layout: default
       </div>
     </div>
   </div>
-  <div class='four spacing'></div>
-  <div class='row'>
-    <div class='large-8 columns'>
-      <h3>{{ page.title }}</h3>
-      {{ content }}
-      <div class='spacing'></div>
-      {% if page.link %}
-        {% if page.link.url contains '://' %}
-          {% assign href = page.link.url %}
-        {% else %}
-          {% assign href = page.link.url | relative_url %}
-        {% endif %}
-        <a class='button small' href='{{ href }}'>{{ page.link.text }}</a>
-      {% endif %}
+
+  <div class="bg-orange grid-middle-spaceAround text-center pad-all-xs" style="position: relative; top: -5vh; min-height: 20vh;">
+    {% for highlights in page.highlights %}
+      <div class="col-1">
+        <img src="{{highlights.icon}}" alt="icon {{highlights.icon}}"/>
+        <h4 class="text-white">{{highlights.highlight}}</h4>
+      </div>
+    {% endfor %}
+  </div>
+
+</section>
+
+<section class="readable-section">
+
+  <div class="pad-all-s pad-bottom-xs">
+    <h3>{{ page.title }}</h3>
+    <p>{{ page.description }}</p>
+  </div>
+
+  {% include whycoco.html %}
+
+</section>
+
+<section>
+
+  <div class="grid">
+    <div class="col-6 pad-all-s">
+      <h3>Room Options</h3>
+      {% for room-option in page.room-option %}
+        <input type="radio" name="room" value="{{room-option.name}}"> {{room-option}}<br>
+      {% endfor %}
     </div>
-    <div class='large-4 columns'>
-      <ul class='info'>
-        {% if page.client %}
-          <li>
-            <strong>Client:</strong>
-            {{ page.client }}
-          </li>
-        {% endif %}
+    <div class="col-6 pad-all-s">
+      <div class="request-box box-shadow">
+        <div class="bg-blue">
+          <h2 class="text-white text-center pad-top-s pad-all-xs">Check Availability</h2>
+        </div>
+        <div class="pad-all-s">
+          <h6>Interested in booking a room? Send us your request and we'll respond by email within 48 hours to confirm availability and help you to complete your booking.</h6>
+          <div>
+            <form method="post" action="https://formspree.io/info@cococnx.com" id="contact-form">
+              <input type="hidden" name="_next" value="/" />
+              <!-- <p id='thanks'>
+                Thanks for contacting us, we'll be in touch soon.
+              </p> -->
+              <div>
+                <input class='required' name='subject' value='Booking Request for {{page.title}}' type='hidden'>
+              </div>
 
-        <!-- {% if page.date %}
-          <li>
-            <strong>Date:</strong>
-            {{ page.date | date:"%B %Y" }}
-          </li>
-        {% endif %} -->
+              <div>
+                <label for="name">Name</label>
+                <input type="text" name="name" placeholder="Name">
+              </div>
+              <div>
+                <label for="email">Email Address</label>
+                <input type="text" name="email" placeholder="Email">
+              </div>
 
-        <li>
+              <div class="grid-spaceBetween">
+                <div class="col-5">
+                  <label for="checkin">Check-in Date</label>
+                  <input type="date" name="checkin">
+                </div>
+                <div class="col-5">
+                  <label for="date">Check-out Date</label>
+                  <input type="date" name="checkout">
+                </div>
+              </div>
 
-          <div class='spacing'></div>
+              <div>
+                <label for="room">Room Type</label>
+                {% for room-options in page.room-options %}
+                  <input type="radio" name="room" value="{{room-options.name}}"> {{room-options.name}}<br>
+                {% endfor %}
+              </div>
 
-          {% if page.previous %}
-            <a href='{{ page.previous.url | relative_url }}' title='previous'>
-              <i class='icon-left-open'></i>
-            </a>
-          {% endif %}
-
-          {% assign nav_obj = site.data.nav | where:'section_id','rooms' | first %}
-
-          <a href='{{ "index.html" | append:nav_obj.path | relative_url }}' title='back to room list'>
-            <i class='icon-layout'></i>
-          </a>
-
-          {% if page.next %}
-            <a href='{{ page.next.url | relative_url }}' title='next'>
-              <i class='icon-right-open'></i>
-            </a>
-          {% endif %}
-
-        </li>
-      </ul>
+              <div>
+                <label for="message">Special Requests</label>
+                <textarea name="message" placeholder="Mountain view, no stairs, etc..."></textarea>
+              </div>
+              <input type="hidden" name="_subject" value="{{ page.contact_settings.email_subject }}" />
+              <input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val="">
+              <input class='button white' type='submit' style="width: 100%;">
+            </form>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-  <div class='four spacing'></div>
-</div>
+</section>
 
+<section class="readable-section">
+
+  <div class="pad-all-s">
+    {% for neighborhood in page.neighborhood %}
+    <h3>About the Neighborhood {{ page.neighborhood.name }}</h3>
+    <p>{{ neighborhood.description }}</p>
+    <div>
+      {{ neighborhood.googlemapembed }}
+    </div>  {% endfor %}
+  </div>
+
+</section>
 
 {% include contact-form.html %}
 

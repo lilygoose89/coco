@@ -2,25 +2,22 @@
 layout: default
 ---
 
-<div class='full'>
-  <div class='row'>
-    <div class='columns large-centered'>
-      {% include section-title.html small_title="our blog" title="CoCo's Guides to Chiang Mai" %}
-    </div>
-  </div>
-</div>
+<header class='bg-teal pad-bottom-xs blog-header'>
+  {% include section-title.html small_title="The Nomad's Guide to Chiang Mai" title="CoCo Blog" %}
+</header>
 
-<div class='full no-padding'>
-  <div class='row'>
-    <div class='large-9 columns'>
-      {{ content }}
+<div class='margin-top-xs pad-top-xs' style="position: relative; top: -14.5vh;">
+  <div class='grid'>
+    <div class='col-9_md-8_sm-12'>
+      <div class="readable-section">
+        {{ content }}
+      </div>
     </div>
-    <div class='large-3 columns' id='sidebar'>
+    <div class='col-3_md-4_sm-12 blog-sidebar' id='sidebar'>
       {% include sidebar-archives.html %}
       {% include sidebar-categories.html %}
       {% include sidebar-recent-posts.html %}
       {% include sidebar-tags.html %}
-      <div class='four spacing'></div>
     </div>
   </div>
 </div>
