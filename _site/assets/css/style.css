@@ -170,6 +170,9 @@ p.light {
 .text-white {
   color: #fff !important;
 }
+.text-grey {
+  color: #ccc;
+}
 .text-dark {
   color: #454545;
 }
@@ -2050,8 +2053,7 @@ body {
 
 /* Icons */
 .whycocoicon {
-  height: 100%;
-  width: auto;
+
 }
 
 /* Arrows */
