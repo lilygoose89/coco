@@ -125,6 +125,14 @@ body {
   padding: 0 10% 0 0;
 }
 
+.room-options-image-container {
+  min-height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  overflow-y: hidden;
+}
+
 .bg-black {
   background: rgba(69,69,69,0.6) !important;
 }
@@ -152,7 +160,14 @@ p.light {
   color: #ccc;
 }
 .centered-text {
-  text-align: center; }
+  text-align: center;
+}
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
 
 .text-white {
   color: #fff !important;

@@ -3,8 +3,10 @@ layout: default
 ---
 <section style="position: relative; top: -14.5vh; min-height: 80vh;">
   <div class="grid">
-    <div class="col-6 pad-all-s" style="background:linear-gradient(rgba(0,110,144,0.4),rgba(0,110,144,0.4)),url({{page.featured_image}}); background-repeat: no-repeat; background-size: cover; background-position: center; overflow-y: hidden;">
-      {% assign small_title = page.categories | join:" - " %}
+    <div class="col-6 pad-all-s" style="background:linear-gradient(rgba(107,209,198,0.8),rgba(0,110,144,0.8)),url({{page.featured_image}}); background-repeat: no-repeat; background-size: cover; background-position: center; overflow-y: hidden;">
+      <div class="pad-top-s">
+        {% assign small_title = page.categories | join:" - " %}
+      </div>
       {% assign title = page.title | downcase | capitalize %}
       {% include section-title.html small_title=small_title title=title %}
     </div>
@@ -32,7 +34,7 @@ layout: default
 
 </section>
 
-<section class="readable-section">
+<section class="readable-section" style="position: relative; top: -14.5vh;">
 
   <div class="pad-all-s pad-bottom-xs">
     <h3>{{ page.title }}</h3>
@@ -43,16 +45,45 @@ layout: default
 
 </section>
 
-<section>
+<section style="position: relative; top: -14.5vh; min-height: 80vh;">
 
   <div class="grid">
-    <div class="col-6 pad-all-s">
+    <div class="pad-left-s col-12">
       <h3>Room Options</h3>
-      {% for room-option in page.room-option %}
-        <input type="radio" name="room" value="{{room-option.name}}"> {{room-option}}<br>
+    </div>
+    <div class="col-6 pad-all-s pad-top-xs">
+      {% for room-options in page.room-options %}
+      <div class="box-shadow margin-bottom-m">
+        <div class="pad-all-s grid">
+          <h4 class="col-6">{{room-options.name}}</h4>
+          <h5 class="col-6 text-right">{{room-options.price}} per month</h5>
+          <p class="col-12">{{room-options.description}}</p>
+          <ul>
+            <li class="text-dark">Room type: {{room-options.room-type}}</li>
+            <!-- <li class="text-dark">Size: {{room-options.size}}</li> -->
+            <li class="text-dark">Bath: {{room-options.bath}}</li>
+            <li class="text-dark">Bed: {{room-options.bed}}</li>
+            <li class="text-dark">Kitchen: {{room-options.kitchen}}</li>
+            <li class="text-dark">Workspace: {{room-options.workspace}}</li>
+          </ul>
+        </div>
+        <div class="room-options-image-container">
+          <img src="{{room-options.room-option_image}}" alt="buri siri {{room-options.name}}"/>
+          <!-- <div class='mod modBoxedSlider'>
+            <div class='slides'>
+              {% for slide in page.slides %}
+                <div class='slide' style="margin: 0;">
+                  <img alt="" src="{{ slide | relative_url }}" />
+                </div>
+              {% endfor %}
+            </div>
+          </div> -->
+        </div>
+      </div>
+
       {% endfor %}
     </div>
-    <div class="col-6 pad-all-s">
+    <div class="col-6 pad-all-s pad-top-xs">
       <div class="request-box box-shadow">
         <div class="bg-blue">
           <h2 class="text-white text-center pad-top-s pad-all-xs">Check Availability</h2>
@@ -111,7 +142,7 @@ layout: default
   </div>
 </section>
 
-<section class="readable-section">
+<section class="readable-section" style="position: relative; top: -14.5vh; min-height: 80vh;">
 
   <div class="pad-all-s">
     {% for neighborhood in page.neighborhood %}

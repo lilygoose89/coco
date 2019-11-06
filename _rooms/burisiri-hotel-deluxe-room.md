@@ -24,29 +24,38 @@ description: >-
   Buri Siri Hotel is a luxury boutique hotel at the edge of the trendy Nimmanhaemin neighborhood. Blending elements of traditional Thai architecture with elegant colonial stylings and modern luxury touches, their rooms are the perfect mix of stylish and comfortable. Guests staying at Buri Siri can enjoy conveniences like a 24hr front desk and security, weekly housekeeping, onsite coworking, and a stunning saltwater pool. Home to CNX Socials and the Chiang Mai Entrepreneurs Meetup, the onsite coworking cafe is a popular nomad hangout and a great place to meet people.
 room-options:
   - name: Standard
+    description: >-
+      Dolores quibusdam eum itaque est et iusto perspiciatis saepe consequuntur quia occaecati consequatur. dignissimos dolores omnis voluptatum quia totam minus architecto qui assumenda ex aut aut. voluptatem et ex qui iure illum. est rerum eum est corrupti fugiat quas repellendus officia ratione tempore aliquid aspernatur itaque enim. officia dignissimos enim veniam corporis nemo ipsam sit omnis dolorum veniam rerum reprehenderit nihil mollitia.
     price: ฿32,000
     room-type: One-bedroom
     size: XXm²
     bath: Private ensuite
     bed: Queen
-    workspace:
-    kitchen:
+    workspace: Shared coworking
+    kitchen: Mini-fridge
+    room-option_image: "/assets/images/rooms/burisiri/burisiri1.jpg"
   - name: Superior
+    description: >-
+      Dolores quibusdam eum itaque est et iusto perspiciatis saepe consequuntur quia occaecati consequatur. dignissimos dolores omnis voluptatum quia totam minus architecto qui assumenda ex aut aut. voluptatem et ex qui iure illum. est rerum eum est corrupti fugiat quas repellendus officia ratione tempore aliquid aspernatur itaque enim. officia dignissimos enim veniam corporis nemo ipsam sit omnis dolorum veniam rerum reprehenderit nihil mollitia.
     price: ฿37,000
     room-type: One-bedroom
     size: XXm²
     bath: Private ensuite
     bed: Queen
-    workspace:
-    kitchen:
+    workspace: Shared coworking
+    kitchen: Mini-fridge
+    room-option_image: "/assets/images/rooms/burisiri/burisiri1.jpg"
   - name: Deluxe
+    description: >-
+      Dolores quibusdam eum itaque est et iusto perspiciatis saepe consequuntur quia occaecati consequatur. dignissimos dolores omnis voluptatum quia totam minus architecto qui assumenda ex aut aut. voluptatem et ex qui iure illum. est rerum eum est corrupti fugiat quas repellendus officia ratione tempore aliquid aspernatur itaque enim. officia dignissimos enim veniam corporis nemo ipsam sit omnis dolorum veniam rerum reprehenderit nihil mollitia.
     price: ฿47,000
     room-type: One-bedroom
     size: XXm²
     bath: Private ensuite
     bed: Queen
-    workspace:
-    kitchen:
+    workspace: Shared coworking
+    kitchen: Kitchenette
+    room-option_image: "/assets/images/rooms/burisiri/burisiri1.jpg"
 neighborhood:
   - name: Nimmanhaemin
     description: >-
