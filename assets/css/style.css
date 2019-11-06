@@ -2055,7 +2055,7 @@ body {
 
 /* Icons */
 .whycocoicon {
-
+  max-height: 50px;
 }
 
 /* Arrows */
