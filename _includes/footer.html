@@ -1,14 +1,28 @@
 <div class="full no-padding dark">
   <div class="four spacing"></div>
   <div id="footer" class='centered-text'>
+
+    <div class="grid-center">
+      <div class="col-7_md-8_sm-10 pad-bottom-s">
+        <div class="grid-spaceAround">
+          <a href="/"><h4 class="text-white">Home</h4></a>
+          <a href="/faq"><h4 class="text-white">FAQs</h4></a>
+          <a href="/privacy"><h4 class="text-white">Privacy Policy</h4></a>
+          <a href="/terms"><h4 class="text-white">Terms & Conditions</h4></a>
+          <a href="/#contact"><h4 class="text-white">Contact</h4></a>
+        </div>
+      </div>
+    </div>
+
     <div class='row'>
       <div class='large-12 columns'>
         <h4>©{{site.time | date: "%Y" }} CoCo - Created by CNX Web</h4>
       </div>
     </div>
+
   </div>
-  <div class="four spacing"></div>
 </div>
+
 
 {% for path in site.data.assets.js %}
 
@@ -20,3 +34,7 @@
 
   <script src="{{ src }}" type="text/javascript"></script>
 {% endfor %}
+
+<div class="full no-padding dark" style="min-height: 5vh; position: relative; top: -5vh;">
+
+</div>
