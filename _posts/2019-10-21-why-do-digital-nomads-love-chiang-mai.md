@@ -12,15 +12,15 @@ tags:
 
 Welcome to Chiang Mai\! Thailand's second city and its undisputed cultural capital. Take a gander at the endless temples and scenic mountains and it's no wonder why Chiang Mai draws millions of visitors a year. Once you taste your first kao soi or discover your first hidden-gem cafe, you'll also start to understand why many never leave.
 
-But why is it that digital nomads are so obsessed with Chiang Mai? While its ranking wobbles up and down seasonally, you'll almost always&nbsp;[find Chiang Mai topping the charts on the like of Nomad List](https://nomadlist.com/best-cities-for-digital-nomads){: target="_blank"}. Anyone who's been "nomadding" it up for a while is sure to have the city on their radar.
+But why is it that digital nomads are so obsessed with Chiang Mai? While its ranking wobbles up and down seasonally, you'll almost always&nbsp;[find Chiang Mai topping the charts on the likes of Nomad List](https://nomadlist.com/best-cities-for-digital-nomads){: target="_blank"}. Anyone who's been "nomadding" it up for a while is sure to have the city on their radar.
 
 There are scores of blog posts and videos on the topic, so to make this worth publishing, we're gonna help add some context. We've got your classic checklist for essential reading, but we'll also give you the why of it.
 
-Any nincompoop can show up and get a good sense of the why for themselves (or hire someone on Upwork to research and regurgitate their own version of course), but with our history here, we hope to add a little more nuance. How did these things come about, how have they changed over time, and how unique are these factors really?
+Any nincompoop can show up and get a good sense of the why for themselves (or hire someone on Upwork to research and regurgitate their own version, of course), but with our history here, we hope to add a little more nuance. How did these things come about, how have they changed over time, and how unique are these factors really?
 
 So without further ado, here are the thirteen reasons why Chiang Mai is such a beloved digital nomad hotspot.
 
-## 1\. Well-Developed Travel Insfrastructure
+## 1\. Well-Developed Travel Infrastructure
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3oxRmwOLK6OLi9IFI4?video=0" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div>
 
@@ -30,11 +30,11 @@ It's a given that good airport connections are important to the location indepen
 
 It might seem like a small thing, but heading out to the airport from other Thai cities takes time. Bangkok? Good luck getting in or out during rush hour which lasts basically half the day. Phuket? Pattaya? That's a looooong drive my friend. Anywhere in the islands? You've got ferries to contend with if not extra connecting flights.
 
-In Chiang Mai, most of us live within 30 minutes of the airport. 30 minutes is also about the time you typically need to allot to going through security (if you're fond of living on the edge). It's pretty easy breezy all around.
+In Chiang Mai, most of us live within thirty minutes of the airport. Thirty minutes is also about the time you typically need to allot to going through security (if you're fond of living on the edge). It's pretty easy breezy all around.
 
 [CNX takes you directly to most anywhere you want to go in Thailand and tons more destinations abroad](https://www.flightconnections.com/flights-from-chiang-mai-cnx){: target="_blank"} courtesy of Air Asia and other budget-friendly airlines.&nbsp; Coming and going from North America or Europe? You might be able to get away with just a single layover thanks to long-hauls from the likes of Emirates, Korean Air (codeshared with Delta), EVA Air, and Cathay Pacific.
 
-While you may be maddened by the noise of airplanes constantly flying overhead when you're living here, its the price we pay to be able to so effortlessly hop and bop around Southeast Asia and the rest of the world. Essential for a city that caters to the nomad set.
+While you may be maddened by the noise of airplanes constantly flying overhead when you're living here, it's the price we pay to be able to so effortlessly hop and bop around Southeast Asia and the rest of the world. Essential for a city that caters to the nomad set.
 
 ## 2\. The Weather is Great
 
@@ -42,7 +42,7 @@ While you may be maddened by the noise of airplanes constantly flying overhead w
 
 <br>Thailand is a sunny, tropical destination. Do we really need to explain further? Temperatures range from a sizzling 36&deg;C in the summer ([which we very sensibly cope with by breaking out into a city-wide water fight](https://en.wikipedia.org/wiki/Songkran_&#40;Thailand&#41;){: target="_blank"}) to an adorably nippy 15&deg;C during "winter" nights and mornings.
 
-Seasonal Affective Disorder is real folks, and if you ditched the rat race to pursue health and happiness, the last thing you want to do is live somewhere that predisposes you to depression. Chiang Mai is fortunately the opposite of the gloomy conditions you get used to in Europe or North America . [We get sunshine at least 150 hours a month, but usually it's almost twice that](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Chiang-Mai,Thailand){: target="_blank"}. That's basically free therapy right there.&nbsp;
+Seasonal Affective Disorder is real folks, and if you ditched the rat race to pursue health and happiness, the last thing you want to do is live somewhere that predisposes you to depression. Chiang Mai is, fortunately, the opposite of the gloomy conditions you get used to in Europe or North America. [We get sunshine at least 150 hours a month, but usually it's almost twice that](https://weather-and-climate.com/average-monthly-Rainfall-Temperature-Sunshine,Chiang-Mai,Thailand){: target="_blank"}. That's basically free therapy right there.&nbsp;
 
 Great weather is also great for being in the outdoors, whether that's lounging by the pool on hot days, searching for hidden waterfalls, or just relaxing cocktail in hand at an al fresco rooftop bar.
 
@@ -54,7 +54,7 @@ High season for tourism corresponds closely with the time of year when digital n
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/tLxsi1ABsIfza" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div>
 
-<br>As mentioned, Chiang Mai's great weather lends itself to fun in the outdoors, and you absolutely must get out into the scenic countryside and hills of the province. Just as it's easy to board a flight and go anywhere from Chiang Mai, it's also incredibly easy to escape the city for a change of scenery. Hop on a motorbike or book a redtruck and drive in any-direction - within 30 minutes or less you'll find yourself zipping past rice-fields or winding along mountain roads.
+<br>As mentioned, Chiang Mai's great weather lends itself to fun in the outdoors, and you absolutely must get out into the scenic countryside and hills of the province. Just as it's easy to board a flight and go anywhere from Chiang Mai, it's also incredibly easy to escape the city for a change of scenery. Hop on a motorbike or book a redtruck and drive in any direction - within twenty minutes or less you'll find yourself zipping past rice-fields or winding along mountain roads.
 
 We have a very robust cafe culture in Thailand, and if there's a view point or something pretty we'll stick a cafe next to it. Quite probably there'll be free WiFi as well, so all these escapes into the countryside need not come at the expense of your work or clients.
 
@@ -68,7 +68,7 @@ Those that fall in love with Chiang Mai often cite nature, the mountains and our
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/26FeXqXo2lBeXnsiY?video=0" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div>
 
-<br>Truly connecting with Thailand also means connecting with its people. Known as the Land of Smiles, this moniker is one visitors can easily confirm. Hospitality and manners are deeply important to Thais and the country is well developed for tourism, so everywhere you go you can find friendly people ready to help you. Beyond the gracious hospitality, Thais have a very live and let live attitude that makes it easy for people from very different backgrounds to feel like they have a place here. While the behavior of some Westerners may elicit a raised eyebrow, it will often be accompanied by an accommodating Thai smile. "Mae pen rai," as we say. No worries, you do you. For the oddballs, geeks, and outsiders who never feel like they fit in at home, Chiang Mai is a haven and the city boasts a very eclectic and intellectual expat community. For anybody who's bursting with creative expression or just likes to be a little outrageous - welcome\\\! You will find your weirdos here.&nbsp; Thai people are very friendly, but it's also the long-standing expat community that makes Chiang Mai such a great place for digital nomads. The city has long been home to English Teachers, NGO workers, and a thriving international business community. The first wave of the digital nomad movement were the tech workers who relocated to Chiang Mai which has long been a destination for software outsourcing. Get to know the locals, we're a weird, wonderful bunch and you might be surprised at the tech, innovation, and entrepreneurship that's happening outside the nomad scene.
+<br>Truly connecting with Thailand also means connecting with its people. Known as the Land of Smiles, this moniker is one visitors can easily confirm. Hospitality and manners are deeply important to Thais and the country is well developed for tourism, so everywhere you go you can find friendly people ready to help you. Beyond the gracious hospitality, Thais have a very live and let live attitude that makes it easy for people from very different backgrounds to feel like they have a place here. While the behavior of some Westerners may elicit a raised eyebrow, it will often be accompanied by an accommodating Thai smile. "Mae pen rai," as we say. No worries, you do you. For the oddballs, geeks, and outsiders who never feel like they fit in at home, Chiang Mai is a haven and the city boasts a very eclectic and intellectual expat community. For anybody who's bursting with creative expression or just likes to be a little outrageous - welcome\\\! You will find your weirdos here.&nbsp; Thai people are very friendly, but it's also the long-standing expat community that makes Chiang Mai such a great place for digital nomads. The city has long been home to English Teachers, NGO workers, and a thriving international business community. The first wave of the digital nomad movement were the tech workers who relocated to Chiang Mai, already an established destination for software outsourcing. Get to know the locals, we're a weird, wonderful bunch and you might be surprised at the tech, innovation, and entrepreneurship that's happening outside the nomad scene.
 
 ## 5\. Making Friends is Easy
 
@@ -110,7 +110,7 @@ Creating something out of nothing takes grit, perserverance, and a constant abil
 
 Fortunately, Chiang Mai is an incredible place to do the self work that can prime you for, not just professional success, but greater satisfaction in life. Whether your brand of woo woo leans more towards crystals or NLP, you'll find plenty of experts, coaches, and support groups.
 
-Thailand's long been a destination for spirituality and wellness and something of this manages to seep into the day to day of life here, no matter which crowd you run with. People here talk about setting boundaries, self-care, meditation and emotional intelligence in the same breath they lay out their plans for taking over the world (or their highly lucrative niche).
+Thailand's well-known as a destination for spirituality and wellness, and something of this manages to seep into the day to day of life here, no matter which crowd you run with. People here talk about setting boundaries, self-care, meditation and emotional intelligence in the same breath they lay out their plans for taking over the world (or their highly lucrative niche).
 
 Eat healthy, wholesome food, go vegan or Paleo. Try yoga, Crossfit or pole dance. Go to a bio-hacking meetup, embark on a silent meditation retreat, or delve into Thai massage. When it comes to nurturing the mind, body, and spirit, Chiang Mai's got you covered.
 
