@@ -56,11 +56,11 @@ High season for tourism corresponds closely with the time of year when digital n
 
 <br>As mentioned, Chiang Mai's great weather lends itself to fun in the outdoors, and you absolutely must get out into the scenic countryside and hills of the province. Just as it's easy to board a flight and go anywhere from Chiang Mai, it's also incredibly easy to escape the city for a change of scenery. Hop on a motorbike or book a redtruck and drive in any direction - within twenty minutes or less you'll find yourself zipping past rice-fields or winding along mountain roads.
 
-We have a very robust cafe culture in Thailand, and if there's a view point or something pretty we'll stick a cafe next to it. Quite probably there'll be free WiFi as well, so all these escapes into the countryside need not come at the expense of your work or clients.
+We have a very robust cafe culture in Thailand, and if there's a viewpoint or something pretty, we'll stick a cafe next to it. Quite probably there'll be free WiFi as well, so all these escapes into the countryside need not come at the expense of your work or clients.
 
-If you truly do want to escape though, there are jungle homestays, remote retreats, and temble-based Vippassanas in abundance so it's very easy to unplug in order to commune with nature and the spirits and what-have-you.
+If you truly do want to escape though, there are jungle homestays, remote retreats, and temple-based Vippassanas in abundance so it's very easy to unplug in order to commune with nature and the spirits and what-have-you.
 
-Few travellers come all the way to Thailand without taking advantage of its natural delights, but it has been our experience that an astonishing number of digital nomads miss out on this aspect entirely, spending all their time within the few blocks that surround their apartment and coworking space.
+Few travelers come all the way to Thailand without taking advantage of its natural delights, but it has been our experience that an astonishing number of digital nomads miss out on this aspect entirely, spending all their time within the few blocks that surround their apartment and coworking space.
 
 Those that fall in love with Chiang Mai often cite nature, the mountains and our beautiful surroundings as one of the city's most enchanting qualities, so we highly recommend taking the time to truly experience it.
 
@@ -68,7 +68,15 @@ Those that fall in love with Chiang Mai often cite nature, the mountains and our
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/26FeXqXo2lBeXnsiY?video=0" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div>
 
-<br>Truly connecting with Thailand also means connecting with its people. Known as the Land of Smiles, this moniker is one visitors can easily confirm. Hospitality and manners are deeply important to Thais and the country is well developed for tourism, so everywhere you go you can find friendly people ready to help you. Beyond the gracious hospitality, Thais have a very live and let live attitude that makes it easy for people from very different backgrounds to feel like they have a place here. While the behavior of some Westerners may elicit a raised eyebrow, it will often be accompanied by an accommodating Thai smile. "Mae pen rai," as we say. No worries, you do you. For the oddballs, geeks, and outsiders who never feel like they fit in at home, Chiang Mai is a haven and the city boasts a very eclectic and intellectual expat community. For anybody who's bursting with creative expression or just likes to be a little outrageous - welcome\\\! You will find your weirdos here.&nbsp; Thai people are very friendly, but it's also the long-standing expat community that makes Chiang Mai such a great place for digital nomads. The city has long been home to English Teachers, NGO workers, and a thriving international business community. The first wave of the digital nomad movement were the tech workers who relocated to Chiang Mai, already an established destination for software outsourcing. Get to know the locals, we're a weird, wonderful bunch and you might be surprised at the tech, innovation, and entrepreneurship that's happening outside the nomad scene.
+<br>Truly connecting with Thailand also means connecting with its people. Known as the Land of Smiles, this moniker is one visitors can easily confirm. Hospitality and manners are deeply important to Thais, and the country is well developed for tourism, so everywhere you go you can find friendly people ready to help you.
+
+Beyond the gracious hospitality, Thais have a very live and let live attitude that makes it easy for people from very different backgrounds to feel like they have a place here. While the behavior of some Westerners may elicit a raised eyebrow, it will often be accompanied by an accommodating Thai smile. "Mae pen rai," as we say. No worries, you do you.
+
+For the oddballs, geeks, and outsiders who never feel like they fit in at home, Chiang Mai is a haven and the city boasts a very eclectic and intellectual expat community. For anybody who's bursting with creative expression or just likes to be a little outrageous - welcome\! You will find your weirdos here.&nbsp;
+
+Thai people are very friendly, but it's also the long-standing expat community that makes Chiang Mai such a great place for digital nomads. The city has long been home to English Teachers, NGO workers, and a thriving international business community. The first wave of the digital nomad movement were the tech workers who relocated to Chiang Mai, already an established destination for software outsourcing.
+
+Get to know the locals, we're a weird, wonderful bunch and you might be surprised at the tech, innovation, and entrepreneurship that's happening outside the nomad scene.
 
 ## 5\. Making Friends is Easy
 
@@ -78,7 +86,7 @@ Those that fall in love with Chiang Mai often cite nature, the mountains and our
 
 Have we mentioned we've got lots of oddballs and creatives here? Whatever your hobby or pet project, there's almost certainly a meetup or event that supports it. And if there isn't? It's so easy to start your own thing. Having the space to explore these affinities equates to opportunities to find your tribe. Improv? Crypto? Mountain-biking? Board games? Queer poetry? You name it, we've got it.
 
-When you're travelling a lot, it's easy to feel lonely and disconnected, so being able to make friends and feel truly seen and heard is important. It also helps when you feel like those friendships aren't just passing. As a digital nomad hotspot, chances are really good that the friend you made in Berlin or Bali last year will come around at some point so you can reconnect. Your friendships may not be continuous, but they continue when Chiang Mai is one of your bases.
+When you're traveling a lot, it's easy to feel lonely and disconnected, so being able to make friends and feel truly seen and heard is important. It also helps when you feel like those friendships aren't just passing. As a digital nomad hotspot, chances are really good that the friend you made in Berlin or Bali last year will come around at some point so you can reconnect. Your friendships may not be continuous, but they continue when Chiang Mai is one of your bases.
 
 While they're not that common yet (though trust us, we'll make them happen) coliving spaces also provide as easy way to slot into a community. More than just move-in ready rentals, they're a place where casual conversations in the shared kitchen can deepen into real friendships.
 
@@ -92,13 +100,13 @@ And if it's the local Thai community you want to connect with? Honestly, Tinder 
 
 If you want a crash course on how to get into the SEO and affiliate marketing game or how to set up your Amazon FBA empire, there is an incredible wealth of knowledge you can absorb. Yes, there's lots of people who will try to sell you on their course or coaching, but there are as many or more people who will share their time and talent with you for free.
 
-People like being good at stuff, and we've got a lot of people here who are at the top of their game. It's like they almost can't help themselves when they see somebody sturggling with something that's so easy for them. Why not help?They're already crushing it and they're not threatened that some noob might run off with their secrets.
+People like being good at stuff, and we've got a lot of people here who are at the top of their game. It's like they almost can't help themselves when they see somebody struggling with something that's so easy for them. Why not help? They're already crushing it and they're not threatened that some noob might run off with their secrets.
 
 Our experience has been that established entrepreneurs and professionals are super generous with their time and knowledge here. It feeds a virtuous circle where mentors and masterminds groups are easy to find because people pay it forward. The city has web development and marketing experts galore, experienced entrepreneurs and consultants for all areas of business.
 
 If you want a free crash course, just hang around the watercooler at a coworking space or show up at a few meetups. And if you want to pay for the real deal? We've got top-notch experts you can hire if you've got the coin, as well as freelancers just starting out willing to cut a good deal or who'll work for trade.
 
-The networking opportunities here are insane. The hard part isn't so much meeting people, it's balancing the time to actually get work done with all the opportunities to learn and grow. Fortunately there are also plenty of accountability groups to join and productivity workshops too…
+The networking opportunities here are insane. The hard part isn't so much meeting people, it's balancing the time to actually get work done with all the opportunities to learn and grow. Fortunately, there are also plenty of accountability groups to join and productivity workshops too…
 
 ## 7\. There's Support for Personal Development
 
@@ -128,9 +136,9 @@ And if you're a soulless monster and Thai food's not your thing? Well, you can s
 
 If you fancy a taste of home, there are plenty of Western style supermarkets stocked with many things you'd expect from Publix or M&S (but it might cost you a pretty penny thanks to import duties).
 
-For those focused on maximising their productivity, you can get healthy meal deliveries and lots of coworking spaces either have restaurants onsite or they hook you up with vendors nearby so you don't even need to leave your desk (though we recommend you do so every now and then for rest and variety\!).
+For those focused on maximizing their productivity, you can get healthy meal deliveries and lots of coworking spaces either have restaurants onsite or they hook you up with vendors nearby so you don't even need to leave your desk (though we recommend you do so every now and then for rest and variety\!).
 
-Ask anybody who's been here a while why the love Thailand so much, and the food is sure to be part of it. We have it in vast quantities, at great quality and in infinite varieties. Afterall, you are what you eat, and we spend a significant amount of our lives eating, so when this part's enjoyable and good for you, it's a pretty good foundation for your life, wouldn't you say?
+Ask anybody who's been here a while why they love Thailand so much, and the food is sure to be part of it. We have it in vast quantities, at great quality and in infinite varieties. After all, you are what you eat, and we spend a significant amount of our lives eating, so when this part's enjoyable and good for you, it's a pretty good foundation for your life, wouldn't you say?
 
 ## 9\. A Great Lifestyle is Affordable
 
@@ -144,7 +152,7 @@ The same applies to finding a place to live. You can rent studio apartments for&
 
 Affordability is, of course, important for the digital nomad or location independent entrepreneur for two reasons. The first is that your money can stretch. While the value of the baht is currently up, your money will still go a lot further here than it would if you were living in London or New York while trying to build up your business.
 
-The second reason? Well frankly it gives you the option to work less, if that's what you want. So many of us get sucked into a life built around work at the expense of health, happiness and personal fulfillment. The ability to ease off the gas for a bit to explore your options and know that you're not going to starve or end up on the street is exactly what you need to start designing your dream life and taking a chance on that business idea or passion project.
+The second reason? Well frankly it gives you the option to work less, if that's what you want. So many of us get sucked into a life built around work at the expense of health, happiness, and personal fulfillment. The ability to ease off the gas for a bit to explore your options and know that you're not going to starve or end up on the street is exactly what you need to start designing your dream life and taking a chance on that business idea or passion project.
 
 ## 10\. Arts, Culture, and Creativity Abound
 
@@ -162,7 +170,7 @@ Living amidst all of this creative energy is not only fun for your activity cale
 
 <div style="width:100%;height:0;padding-bottom:64%;position:relative;"><iframe src="https://giphy.com/embed/eAeWHzNNfaCty" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div>
 
-<br>Whether you have only stolen moments in between professional projects or loads of free time to spend, time is still valuable, and you don't want to waste it commuting or being stuck in traffic. Blessedly, Chiang Mai is small and at its absolute worst, you might end up spending 40 minutes instead of 20 driving from one end of town to the other.
+<br>Whether you have only stolen moments in between professional projects or loads of free time to spend, time is still valuable, and you don't want to waste it commuting or being stuck in traffic. Blessedly, Chiang Mai is small and at its absolute worst, you might end up spending forty minutes instead of twenty driving from one end of town to the other.
 
 Try living in Bangkok where it takes half an hour to get anywhere and you can easily lose a third of your day just to travel. If you work from home, this is fine of course, but then what kind of life is that? Being able to get out and explore leads to a fuller, richer life, which is why Chiang Mai's a great choice.
 
@@ -186,7 +194,7 @@ For a loooooong time, it was easy to swan into the country and when your stay wa
 
 We'll save the details on the many options for extending your stay in Thailand long-term for its own post (Education Visas, the Elite Visa, hacking multiple passports etc.), but the gist is, plan ahead, or plan to keep moving.
 
-Efforts on both the local and national level are in place to push for more nomad-friendly visa options (and you can help these move forward by [contributing to a survey on the Economic Impact of Digital Nomads in Chiang Mai](https://docs.google.com/forms/d/e/1FAIpQLSceB-ZX_nBstr5P6XExdxofVpxadse-MKrmtuyN6xq2qg5xnw/viewform?usp=sf_link){: target="_blank"} so while we wait on the government to get immigration in line with national policies for attracting talent, you've got options and [our partners have got your back when it comes to affordable visa services](https://www.facebook.com/mjandco.th/){: target="_blank"}.
+Efforts on both the local and national level are in place to push for more nomad-friendly visa options (and you can help these move forward by [contributing to a survey on the Economic Impact of Digital Nomads in Chiang Mai](https://docs.google.com/forms/d/e/1FAIpQLSceB-ZX_nBstr5P6XExdxofVpxadse-MKrmtuyN6xq2qg5xnw/viewform?usp=sf_link){: target="_blank"}) so while we wait on the government to get immigration in line with national policies for attracting talent, you've got options and [our partners have got your back when it comes to affordable visa services](https://www.facebook.com/mjandco.th/){: target="_blank"}.
 
 ## 13\. Blazing-fast WiFi
 
@@ -194,7 +202,7 @@ Efforts on both the local and national level are in place to push for more nomad
 
 <br>Lastly, of course, no list of why Chiang Mai caters so well to digital nomads would be complete without acknowledging the importance of great motherf\*\*\*ing WiFi. It's not optional, and [Chiang Mai's internet speeds](https://www.speedtest.net/global-index/thailand){: target="_blank"}&nbsp;and coverage are solid.
 
-In other nomad hotspots like Bali, coworking spaces offer the antidote to insfrastructure issues like power cuts and unreliable WiFi, but in Chiang Mai, you never have to worry. Thailand has an excellent telecom infrastructure and wherever you may wander, you won't be far from WiFi.
+In other nomad hotspots like Bali, coworking spaces offer the antidote to infrastructure issues like power cuts and unreliable WiFi, but in Chiang Mai, you never have to worry. Thailand has an excellent telecom infrastructure and wherever you may wander, you won't be far from WiFi.
 
 It's available for free at nearly all accommodations, cafes, restaurants, massage shops, nail salons, and more. Cheap data-plans and extensive 4G coverage mean that your phone is always connected and can act as a WiFi hotspot too.
 
@@ -206,7 +214,7 @@ Phew\! You made it. It's a long list and a beast of a post, we know.
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3oKIPf3C7HqqYBVcCk" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div>
 
-<br>As locals and natives, perhaps we're a little biased here at CoCo as to all the reasons our city is so great, but it doesn't seem hard to understand why digital nomads have chosen and continue to choose Chiang Mai. It's got everything you need to live, work, play, and lead your best life. And afterall, that's what embarking upon this digital nomad path is all about isn't it? Having the freedom and the flexibility to design your dream life.&nbsp;
+<br>As locals and natives, perhaps we're a little biased here at CoCo as to all the reasons our city is so great, but it doesn't seem hard to understand why digital nomads have chosen and continue to choose Chiang Mai. It's got everything you need to live, work, play, and lead your best life. And after all, that's what embarking upon this digital nomad path is all about isn't it? Having the freedom and the flexibility to design your dream life.&nbsp;
 
 If you're a newbie nomad, you could do far worse than choose Chiang Mai as base from which to build your business and begin your travels. Those who've been around the block (or rather the globe…) a couple times will continue to find tremendous value in the city, whether it be from its amenities or its talented community.
 
