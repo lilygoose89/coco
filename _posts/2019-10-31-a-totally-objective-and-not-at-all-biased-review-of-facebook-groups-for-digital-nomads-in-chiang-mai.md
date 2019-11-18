@@ -45,15 +45,13 @@ Repetitive questions can bring down the quality of the group (and open you up to
 
 The best place to start your foray into life as a Chiang Mai digital nomad is this aptly named group. Running since 2014, this massive Facebook community is 30K members strong an counting.
 
-While the networking opportunities are tremendous and you can tap into a wealth of highly relevant knowledge an experience, do know that noob-trolling is likely. Before posting in this group, check Google, or you'll bring great shame upon your house. The admins and moderators seem to have stepped it up of late, but beware the comments can get gnarly from time to time.
+While the networking opportunities are tremendous and you can tap into a wealth of highly relevant knowledge an experience, do know that noob-trolling is likely. Before posting in this group, check Google, or you'll bring great shame upon your house. The admins and moderators seem to have really stepped it up of late, but beware the comments can get gnarly from time to time.
 
-Most posts in this group fall under the categories of "how to digital nomad," "what condo should I live in," and visa questions and gripes, but&nbsp;
-
-Posts need to be approved by an admin before they go up which usually happens within a day, but it's not the best for urgent questions. If you make use of the search function though, there's tons of great answers which have been provided over the years.
+Most posts in this group fall under the categories of "how to digital nomad," "what condo should I live in," and visa questions and gripes. Posts need to be approved by an admin before they go up which usually happens within a day, but it's not the best for urgent questions. If you make use of the search function though, there's tons of great answers which have been provided over the years.
 
 * Relevance: 5/5
 * Friendliness: 4/5
-* Trolliness: 4/5
+* Trolliness: 3/5
 
 ## [Chiang Mai Nomad Girls](https://www.facebook.com/groups/ChiangMaiNomadGirls/){: target="_blank"}
 
@@ -157,7 +155,7 @@ Oh boy… This group can be super duper useful because the network taps into a l
 
 Literally nobody asked you for your opinion on Thai women and how Thailand is changing for the worse or otherwise Dave\! The OP asked where she could buy running shoes in Western sizes….
 
-Proceed with caution and be prepared for vitriol and misogyny. Under no circumstances admin publically that you're a digital nomad or face vast quantities of judgement from old dudes who can't cope with a world that's making them less and less relevant.
+Proceed with caution and be prepared for vitriol and misogyny. Under no circumstances admit publically that you're a digital nomad or face vast quantities of judgement from old dudes who can't cope with a world that's making them less and less relevant.
 
 * Relevance: 2/5
 * Friendliness: 2/5
