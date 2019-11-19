@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Best Meetups in Chiang Mai for Digital Nomads
+title: The Best Meetups in Chiang Mai for Digital Nomads 2019
 images:
-  - /assets/images/wat.jpg
+  - /assets/images/chatting.jpg
 author: Lily
 categories:
   - Chiang Mai
