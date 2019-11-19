@@ -87,6 +87,16 @@ Whether you're deep into investing or a total newbie to cryptocurrency and the w
 
 [RSVP to the event on Meetup.com](https://www.meetup.com/bitcoinsinchiangmai/events/){: target="_blank"} or just show up every Thursday. Stefan typically runs a "crypto and blockchain for dummies" session prior to the mixer so anyone who'd like to be better informed before the jump into the fray can get some solid background.
 
+## Ladies Lunch at Freebird Cafe
+
+If you identify as a lady, a woman, or a girl, you're cordially invited to a the weekly lunch held at Freebird Cafe. Held from 12-2pm each Wednesday, this is a casual gathering of women that draws a mix of locals, nomads and other travellers.
+
+Their menu is all plant-based featuring Shan Burmese inspired noms and wholesome treats like smoothie-bowls and kombucha.Freebird is a social enterprise cafe supporting education for Burmese migrants and refugees, so in addition to eating food that's good for you, you know your money is going to people who will do good with it.
+
+Onsite they also have a donation center, second-hand shop, and zero-waste refill shop. It's all the good things you can do for your body, soul and planet all in the same space\!&nbsp;
+
+Owner Lisa Byrd has really stepped it up of late with the activities, so be sure to follow their Facebook page to find out about movie nights, fundraisers, open mics, and more.
+
 ## Corner Bistro & Small House Kafe
 
 Honorable mention on this list goes to a pair of bars that every nomad should know and love. While they don't host events for digital nomads per se, their proximity to nomad hangouts means that on any given night, you're likely to be rubbing shoulders with your crowd.
