@@ -99,7 +99,7 @@ Corner Bistro has an insanely active events calendar\! Hosting open mic nights, 
 
 Owners Kevin and Sa put a lot of love into this space and even in the off season you'll find stalwart patrons dutifully perched on their regular barstools so anytime of year, it's a good place to meet people. Follow their Facebook page to stay tuned for the latest events and specials.
 
-Small House Kafe basically takes the opposite approach to marketing. They're a simple bar for simple folks, and owners Chris and Dao are happy to keep it that way. The latest event they put on was the delightful *It's Tuesday*\:
+Small House Kafe basically takes the opposite approach to marketing. They're a simple bar for simple folks, and owners Chris and Dao are happy to keep it that way. The latest event they put on was the delightful *It's Tuesday...*
 
 "Facebook likes to remind us that we don’t really exist unless we host more events, so we’re hosting one. This coming Tuesday we are celebrating our existence. We will be open on Tuesday. We were open last Tuesday and we will continue to be open on future Tuesdays. Come celebrate all of our existences this Tuesday or any other Tuesday. All nights only, (except Sunday and Monday, we cease to exist on those days.) Drink all you can afford and ignore the people who annoy you. We’ll be open late\! (Or midnight whatever comes first.)"
 
