@@ -40,9 +40,11 @@ RSVP at the Chiang Mai Entrepreneurship Association's Facebook Event.
 
 ## CNX Social
 
-Also held at the Burisiri Hotel, the CNX Socials happen every other Friday. Super laid back, these are organized by Serena Bahad and tend to draw an eclectic crowd.
+Also held at the Burisiri Hotel, the CNX Socials happen every other Friday also during "the season." Super laid back, these are organized by the vivacious Serena and tend to draw an eclectic crowd.
 
-With no set agenda, these events have a totally chilled out vibe and hey, if you want to jump in the pool, no one minds so long as you're dressed for it.
+With no set agenda, the meetup has a totally chilled out vibe and hey, if you want to jump in the pool, no one minds so long as you're dressed for it\!
+
+Many a new best-friend group has formed at this gathering and while the attendees aren't necessarily all digital nomads, there's a strong feeling of being with yout&nbsp;
 
 Stay tuned to their Facebook Page for event updates. CNX Social also puts on other great nomad-focused social events and professional workshops.
 
