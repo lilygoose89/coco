@@ -49,6 +49,16 @@ With no set agenda, the meetup has a totally chilled out vibe and hey, if you wa
 
 [Stay tuned to their Facebook Page for event updates](https://www.facebook.com/pg/CNXSocial/){: target="_blank"}. CNX Social also puts on other great nomad-focused social events and professional workshops.
 
+## Digital Wombats Meetup
+
+If you don't know what a digital wombat is, no stress, you're still welcome to show up at this friendly meetup hosted by the delightful Beki Adams. The meetup up goes where she goes so you may have seen it in Budapest or elsewhere in Europe, but for the next few months you can join her crew in Chiang Mai.
+
+The Wombats meetup wanders around town too, usually opting for a rooftop bar. It's free to attend and you can grab a drink, hangout and make some new friends. On quiet evenings about a dozen people will show up, but as we roll into high season the meetup is becoming more popular too.
+
+"Digital Wombats is a relaxed meet up that is focused around meeting new friends who are staying in Chiang Mai for a longer time. There's a lot of meet ups for backpackers but this meet up is all about meeting new nomads and connecting over your current projects\!"
+
+The meetup is usually held bi-monthly on a Monday and you should&nbsp;[join the Digital Wombats Facebook group to hear about upcoming events](https://www.facebook.com/groups/673717272821398/){: target="_blank"}.
+
 ## Passion Project Digital Nomad Meetup
 
 New on the meetup scene this year, Passion Project Cafe has started hosting digital nomad meetups in conjunction with [Nomad Radar](https://nomadradar.app/){: target="_blank"}, an app for finding - you guessed it\! - digital nomads a la Happn.
