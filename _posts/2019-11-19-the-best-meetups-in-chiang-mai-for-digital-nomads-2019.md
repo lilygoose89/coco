@@ -43,7 +43,7 @@ CMEA is also the group currently lobbying the government for a digital nomad vis
 
 ## CNX Social
 
-Also held at the Burisiri Hotel, the CNX Socials happen every other Friday during "the season." Super laid back, these are organized by the vivacious Serena and tend to draw an eclectic crowd.
+Also held at the Burisiri Hotel, the CNX Socials happen every other Friday during "the season." Super laid back, these are organized by the vivacious Serena and tend to draw an eclectic crowd. A 50baht cover keeps away the truly miserly, but don't break the bank.
 
 With no set agenda, the meetup has a totally chilled out vibe and hey, if you want to jump in the pool, no one minds so long as you're dressed for it\! Many a new best-friend group has formed at this gathering and while the attendees aren't necessarily all digital nomads, there's a strong feeling of being with like-minded people.
 
