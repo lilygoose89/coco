@@ -76,12 +76,30 @@ The organizers are loose about the format and others are invited to run their ow
 
 [Join their group for updates](https://web.facebook.com/groups/nomadcoffee/){: target="_blank"}, but you can hardly miss the events as they'll be posted far and wide on le Facebook in the days leading up.
 
-## Crypto Meetup
+## Weekly Bitcoin Mixer
 
-Founded by crypto enthusiasts Boban Milošević and Stefan King, these meetups have become a staple of the digital nomad social scene in Chiang Mai. Whether you're deep into crypto investing or the word blockchain sounds like&nbsp;
+Founded by crypto enthusiasts Boban Milošević and Stefan King, these meetups have become a staple of the digital nomad social scene in Chiang Mai.
+
+Whether you're deep into investing or a total newbie to cryptocurrency and the wonders of blockchain, this is a great place to learn and make friends. All that's required is curiosity and a willingness to learn, but deep wells of nerdiness will get you far with this crowd.
+
+[RSVP to the event on Meetup.com](https://www.meetup.com/bitcoinsinchiangmai/events/){: target="_blank"} or just show up every Thursday. Stefan typically runs a "crypto and blockchain for dummies" session prior to the mixer so anyone who'd like to be better informed before the jump into the fray can get some solid background.
 
 ## Corner Bistro & Small House Kafe
 
-Honorable mention on this list goes to a pair of bars that&nbsp;
+Honorable mention on this list goes to a pair of bars that every nomad should know and love. While they don't host events for digital nomads per se, their proximity to nomad hangouts means that on any given night, you're likely to be rubbing shoulders with your crowd.
+
+Meeting people at bars is about as old school as you can get, but there's a reason classics become classics. If you're not into the structure of meetups or just can't make the timings, then try these bars on for size. They're located directly opposite each other a block behind Huay Kaew road so if you're not feeling the vibe of one, just run across the street to try the other.
+
+Corner Bistro has an insanely active events calendar\! Hosting open mic nights, stand up comedy, pub quizzes, movie nights and more - their staple event is Friday Fries & Hip Hop, a great place to sip and sway to your favorite bootie-bouncing tunes. Owners Kevin and Sa put a lot of love into this space and even in the off season you'll find stalwart patrons dutifully perched on their regular barstools so anytime of year, it's a good place to meet people.
+
+Small House Kafe basically takes the opposite approach to marketing. They're a simple bar for simple folks, and they're happy to keep it that way. The latest event they bothered to put on was the delightful *It's Tuesday*\:
+
+"Facebook likes to remind us that we don’t really exist unless we host more events, so we’re hosting one. This coming Tuesday we are celebrating our existence. We will be open on Tuesday. We were open last Tuesday and we will continue to be open on future Tuesdays. Come celebrate all of our existences this Tuesday or any other Tuesday. All nights only, (except Sunday and Monday, we cease to exist on those days.) Drink all you can afford and ignore the people who annoy you. We’ll be open late\! (Or midnight whatever comes first.)"
+
+If your humor has a sarcastic streak, this is the bar for you.&nbsp;
+
+\-----
+
+Chiang Mai is a great place to meet people whether you prefer to do so in a structured environment that helps you get over those awkward hellos or you're a social butterfly seeking a new circle or admirers. So put down that phone, clean your nose, fix your hair and say hello to a new friend today\!&nbsp;
 
 &nbsp;
