@@ -60,7 +60,7 @@ Held so far on Wednesday evenings, things are in full swing by 8pm so best come 
 
 Language lovers unite\! If you're looking for conversation partners to practice a new language with or you'd like to internationalize your circle of friends, the Mundo Lingo events are right up your alley.
 
-Delighting the child within all of us, attendees are invited to play with stickers. A&nbsp;flag sticker for your home country goes up top and additional flags for any languages you speak can also be chosen. Grab drinks, mix and mingle in whatever language you like best\! These meetups have great attendance and the format shakes it up nicely from the usual night out.
+Delighting the child within all of us, attendees are invited to play with stickers. A flag sticker for your home country goes up top and additional flags for any languages you speak can also be chosen. Grab drinks, mix and mingle in whatever language you like best\! These meetups have great attendance and the format shakes it up nicely from the usual night out.
 
 Mundo Lingo is available around the world so if you're a fan, you can look them up in other cities to meet locals and nomads alike.
 
@@ -86,19 +86,29 @@ Whether you're deep into investing or a total newbie to cryptocurrency and the w
 
 ## Corner Bistro & Small House Kafe
 
-Honorable mention on this list goes to a pair of bars that every nomad should know and love. While they don't host events for digital nomads per se, their proximity to nomad hangouts means that on any given night, you're likely to be rubbing shoulders with your crowd.
+Honorable mentions on this list goes to a pair of bars that every nomad should know and love. While they don't host events for digital nomads per se, their proximity to nomad hangouts means that on any given night, you're likely to be rubbing shoulders with your crowd.
 
-Meeting people at bars is about as old school as you can get, but there's a reason classics become classics. If you're not into the structure of meetups or just can't make the timings, then try these bars on for size. They're located directly opposite each other a block behind Huay Kaew road so if you're not feeling the vibe of one, just run across the street to try the other.
+Meeting people at bars is about as old school as you can get, but there's a reason classics become classics. If you're not into the structure of meetups or just can't make the timings, then try these bars on for size.
 
-Corner Bistro has an insanely active events calendar\! Hosting open mic nights, stand up comedy, pub quizzes, movie nights and more - their staple event is Friday Fries & Hip Hop, a great place to sip and sway to your favorite bootie-bouncing tunes. Owners Kevin and Sa put a lot of love into this space and even in the off season you'll find stalwart patrons dutifully perched on their regular barstools so anytime of year, it's a good place to meet people.
+They're located directly opposite each other a block behind Huay Kaew road so if you're not feeling the vibe of one, just run across the street to try the other.
 
-Small House Kafe basically takes the opposite approach to marketing. They're a simple bar for simple folks, and they're happy to keep it that way. The latest event they bothered to put on was the delightful *It's Tuesday*\:
+Corner Bistro has an insanely active events calendar\! Hosting open mic nights, stand up comedy, pub quizzes, movie nights and more. Their staple event is Friday Fries & Hip Hop, a great place to sip and sway to your favorite bootie-bouncing tunes.
+
+Owners Kevin and Sa put a lot of love into this space and even in the off season you'll find stalwart patrons dutifully perched on their regular barstools so anytime of year, it's a good place to meet people. Follow their Facebook page to stay tuned for the latest events and specials.
+
+Small House Kafe basically takes the opposite approach to marketing. They're a simple bar for simple folks, and owners Chris and Dao are happy to keep it that way. The latest event they put on was the delightful *It's Tuesday*\:
 
 "Facebook likes to remind us that we don’t really exist unless we host more events, so we’re hosting one. This coming Tuesday we are celebrating our existence. We will be open on Tuesday. We were open last Tuesday and we will continue to be open on future Tuesdays. Come celebrate all of our existences this Tuesday or any other Tuesday. All nights only, (except Sunday and Monday, we cease to exist on those days.) Drink all you can afford and ignore the people who annoy you. We’ll be open late\! (Or midnight whatever comes first.)"
 
-If your humor has a sarcastic streak, this is the bar for you.&nbsp;
+If your humor has a sarcastic streak, this is the bar for you. Follow their Facebook page for basically no notifications ever, except maybe for Dao's birthday.
 
-\-----
+### [Follow CoCo Chiang Mai for Nomad-friendly Events](https://web.facebook.com/joincococnx/){: target="_blank"}
+
+If you've done the rounds on the above events and you're looking for something new or the idea of putting on a name-tag to meet people makes you cringe, might we suggest you [give our very own Facebook page a follow at CoCo Chiang Mai](https://web.facebook.com/joincococnx/){: target="_blank"}? We regularly host events, activities, and excursions designed just for nomads\!
+
+&nbsp;
+
+&nbsp;
 
 Chiang Mai is a great place to meet people whether you prefer to do so in a structured environment that helps you get over those awkward hellos or you're a social butterfly seeking a new circle or admirers. So put down that phone, clean your nose, fix your hair and say hello to a new friend today\!&nbsp;
 
