@@ -89,11 +89,11 @@ Whether you're deep into investing or a total newbie to cryptocurrency and the w
 
 ## Ladies Lunch at Freebird Cafe
 
-If you identify as a lady, a woman, or a girl, you're cordially invited to a the weekly lunch held at Freebird Cafe. Held from 12-2pm each Wednesday, this is a casual gathering of women that draws a mix of locals, nomads and other travellers.
+If you identify as a lady, a woman, or a girl, you're cordially invited to the weekly lunch held at Freebird Cafe. Held from 12-2pm every Wednesday, this is a casual gathering of women that draws a mix of locals, nomads and other travelers.
 
-Their menu is all plant-based featuring Shan Burmese inspired noms and wholesome treats like smoothie-bowls and kombucha.Freebird is a social enterprise cafe supporting education for Burmese migrants and refugees, so in addition to eating food that's good for you, you know your money is going to people who will do good with it.
+Their menu is all plant-based featuring Shan Burmese inspired noms and wholesome treats like smoothie-bowls and kombucha.
 
-Onsite they also have a donation center, second-hand shop, and zero-waste refill shop. It's all the good things you can do for your body, soul and planet all in the same space\!&nbsp;
+Freebird is a social enterprise cafe supporting education for Burmese migrants and refugees, so in addition to eating food that's good for you, you know your money is going to people who will do good with it. Onsite they also have a donation center, second-hand shop, and zero-waste refill shop. It's all the good things you can do for your body, soul and planet all in the same space\!&nbsp;
 
 Owner Lisa Byrd has really stepped it up of late with the activities, so be sure to follow their Facebook page to find out about movie nights, fundraisers, open mics, and more.
 
