@@ -46,11 +46,27 @@ With no set agenda, the meetup has a totally chilled out vibe and hey, if you wa
 
 Many a new best-friend group has formed at this gathering and while the attendees aren't necessarily all digital nomads, there's a strong feeling of being with yout&nbsp;
 
-Stay tuned to their Facebook Page for event updates. CNX Social also puts on other great nomad-focused social events and professional workshops.
+[Stay tuned to their Facebook Page for event updates](https://www.facebook.com/pg/CNXSocial/){: target="_blank"}. CNX Social also puts on other great nomad-focused social events and professional workshops.
 
 ## Passion Project Digital Nomad Meetup
 
+New on the meetup scene this year, Passion Project Cafe has started hosting digital nomad meetups in conjunction with [Nomad Radar](https://nomadradar.app/){: target="_blank"}, an app for finding - you guessed it\! - digital nomads a la Happn.
+
+Perhaps a bit redundant in a town like Chiang Mai where you can hardly go anywhere in high season without being surrounded by nomads, but one can imagine it's useful in big cities that are more densely populated or up and coming nomad towns&nbsp;
+
+Regardless, the Passion Project Cafe is a gorgeous space and a favorite of nomads since it opened last year. If you haven't checked it out before, their coffee is great, their food's delicious and you can spend the afternoon comfortably working there before packing up your laptop and grabbing a cocktail to socialize once the meetup kicks off.
+
+Held so far on Wednesday evenings, things are in full swing by 8pm so best come early. Follow Passion Project's Facebook Page for event updates.
+
 ## Mundo Lingo
+
+Language lovers unite\! If you're looking for conversation partners to practice a new language with or you'd like to internationalize your circle of friends, the Mundo Lingo events are right up your alley.
+
+Delighting the child within all of us, attendees are invited to play with stickers: a flag sticker for your home country goes up top and additional flags for any languages you speak can also be chosen. Grab drinks, mix and mingle in whatever language you like best\! These meetups have great attendance and the format shakes it up nicely from the usual night out.
+
+Mundo Lingo is available around the world so if you're a fan, you can look them up in other cities to meet locals and nomads alike.
+
+Held on Tuesdays at November Bar by the river, you can[look them up and RSVP on their website](https://mundolingo.org/city.html?cityId=7){: target="_blank"}.
 
 ## Digital Nomad Coffee Club
 
