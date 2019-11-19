@@ -5,9 +5,12 @@ images:
   - /assets/images/chatting.jpg
 author: Lily
 categories:
-  - Chiang Mai
+  - Events
 comments: false
 tags:
+  - lists
+  - Meetups
+  - Events
 ---
 
 Everybody's gotta have friends, and few things are more painful and awkward than making friends as an adult. When you're living a lifestyle that has you constantly on the go and you don't settle in to any one social circle, boy oh boy does this get even harder.&nbsp;
