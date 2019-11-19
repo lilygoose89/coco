@@ -89,7 +89,7 @@ Whether you're deep into investing or a total newbie to cryptocurrency and the w
 
 ## Corner Bistro & Small House Kafe
 
-Honorable mentions on this list goes to a pair of bars that every nomad should know and love. While they don't host events for digital nomads per se, their proximity to nomad hangouts means that on any given night, you're likely to be rubbing shoulders with your crowd.
+Honorable mention on this list goes to a pair of bars that every nomad should know and love. While they don't host events for digital nomads per se, their proximity to nomad hangouts means that on any given night, you're likely to be rubbing shoulders with your crowd.
 
 Meeting people at bars is about as old school as you can get, but there's a reason classics become classics. If you're not into the structure of meetups or just can't make the timings, then try these bars on for size.
 
