@@ -25,8 +25,8 @@ layout: default
 
   <div class="bg-orange grid-spaceAround text-center pad-all-xs" style="position: relative; top: -5vh; min-height: 20vh;">
     {% for highlights in page.highlights %}
-      <div class="col-1">
-        <img src="{{highlights.icon}}" alt="icon {{highlights.icon}}"/>
+      <div class="col-1_md-2_sm-5 pad-top-xs">
+        <img class="highlight-icon" src="{{highlights.icon}}" alt="icon {{highlights.icon}}"/>
         <h4 class="text-white text-center">{{highlights.highlight}}</h4>
       </div>
     {% endfor %}
@@ -113,11 +113,11 @@ layout: default
               </div>
 
               <div class="grid-spaceBetween">
-                <div class="col-5">
+                <div class="col-5_sm-7">
                   <label for="checkin">Check-in Date</label>
                   <input type="date" name="checkin">
                 </div>
-                <div class="col-5">
+                <div class="col-5_sm-7">
                   <label for="date">Check-out Date</label>
                   <input type="date" name="checkout">
                 </div>
@@ -145,7 +145,7 @@ layout: default
   </div>
 </section>
 
-<section class="readable-section" style="position: relative; top: -20vh; min-height: 80vh;">
+<section class="readable-section pad-top-s" style="position: relative; top: -20vh; min-height: 80vh;">
 
   <div class="pad-all-s">
     {% for neighborhood in page.neighborhood %}

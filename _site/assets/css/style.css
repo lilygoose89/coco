@@ -432,6 +432,7 @@ ul.shortcode-list {
     max-width: 200px;
     height: auto;
   }
+
 /*Big social */
 .socials { color: #fff; }
 .big-social {
@@ -609,7 +610,9 @@ ul.shortcode-list {
 }
   .top-bar .title-area .name h1 a {
     font-size: 2.5714285714rem;
-    color: #333; }
+    color: #333;
+    padding: 0;
+    }
 
 .contain-to-grid {
   box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.1);
@@ -847,6 +850,8 @@ ul.shortcode-list {
 
 .container .top-bar .title-area a {
   padding: 0; }
+
+
 
 
 /* about intro */
@@ -2055,6 +2060,16 @@ body {
 .whycocoicon {
   max-height: 50px;
 }
+
+@media only screen and (max-width: 767px) {
+  .highlight-icon {
+    max-height: 30px;
+  }
+  .whycocoicon {
+    max-height: 40px;
+  }
+}
+
 
 /* Arrows */
 .slick-prev,
@@ -4559,11 +4574,16 @@ body {
     width: auto; }
     .f-topbar-fixed.shrink .top-bar .title-area a img {
       width: auto; } }
-@media only screen and (max-width: 767px) {
-  .left-half {
-    width: 100%;
-    padding: 60px;
-  }
+      @media only screen and (max-width: 767px) {
+        .left-half {
+          width: 100%;
+          padding: 60px;
+        }
+      }
+/* fix dumb menu shit in mobile */
+@media only screen and (max-width: 366px) {
+
+}
 
   .right-half {
     width: 100%;
