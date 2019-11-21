@@ -1,5 +1,5 @@
 ---
-thumbnail: "/assets/images/rooms/51hometel/51hometelthumb.jpg"
+thumbnail: "/assets/images/rooms/51hometel/51hometelthumb2.jpg"
 featured_image: "/assets/images/rooms/51hometel/51hometel11.jpg"
 highlights:
   - highlight: Serviced Apartment
