@@ -42,24 +42,24 @@ room-options:
     description: >-
       Airy and comfortable, your bedroom at The Oldtale is furnished with the
       essentials: a bed, dresser and workspace. Select rooms come with a private
-      ensuite bath so you can enjoy privacy and convenience.
-    price: $649
+      ensuite bath so you can enjoy privacy and convenience as well as a television.
+    price: '$649'
     room-type: Bedroom
-    size: XXm²
+    size: Varies by room
     bath: Private ensuite with shower
     bed: Queen or Two Twin
-    workspace: Shared coworking
+    workspace: Desk in room and shared coworking
     kitchen: Shared kitchen
     room-option_image: /assets/images/rooms/oldtale/oldtale11.jpg
   - name: Standard
     description: >-
       Standard rooms at The Oldtale are outfitted with bed, dresser and
-      workspace. Some rooms come with a small private balcony. Dorm style
+      workspace. Some rooms come with a small private balcony. Spacious dorm style
       bathrooms with separate showers and toilet are shared with three other
       rooms.
-    price: $499
+    price: '$499'
     room-type: Bedroom
-    size: XXm²
+    size: Varies by room
     bath: Shared bathroom with showers
     bed: Queen or Two Twin
     workspace: Shared coworking
@@ -72,7 +72,7 @@ neighborhood:
       average nomad, but offers easy access to the Old City and Superhighway.
       The area is up and coming, with hip cafes and concept spaces beginning to
       emerge, but is still very essentially Thai and local. Your nearest
-      7-Eleven is at the top of the road within walking distance. For grogeries
+      7-Eleven is at the top of the road within walking distance. For groceries
       and shopping, head to Central Festival which is less than 10 minutes away
       by motorbike or car.
     googlemapembed: >-
@@ -81,4 +81,3 @@ neighborhood:
       width="100%" height="450" frameborder="0" style="border:0;"
       allowfullscreen=""></iframe>
 ---
-

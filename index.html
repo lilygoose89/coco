@@ -179,7 +179,7 @@ clients:
 <div class='full'>
   <div class='row'>
     <div class='large-10 columns large-centered'>
-      {% include section-title.html small_title="Enjoy a Sneak Peak at Our Properties! Coming November 2019" title="Come Home to Chiang Mai" %}
+      {% include section-title.html small_title="Book a Room with CoCo Now" title="Come Home to Chiang Mai" %}
     </div>
   </div>
 </div>
@@ -203,7 +203,7 @@ clients:
 
         <li class="{{class}}">
           <a>
-          <!-- <a href='{{ room.url | relative_url }}'> -->
+          <a href='{{ room.url | relative_url }}'>
             <img width="{{width}}" height="{{height}}" alt="" src="{{ room.thumbnail | relative_url }}" />
             <div class='overlay'>
               <div class='thumb-info'>
@@ -219,7 +219,7 @@ clients:
     </ul>
   </div>
 </div>
-<div class='full no-padding' style="background-color: #f18f01;">
+<div class='full no-padding' style="background-color: #f18f01; position: relative; top: -2.9vh;">
   <div class="four spacing"></div>
   <div class='row'>
     <div class='large-8 columns'>
@@ -299,13 +299,12 @@ clients:
         <div class='content'>
           <p class='date'>{{ post.date | date: "%B %d, %Y" }}</p>
           <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-          <div class='spacing'></div>
+          <!-- <div class='spacing'></div> -->
           <p>
             <a class='button boxed yellow tiny' href='{{ post.url | relative_url }}'>Read more</a>
           </p>
         </div>
       </div>
-      <!-- <div class="four spacing"></div> -->
     </div>
   {% endfor %}
 </div>
