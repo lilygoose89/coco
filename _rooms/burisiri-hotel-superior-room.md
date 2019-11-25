@@ -32,7 +32,7 @@ room-options:
       Standard rooms at Burisiri Hotel offer luxury amenities in a compact space. Floor to ceiling windows (with blackout curtains) let in ample light with views of the pool courtyard or west to the mountains. Rooms come with a king size bed, dressing table/desk, open wardrobe, telephone, cable TV & satellite channels, in–room safety box, mini fridge, and hot water kettle.
     price: '$999'
     room-type: One-bedroom
-    size: 20 sqm
+    size: '20 sqm'
     bath: Private ensuite with shower
     bed: King
     workspace: Shared coworking
@@ -43,7 +43,7 @@ room-options:
       Superior rooms at Burisiri Hotel are spacious and comfortable and each come with a private balcony. Rooms come with a king size bed, dressing table/desk, open wardrobe, telephone, cable TV & satellite channels, in–room safety box, mini fridge, and hot water kettle.
     price: '$1,299'
     room-type: One-bedroom
-    size: ~ 27 sqm
+    size: '~ 27 sqm'
     bath: Private ensuite with shower
     bed: King
     workspace: Shared coworking
@@ -54,7 +54,7 @@ room-options:
       Offering apartment-style living, Deluxe rooms at Burisiri Hotel offer room to spread out and come outfitted with comfortable luxury amenities. Rooms come with a king size bed, dressing table/desk, couch, wardrobe, telephone, cable TV & satellite channels, in–room safety box, and kitchenette. Each room also has a private balcony with space for dining.
     price: '$1,499'
     room-type: One-bedroom
-    size: ~ 42 sqm
+    size: '~ 42 sqm'
     bath: Private ensuite
     bed: King
     workspace: Shared coworking

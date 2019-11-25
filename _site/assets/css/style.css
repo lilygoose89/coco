@@ -611,7 +611,7 @@ ul.shortcode-list {
   .top-bar .title-area .name h1 a {
     font-size: 2.5714285714rem;
     color: #333;
-    padding: 0;
+    padding: 5% 0 0 0;
     }
 
 .contain-to-grid {
@@ -4582,7 +4582,16 @@ body {
       }
 /* fix dumb menu shit in mobile */
 @media only screen and (max-width: 366px) {
-
+  .nudge-up {
+    position: relative;
+    top: -5vh;
+  }
+  .extend-padding {
+    padding-top: 20%;
+  }
+  .blog-header {
+    top: -19vh;
+  }
 }
 
   .right-half {

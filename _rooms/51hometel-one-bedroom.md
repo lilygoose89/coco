@@ -29,7 +29,7 @@ room-options:
       Compact and comfortable, High ceilings and lots of light make the space airy and bright. These studio apartments come with a private balcony and an ensuite bathroom with a shower. Rooms have a bed, workspace and tv.
     price: '$399'
     room-type: Studio
-    size: ...
+    size: '25 sqm'
     bath: Private ensuite with shower
     bed: Queen
     workspace: Shared coworking
@@ -40,7 +40,7 @@ room-options:
       Great for longer stays and for couples, this one-bedroom apartment is spacious, with a separate living room and bedroom. High ceilings and lots of light make the space airy and comfortable. These apartments come with a private balcony and a small kitchen equipped with a fridge, microwave, and induction cooker (dishware and cookware is also supplied). An ensuite private bath has a combination shower/tub. Rooms have a bed, workspace, tv, couch and bar seating in the kitchenette. This apartment is family-friendly and an extra bed can be added.
     price: '$599'
     room-type: One-bedroom apartment
-    size: ...
+    size: '50 sqm'
     bath: Private ensuite with shower/bath
     bed: Queen
     workspace: Desk in room and shared coworking
