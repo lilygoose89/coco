@@ -5,20 +5,28 @@ images:
   - /assets/images/passport.jpg
 author: Lily
 categories:
-  - Chiang Mai
+  - Resources
 comments: false
 tags:
+  - Visa
+  - SMART Visa
+  - Digital Nomad Visa
+  - resources
 ---
 
 The responsible traveler who likes to plan things (so they don't, you know, get denied entry and deported and stuff) may wonder "how do digital nomads live in Chiang Mai long term?" or "does Thailand have a special visa for digital nomads?"
 
-The short answers are "by skirting immigration laws and bending visa restrictions" and "no." Given Thailand's popularity both as a stop on round-the-world tours and a long-term base for location-independent workers, this may come as a surprise. Those who have spent some time in the kingdom, however, will know that grey areas in laws and enforcement are pretty normal here.
+The short answers are "by skirting immigration laws and bending visa restrictions" and "no."
 
-&nbsp;
+Given Thailand's popularity both as a stop on round-the-world tours and a long-term base for location-independent workers, this may come as a surprise. Those who have spent some time in the kingdom, however, will know that grey areas in laws and enforcement are pretty normal here.
 
-&nbsp;
+The visa options open to digital nomads pretty much depend on 1) how long you want to stay in Thailand, 2) what country your passport is from and 3) where you're currently located. How much you have to spend on a visa and vis services is also relevant, but that really only applies to those who want to be in Thailand long term.
+
+In this post, we'll break down the top visa options for digital nomads in Thailand, explain some of the who and hows, and link you to recommended resources for further reading or assistance.
 
 ## A Digital Nomad's Visa Options in Thailand
+
+For a little background, here's a list of the visa and residency options used by digital nomads to live and work in Thailand:
 
 * Tourist Visa
 * Business Visa
@@ -26,11 +34,17 @@ The short answers are "by skirting immigration laws and bending visa restriction
 * Elite Visa
 * SMART Visa
 
+According to a recent survey on *The Economic Impact of Digital Nomads*, 86% of digital nomads have entered Thailand on a tourist visa (thanks to the Chiang Mai Entrepreneurship Association for putting out the survey and sharing their data with us\!). If Thailand is but one stop on your world tour or you're just dipping your toes into this lifestyle, this is your best option.
+
+For those wanting to stay longer in the country, education visas come in handy, and survey results indicate that 24% of nomads in Chiang Mai take advantage of this option.
+
+12% of digital nomads in Chiang Mai are here on a business visa, but these&nbsp;
+
 ## Digital Nomad Guide to Tourist Visas for Thailand
 
-Who it's for:
+Tourist visas and visa waiver programs are designed for -5 you guessed it - tourists\! These include single-entry tourist visas, multiple-entry tourist visas, and visa-exemptions.
 
-How easy or hard is it to get?
+Designed to encourage travel to tourist-friendly Thailand, these are super easy to get. You can apply through your consulate/embassy whilst in your home country, or if you're from one of [64 countries](https://www.thaiembassy.com/thailand/changes-visa-exempt.php){: target="_blank"}, you can get a visa-exemption stamp upon arrival.
 
 How much does it cost?
 
