@@ -62,21 +62,19 @@ Tourist visas are designed for - you guessed it - tourists\! And if you're not p
 
 Designed to encourage travel to tourist-friendly Thailand, these are super easy to get. You can apply through consulates and embassies around the world, or if you're from one of [64 countries](https://www.thaiembassy.com/thailand/changes-visa-exempt.php){: target="_blank"}, you can just show up and get a visa-exemption stamp upon arrival. This gives you permission to spend a minimum of 30 days in Thailand, with possibilities to extend for a longer stay.
 
-If you apply for extensions and are smart about doing border hops and visa runs, you might be able to game the system to get 6 months. If your itinerary includes travel to neighboring countries, this won't even feel like a chore.
+If you apply for extensions and are smart about doing border hops and visa runs, you might be able to game the system to get 6 months. If your itinerary includes travel to neighboring countries, you can easily build this into your plan.
 
-To enjoy greater flexibility, if at all possible, try to apply for a multiple-entry tourist visa from your home country. While it used to be possible to apply for the METV whilst abroad, Thai embassies around the world have cracked down on this. The METV allows you to spend 4 or 6 months in Thailand (some passports can even get a year) though you will still be required to apply for extensions and do border runs.
+To enjoy greater flexibility though, apply for a multiple-entry tourist visa from your home country. While it used to be possible to apply for the METV whilst abroad, Thai embassies around the world have cracked down on this. The METV allows you to spend 4 or 6 months in Thailand (some passports can even get a year) though you will still be required to apply for extensions and do border runs.
 
-For those already outside their home country or considering options for staying a little longer in Thailand, it is possible to apply for single-entry tourist visa from another country. For those already in Thailand, Laos and Malaysia are the most popular destinations (but those going to Vientiane Laos should be aware that appointments have to be booked in advance these days).
-
-The cost to apply for a visa varies depending on the embassy, but is typically under $50.
+For those already outside their home country or considering options for staying a little longer in Thailand, it is possible to apply for a single-entry tourist visa from outside your home country. For those already in Thailand, Laos and Malaysia are the most popular destinations (but those going to Vientiane, Laos should be aware that appointments have to be booked in advance these days\!). The cost to apply for a visa varies depending on the embassy, but is typically under $50.
 
 If you've been in and out of Thailand for a while, do keep in mind that its more common for immigration to use computer systems to tally your time in Thailand and those with many stamps in and out or who have already spend more than a cumulative 6 months in the kingdom may get hassled at the border. Sometimes this results in more questions and a stern warning, sometimes a jokey suggestion it may be time to wife up and get a marriage visa, or in some cases, being turned away entirely and forced to buy a flight out of the country.
 
-&nbsp;
-
 Further reading:
 
-* [https://hobowithalaptop.com/thailand-visas-explained](https://hobowithalaptop.com/thailand-visas-explained)&nbsp;says updated for 2020 but watch out, the address given for immigration is incorrect
+* Check your home country's official embassy website for the most up-to-date an accurate info\!
+* Thought not the official website, [ThaiEmbassy.com](https://www.thaiembassy.com/thailand/changes-visa-exempt.php){: target="_blank"} is a highly detailed resource.
+* [Hobo With a Laptop has an excellent guide to tourist visas here,](Hobo With a Laptop has a detailed guide to tourist visas here,){: target="_blank"}&nbsp;but while it says its updated for 2020 watch out - the address given for immigration is no longer correct.
 
 If you're coming to Thailand for the first time and you're planning to send no more than 3 months here, you can basically skip most of this article and go straight to the tips and tricks.
 
