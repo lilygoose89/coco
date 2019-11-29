@@ -52,7 +52,7 @@ For a little background, here's a list of the visa and residency options used by
 
 Choosing the right visa option for you depends on 1) how long you want to stay in Thailand, 2) what country your passport is from and 3) where you're currently located. How much you have to spend on a visa and visa services is also relevant, but that mostly applies to those who want to be in Thailand long term.
 
-According to a recent survey on *The Economic Impact of Digital Nomads*, 86% of digital nomads have entered Thailand on a tourist visa (thanks to the Chiang Mai Entrepreneurship Association for putting out the survey and sharing their data with us\!). If Thailand is but one stop on your world tour or you're just dipping your toes into this lifestyle, this is your best option.
+According to a recent survey on *The Economic Impact of Digital Nomads*, 86% of digital nomads have entered Thailand on a tourist visa (thanks to the [Chiang Mai Entrepreneurship Association](https://www.facebook.com/pg/ChiangMaiEntrepreneurs/about/){: target="_blank"} for putting out the survey and sharing their data with us\!). If Thailand is but one stop on your world tour or you're just dipping your toes into this lifestyle, a simple tourist visa is your best option.
 
 For those wanting to stay longer in the country, education visas come in handy, and survey results indicate that 24% of nomads in Chiang Mai take advantage of this option. 16% are here longer term on non-immigrant visas of various description, while 12% of digital nomads have a non-immigrant business visa.
 
@@ -62,37 +62,44 @@ Tourist visas are designed for - you guessed it - tourists\! And if you're not p
 
 Designed to encourage travel to tourist-friendly Thailand, these are super easy to get. You can apply through consulates and embassies around the world, or if you're from one of [64 countries](https://www.thaiembassy.com/thailand/changes-visa-exempt.php){: target="_blank"}, you can just show up and get a visa-exemption stamp upon arrival. This gives you permission to spend a minimum of 30 days in Thailand, with possibilities to extend for a longer stay.
 
-If you apply for extensions and are smart about doing border hops and visa runs, you might be able to game the system to get 6 months. If your itinerary includes travel to neighboring countries, you can easily build this into your plan.
+If you apply for extensions and are smart about doing border hops and visa runs, you might be able to game the system to get 6 months in Thailand. If your itinerary includes travel to neighboring countries, you can easily build this into your plan.
 
-To enjoy greater flexibility though, apply for a multiple-entry tourist visa from your home country. While it used to be possible to apply for the METV whilst abroad, Thai embassies around the world have cracked down on this. The METV allows you to spend 4 or 6 months in Thailand (some passports can even get a year) though you will still be required to apply for extensions and do border runs.
+To enjoy greater flexibility though, apply for a multiple-entry tourist visa from your home country. While it used to be possible to apply for the METV whilst abroad, Thai embassies around the world have cracked down on this. The METV allows you to spend 4 or 6 months in Thailand ([some passports can even get a year](https://www.siam-legal.com/thailand-visa/1-Year-Thailand-Visa.php){: target="_blank"}) though you will still be required to apply for extensions and do border runs.
 
-For those already outside their home country or considering options for staying a little longer in Thailand, it is possible to apply for a single-entry tourist visa from outside your home country. For those already in Thailand, Laos and Malaysia are the most popular destinations (but those going to Vientiane, Laos should be aware that appointments have to be booked in advance these days\!). The cost to apply for a visa varies depending on the embassy, but is typically under $50.
+For those already outside their home country or considering options for staying a little longer in Thailand, it is possible to apply for a single-entry tourist visa from outside your home country. For those already in Thailand, Laos and Malaysia are the most popular destinations (pro-tip for those going to Vientiane, Laos be aware that appointments have to be booked in advance these days\!). The cost to apply for a visa varies depending on the embassy, but is typically under $50.
 
-If you've been in and out of Thailand for a while, do keep in mind that its more common for immigration to use computer systems to tally your time in Thailand and those with many stamps in and out or who have already spend more than a cumulative 6 months in the kingdom may get hassled at the border. Sometimes this results in more questions and a stern warning, sometimes a jokey suggestion it may be time to wife up and get a marriage visa, or in some cases, being turned away entirely and forced to buy a flight out of the country.
+If you've been in and out of Thailand for a while, do keep in mind that its more common now for immigration to use computer systems to tally your time in Thailand and those with many stamps in and out or who have already spent more than a cumulative 6 months in the kingdom may get hassled at the border. Sometimes this results in more questions and a stern warning, sometimes a jokey suggestion it may be time to wife up and get a marriage visa, or in some cases, being turned away entirely and forced to buy a flight out of the country. Yes, for real. [This happens](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.reddit.com%2Fr%2FThailand%2Fcomments%2F6n8lfr%2Fvisitors_with_valid_visas_denied_entry_and%2F&amp;h=AT0u76O4cB2jd5N4ZhcQnG_PPmH0ZFr4SOekdFEKfWv1FZJP-wbhaaFR2J3BFBt5m_HatdvXi0NMJqKfkVqUSDeHtBf-ByiZVJcWeG2vgg1Fk89zHxKRjnCCsqYyjsWAFFyzkv1Kw7LncO922tz8jbmHZ4fKPOXGx4uvVBZzGToI00fxZUbx49hmR74MDBZk1XjG6z_38QDtHdNKw5Je8l233XXdH1xSaBRPmT0aJWg5B0z2nFS3SAllUIWlnm_ajrqacxPGgfwZjL0sXlsgEhyZooYXNB5cVOoUIWz3AQ10977IWrlMXEatbrmIuUT42Kf9rg5qN8ykT0Whdo-n2JIjEWyCWJMDv8-GbgdIVqowB_kd4zT2PywSYJmllJj36TSNoN5ZbO0tVTRCdn6_LJPhFx8Z57zwHJY4KG50pv3nIMlgq5fs9rCrKRDtU0c9zIVgG3rO27onr2OByLFbKCn2ABBAbKLVIgT1BmLuDw1xBY2CJivQK1LjWcDg0lMsvNEaOp493yi_au_N3thKhLEA3ZBuAauIbM3BtcuUutwe6QQ7s95sBXzFzvLmpV1_zOqT_oI9-8isW5PYHU51GmKEU84xN3G1X-VmMzFh1pmeLLjOxyVSb1OlOb36TkhjK5PX8CjsO96fxrwGz-c8mpWIl3_eHFiKUXGuP6nOc4VwoexH3mUym_zrou0Cg0ido2DlHYk7XgrTAf0IcGyCI21OAXRDj2j1VCUkz9Kfea-fRmai6KbtpHEenLiTCQN2GqFECepuFC5XxOcraBOIiokqVz88kOM8prrqAy-KfPo2fspAc1IIGe32gDIF7_W2-kXQYkoQQR3HWzBE9cQK){: target="_blank"}.&nbsp;
 
-Further reading:
-
-* Check your home country's official embassy website for the most up-to-date an accurate info\!
-* Thought not the official website, [ThaiEmbassy.com](https://www.thaiembassy.com/thailand/changes-visa-exempt.php){: target="_blank"} is a highly detailed resource.
-* [Hobo With a Laptop has an excellent guide to tourist visas here,](Hobo With a Laptop has a detailed guide to tourist visas here,){: target="_blank"}&nbsp;but while it says its updated for 2020 watch out - the address given for immigration is no longer correct.
-
-If you're coming to Thailand for the first time and you're planning to send no more than 3 months here, you can basically skip most of this article and go straight to the tips and tricks.
+To restate though, if you're coming to Thailand for the first time and you're planning to send no more than 3 months here, you can basically skip the rest of this article and go straight to the tips and tricks. Entering the country should be a breeze for you.
 
 There's a lot of advice online that will make it seem like getting a visa for Thailand is difficult or stressful, but that's only for people who have been coming here for years or are trying to stay long-term, i.e., they're no longer tourist. It's easy for tourists to come to Thailand, so don't stress.
 
+Further reading:
+
+* The official authority on these matters is the [Ministry of Foreign Affairs](http://www.mfa.go.th/main/en/home){: target="_blank"}. You can also check your home country's official embassy website for the most up-to-date an accurate info.
+* Thought not an official website, [ThaiEmbassy.com](https://www.thaiembassy.com/thailand/changes-visa-exempt.php){: target="_blank"} is a highly detailed resource.
+* [Hobo With a Laptop has an excellent guide to tourist visas here,](Hobo With a Laptop has a detailed guide to tourist visas here,){: target="_blank"}&nbsp;but while it says its updated for 2020 watch out - the address given for immigration is no longer correct.
+
 ## Business Visas for Digital Nomads in Thailand
 
-Who it's for:
+Most "business visas" issued in Thailand are for employment. In other words, a local company wants to employ a foreigner so they need to issue that person a visa. This is just not relevant to most nomads.
 
-How easy or hard is it to get?
+The other type of business visa is the Non-Immigrant B Visa (Conducting Business) which is for "[foreigners who wish to setup or conduct business in Thailand](https://www.siam-legal.com/thailand-visa/business-visa-thailand.php){: target="_blank"}," so again probably not relevant for most digital nomads.
 
-How much does it cost?
+If you're looking to make Thailand a base and you wish to operate a business in the kingdom, or your work requires you to make frequent business trips to Thailand, then this may be the visa option for you.
 
-How to get it:
+Bear in mind there'll be tons of fun paperwork involved to confirm your financials, travel itinerary and more. If you're self-employed then you'll almost certainly have to register a company in Thailand which involves lawyers and accountant and more paperwork. In order to legally work in Thailand, foreigners also need a work permit along with the appropriate visa. Yay, even more paperwork\!
 
-What to look out for:
+If you're a digital nomad who feels icky about the idea of "working illegally" in Thailand and thinks that getting a business visa will be the answer - it's&nbsp;*probably -&nbsp;*not worth the hassle. But we're not lawyers at CoCo, if you want a definitive answer consult a lawyer\! Searching for answers on the internet is more likely to lead you to a visa forum circle-jerk rather than a clear answer.&nbsp;
+
+Do note that if you're in Thailand on a typical business trip, you're fine. Thai authorities are not out to get you. People come to the country all the time for conferences, business meetings and the like on tourist visas with the intent to do business. That said, it is probably still simplest to mark the Purpose of Visit on your arrival card as "holiday" to avoid hassle.
 
 Further reading:
+
+* A good [Q&A on the Ministry of Foreign Affair's website](http://www.mfa.go.th/main/en/services/4908/15380-Questions-&amp;-Answers-on-Thai-Visa.html){: target="_blank"}&nbsp;might help provide some clarity on your situation. Hint: 9/10 times though they'll tell you you need a proper visa.
+* [Expat Den has a nice breakdown of business visas for more info](https://www.expatden.com/thailand/thailand-business-visa/){: target="_blank"}.
+* If you'd like to learn about setting up a business in Thailand, [check out Expat Den's hella thorough checklist and guide](https://www.expatden.com/thailand/thailand-company-registration/){: target="_blank"}.
+* If you're interested in the nuances of Thailand's labor laws as they pertain to digital nomads and work permits, [Chiang Mai Locator did a great interview on this in 2017](http://www.chiangmailocator.com/wiki-can-digital-nomads-legally-work-in-thailand-p177){: target="_blank"}.
 
 ## Education Visas and Programs in Chiang Mai for Digital Nomads
 
@@ -153,4 +160,4 @@ Further reading:
 
 ### Need help Arranging Your Visa to Thailand?
 
-...
+…
