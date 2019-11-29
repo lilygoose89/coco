@@ -90,7 +90,7 @@ The other type of business visa is the Non-Immigrant B Visa (Conducting Business
 
 If you're looking to make Thailand a base and you wish to operate a business in the kingdom, or your work requires you to make frequent business trips to Thailand, then this may be the visa option for you. (But like, are you even a nomad then? Probably you call yourself location-independent and whatnot).
 
-Bear in mind there'll be tons of fun paperwork involved to confirm your financials, travel itinerary and more. If you're self-employed then you'll almost certainly have to register a company in Thailand which involves lawyers and accountant and more paperwork. In order to legally work in Thailand, foreigners also need a work permit along with the appropriate visa. Yay, even more paperwork\!
+Bear in mind there'll be tons of fun paperwork involved to confirm your financials, travel itinerary and more. If you're self-employed then you'll almost certainly have to register a company in Thailand which involves lawyers and accountants and more paperwork. In order to legally work in Thailand, foreigners also need a work permit along with the appropriate visa. Yay, even more paperwork\!
 
 If you're a digital nomad who feels icky about the idea of "working illegally" in Thailand and thinks that getting a business visa will be the answer - it's&nbsp;*probably -&nbsp;*not worth the hassle. But we're not lawyers at CoCo, if you want a definitive answer consult a lawyer\! Searching for answers on the internet is more likely to lead you to a visa forum circle-jerk rather than a clear answer.&nbsp;
 
