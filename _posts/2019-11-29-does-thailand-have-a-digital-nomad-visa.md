@@ -132,7 +132,7 @@ The main benefit of the Elite Visa is you can get a renewable multiple-entry vis
 
 For these privileges, the Elite program asks for a mere THB500,000 (roughly US$16,500) fee for the 5 year visa. If you've got THB2 million on hand you can get a visa for an astonishing 20 years\!&nbsp;
 
-If you're living in Thailand longterm and you factor in visa fees over the years along with the airfare and hotel costs of years' worth of visa runs, the numbers could well work out in your favor. You're basically paying a huge chunk up front to sidestep the hassle. But yeah, that's a lot of money in one go.
+If you're living in Thailand longterm and you factor in visa fees over time along with the airfare and hotel costs of years' worth of visa runs, the numbers could well work out in your favor. You're basically paying a huge chunk up front to sidestep the hassle. But yeah, that's a lot of money in one go.
 
 The Elite Visa is a pretty nice option considering that so few other visas suit digital nomads, but bear in mind that this visa doesn't give you the right to work in Thailand and you still need to do 90-day reporting (or a least have an agency do it for you).
 
