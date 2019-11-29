@@ -74,7 +74,7 @@ If you've been in and out of Thailand for a while, do keep in mind that its more
 
 To restate though, if you're coming to Thailand for the first time and you're planning to send no more than 3 months here, you can basically skip the rest of this article and go straight to the tips and tricks. Entering the country should be a breeze for you.
 
-There's a lot of advice online that will make it seem like getting a visa for Thailand is difficult or stressful, but that's only for people who have been coming here for years or are trying to stay long-term, i.e., they're no longer tourist. It's easy for tourists to come to Thailand, so don't stress.
+There's a lot of advice online that will make it seem like getting a visa for Thailand is difficult or stressful, but that's only for people who have been coming here for years or are trying to stay long-term, i.e., they're no longer tourists. It's easy for tourists to come to Thailand, so don't stress.
 
 Further reading:
 
@@ -105,31 +105,32 @@ Further reading:
 
 ## Education Visas and Programs in Chiang Mai for Digital Nomads
 
-The most commonly pursued option for
+The most commonly pursued option for foreigners wanting to extend their stays in Thailand, education visas are straightforward to get and get you 6 months or 1 year in this sunny and beautiful kingdom, with possibilities of renewing for further study.
 
-Who it's for:
+An education visa is issued for the purpose of study (in the case of nomads this typically comes under the category of "informal" i.e. non-university study). Common programs are for studying Thai language, non-Thai languages, and martial arts like Muay Thai or hand to hand combat.
 
-How easy or hard is it to get?
+This visa gives you the right to live in Thailand, but not to work, and if you plan to work around the rules, for goodness sake do not bring this up in any of your submitted paperwork or whilst speaking to immigration. Tons of digital nomads living and working in Thailand use this visa, and it's a big open secret, but let's not spoil it shall we?
 
-How much does it cost?
+The nice thing about ed visas is that they're pretty easy and straightforward to get (at least the first couple times). Another upside is that good schools are also super helpful about paperwork, helping to send you warnings and reminders, and managing follow up visa paperwork for you.
 
-How to get it:
+One downside of ed-visas though is they're not cheap since you have pay for the visa application *and* for your program of study which can range from a few hundred to a few thousand dollars depending on your school of choice. They're also not set up for multiple-entry so you will need to apply for re-entry permits when leaving the country and traveling during your course of study.
 
-What to look out for:
+You will also, of course, have to actually attend classes\! Depending on the program, this might just class a couple hours a week, though some courses will be more intensive. Some programs, however, literally just need you to show up once a week to sign the register and you leave right after (did we mention people are blatantly abusing this system?).
 
 Further reading:
 
+* Once again we'd recommend [turning to Expat Den for their guide to education visas](https://www.expatden.com/thailand/thailand-education-visa/){: target="_blank"}.
+* Due to the blatant abuse of this system, schools get black-balled and run into issues constantly - even reputable ones - so at this point in time we'll decline to share links or comment on specific programs to follow up on. To get the latest, check out the [Thai Visa Forums](https://forum.thaivisa.com/search/?&amp;q=%22education%20visa%22&amp;search_and_or=or&amp;sortby=relevancy){: target="_blank"}.
+
 ## Elite Visa for Digital Nomads in Thailand
 
-Who it's for:
+If you're committed to staying in Thailand and you've got money to burn, congratulations, you can make all your Thailand visa problems go away with the Elite Visa\!
 
-How easy or hard is it to get?
+This is a privilege scheme with zero to no real perks, and frankly we admire the balls Thailand has to even offer something like this, but there's capitalism for you - there's always someone willing to pay if you can find them. Commentary aside, this is a program that's been around since 2013 and plenty of wealthy nomads and expats take advantage.
 
-How much does it cost?
+The main benefit of the Elite Visa is you can get a renewable multiple-entry visa valid for 5 years that requires no additional extensions or border runs. You also get access to fast-track visa services and a concierge to help you with the pesky day to days of setting up bank accounts, buying property etc.
 
-How to get it:
-
-What to look out for:
+For these privileges, the Elite program asks for a mere THB 500,000 (roughly US$16,500) application fee.
 
 Further reading:
 
