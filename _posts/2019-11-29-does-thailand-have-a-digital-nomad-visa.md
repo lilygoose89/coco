@@ -148,9 +148,11 @@ Hopes were dashed when the details of Thailand's SMART Visa scheme were released
 
 Designed to encourage entrepreneurship, innovation and investment in innovative business sectors, the SMART Visa program has special visa classes for talent, executives, investors and entrepreneurs along with their spouses and children.
 
-For digital nomads working on a startup and looking for a permanent home, the SMART S for startup entrepreneurs may be worth checking. While the 1 year and 1 year options are clearly intended for those with capital and a strong intent to make Thailand a business base (so yeah, probably not nomads), a 6 month option is available for those admitted to approved incubator and accelerator programs (could be nomads?\!).
+For digital nomads working on a startup and looking for a permanent home, the SMART S for startup entrepreneurs may be worth checking. While the 1 year and 1 year options are clearly intended for those with capital and a strong intent to make Thailand a business base (so probably not nomads...), but a 6 month option is available for those admitted to approved incubator and accelerator programs (could be nomads?\!).
 
-Non-startup-y nomads would do well to keep tabs on the SMART Visa program - rumor has it a so-called "SMART Freelancer" extension of the program is in the works.&nbsp;
+The benefits of the SMART Visa program is that it eliminates the need for a redundant visa *and* work-permit, and also relaxes some of the check-in requirements, both excellent reductions in the usual red tape around Thai bureaucracy. Some criticism is warranted though since the program is new and lacks adequate administrative support. Jury's still out, but we say things are looking hopeful.
+
+Non-startup-y nomads would do well to keep tabs on the SMART Visa program - rumor has it a so-called "SMART Freelancer" extension of the program is in the works. Thailand is keen to attract talent and encourage knowledge sharing, and those with the skills to create and scale startups, digitize SMEs, and mentor techy businesses could be in luck.
 
 Further reading:
 
