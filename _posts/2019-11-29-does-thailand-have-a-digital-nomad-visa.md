@@ -92,7 +92,7 @@ If you're looking to make Thailand a base and you wish to operate a business in 
 
 Bear in mind there'll be tons of fun paperwork involved to confirm your financials, travel itinerary and more. If you're self-employed then you'll almost certainly have to register a company in Thailand which involves lawyers and accountants and more paperwork. In order to legally work in Thailand, foreigners also need a work permit along with the appropriate visa. Yay, even more paperwork\!
 
-If you're a digital nomad who feels icky about the idea of "working illegally" in Thailand and thinks that getting a business visa will be the answer - it's&nbsp;*probably -&nbsp;*not worth the hassle. But we're not lawyers at CoCo, if you want a definitive answer consult a lawyer\! Searching for answers on the internet is more likely to lead you to a visa forum circle-jerk rather than a clear answer.&nbsp;
+If you're a digital nomad who feels icky about the idea of "working illegally" in Thailand and thinks that getting a business visa will be the answer - it's&nbsp;*probably&nbsp;*not worth the hassle. But we're not lawyers at CoCo, if you want a definitive answer consult a lawyer\! Searching for answers on the internet is more likely to lead you to a visa forum circle-jerk rather than a clear answer.&nbsp;
 
 Do note that if you're in Thailand on a typical business trip, you're fine. Thai authorities are not out to get you. People come to the country all the time for conferences, business meetings and the like on tourist visas with the intent to do business. That said, it is probably still simplest to mark the Purpose of Visit on your arrival card as "holiday" to avoid hassle.
 
