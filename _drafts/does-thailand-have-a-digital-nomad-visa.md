@@ -128,15 +128,19 @@ If you're committed to staying in Thailand and you've got money to burn, congrat
 
 This is a privilege scheme with zero to no real perks, and frankly we admire the balls Thailand has to even offer something like this, but there's capitalism for you - there's always someone willing to pay if you can find them. Commentary aside, this is a program that's been around since 2013 and plenty of wealthy nomads and expats take advantage.
 
-The main benefit of the Elite Visa is you can get a renewable multiple-entry visa valid for 5 years that requires no additional extensions or border runs. You also get access to fast-track visa services and a concierge to help you with the pesky day to days of setting up bank accounts, buying property etc.
+The main benefit of the Elite Visa is you can get a renewable multiple-entry visa valid for 5 years ore more that requires no additional extensions or border runs. You also get access to fast-track visa services and a concierge to help you with the pesky day to days of setting up bank accounts, buying property etc.
 
-For these privileges, the Elite program asks for a mere THB 500,000 (roughly US$16,500) application fee.
+For these privileges, the Elite program asks for a mere THB500,000 (roughly US$16,500) fee for the 5 year visa. If you've got THB2 million on hand you can get a visa for an astonishing 20 years\!&nbsp;
+
+If you're living in Thailand longterm and you factor in visa fees over the years along with the airfare and hotel costs of years' worth of visa runs, the numbers could well work out in your favor. You're basically paying a huge chunk up front to sidestep the hassle. But yeah, that's a lot of money in one go.
+
+The Elite Visa is a pretty nice option considering that so few other visas suit digital nomads, but bear in mind that this visa doesn't give you the right to work in Thailand and you still need to do 90-day reporting (or a least have an agency do it for you).
 
 Further reading:
 
-* [https://www.thailandelite.com/](https://www.thailandelite.com/?locate=en)
-* [https://www.expatden.com/thailand/thailand-elite-visa-review/](https://www.expatden.com/thailand/thailand-elite-visa-review/)
-* [https://nomadcapitalist.com/2018/01/22/thai-elite-visa/](https://nomadcapitalist.com/2018/01/22/thai-elite-visa/)
+* Go straight to the source for shiny branding at [ThailandElite.com](https://www.thailandelite.com/){: target="_blank"}.
+* [Expat Den again has the least biased and sales-y bullshit review we've found of the Elite Visa program](https://www.expatden.com/thailand/thailand-elite-visa-review/){: target="_blank"}.
+* [Nomad Capitalist isn't very sweet on this program, but still has great info to share along with interesting Thailand visa alternatives for the wealthy](https://nomadcapitalist.com/2018/01/22/thai-elite-visa/){: target="_blank"}.
 
 ## Thailand SMART Visa for Digital Nomad Startups
 
