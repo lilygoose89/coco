@@ -86,9 +86,9 @@ Further reading:
 
 Most "business visas" issued in Thailand are for employment. In other words, a local company wants to employ a foreigner so they need to issue that person a visa. This is just not relevant to most nomads.
 
-The other type of business visa is the Non-Immigrant B Visa (Conducting Business) which is for "[foreigners who wish to setup or conduct business in Thailand](https://www.siam-legal.com/thailand-visa/business-visa-thailand.php){: target="_blank"}," so again probably not relevant for most digital nomads.
+The other type of business visa is the Non-Immigrant B Visa (Conducting Business) which is for "[foreigners who wish to setup or conduct business in Thailand](https://www.siam-legal.com/thailand-visa/business-visa-thailand.php){: target="_blank"}," so again probably not relevant for most digital nomads who may be "working" in Thailand, but not actually "doing work" in Thailand.
 
-If you're looking to make Thailand a base and you wish to operate a business in the kingdom, or your work requires you to make frequent business trips to Thailand, then this may be the visa option for you.
+If you're looking to make Thailand a base and you wish to operate a business in the kingdom, or your work requires you to make frequent business trips to Thailand, then this may be the visa option for you. (But like, are you even a nomad then? Probably you call yourself location-independent and whatnot).
 
 Bear in mind there'll be tons of fun paperwork involved to confirm your financials, travel itinerary and more. If you're self-employed then you'll almost certainly have to register a company in Thailand which involves lawyers and accountant and more paperwork. In order to legally work in Thailand, foreigners also need a work permit along with the appropriate visa. Yay, even more paperwork\!
 
