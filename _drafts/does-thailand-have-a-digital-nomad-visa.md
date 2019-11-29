@@ -144,29 +144,22 @@ Further reading:
 
 ## Thailand SMART Visa for Digital Nomad Startups
 
-Who it's for:
+Hopes were dashed when the details of Thailand's SMART Visa scheme were released a couple years ago and it turned out to be next to useless for digital nomads. While the first iteration of this program was universally panned for obscene and unrealistic criteria and capital requirements, [changes and updates to the requirements were rolled out pretty quickly](https://www.aseannomad.capital/blog/thailand-smart-visa-dec-24-updates-many-fantastic-changes){: target="_blank"}.
 
-How easy or hard is it to get?
+Designed to encourage entrepreneurship, innovation and investment in innovative business sectors, the SMART Visa program has special visa classes for talent, executives, investors and entrepreneurs along with their spouses and children.
 
-How much does it cost?
+For digital nomads working on a startup and looking for a permanent home, the SMART E for startup entrepreneurs may be worth checking. While the 1 year and 1 year options are clearly intended for those with capital and a strong intent to make Thailand a business base, a 6 month option is available for those admitted to approved incubator and accelerator programs.
 
-How to get it:
-
-What to look out for:
+Not startup-y nomads would do well to keep tabs on the SMART Visa program - rumor has it a so-called "SMART Freelancer" extension of the program is in the works.&nbsp;
 
 Further reading:
 
-* [https://smart-visa.boi.go.th/smart/](https://smart-visa.boi.go.th/smart/){: target="_blank"}
-* [https://www.locationindependent.co.uk/thai-smart-visa/](https://www.locationindependent.co.uk/thai-smart-visa/)
-* [https://iglu.net/thailand-smart-visa-explained/](https://iglu.net/thailand-smart-visa-explained/){: target="_blank"}
+* The official source of information is the [Thailand Board of Investment's SMART Visa site](https://smart-visa.boi.go.th/smart/){: target="_blank"}.
+* Exceptionally detailed and thoughtful, [head to LocationIndepent.co.uk for a breakdown and review of Thailand's SMART Visa program](https://www.locationindependent.co.uk/thai-smart-visa/){: target="_blank"}.
+* [Iglu also has a good explanation of what the SMART Visa program is and isn't](https://iglu.net/thailand-smart-visa-explained/){: target="_blank"}.
 
-## Other Thailand Visa and Immigration Tips for Digital Nomads
+&nbsp;
 
-* Fly directly in to Chiang Mai
-* Make Yourself Presentable
-* Join Visa Groups
-* Chiang Mai Immigration Location and Hours
+&nbsp;
 
-### Need help Arranging Your Visa to Thailand?
-
-…
+Ok, we're as tired of writing as you are of reading now, but hopefully this answered your question about whether or not Thailand has a digital nomad visa and given you options to think about for your situation.&nbsp;
