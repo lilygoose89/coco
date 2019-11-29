@@ -38,7 +38,9 @@ While no official public announcements have been made to date, this is a priorit
 
 For those who are ready to move to Thailand now or can't afford to just wait around though, what are the current alternatives?
 
-In the next section, we'll break down the top visa options for digital nomads in Thailand, explain some of the who and hows, and link you to recommended resources for further reading or assistance.
+In the next section, we'll break down the top visa options for digital nomads in Thailand, explain some of the who and hows. If you're looking for a detailed how-to guides for any of the visas below, this is not it. We do, however, link to official websites and well-researched resources we trust.
+
+\*DISCLAIMER FOR THOSE WHO DON'T UNDERSTAND HOW BLOGS AND THE MODERN INTERNET WORKS\* None of what you read below constitutes legal advice. CoCo is not a legal company and the writer of this blog is not a lawyer. Use the information below at your own risk.
 
 ## A Digital Nomad's Visa Options in Thailand
 
@@ -102,6 +104,8 @@ Further reading:
 * If you're interested in the nuances of Thailand's labor laws as they pertain to digital nomads and work permits, [Chiang Mai Locator did a great interview on this in 2017](http://www.chiangmailocator.com/wiki-can-digital-nomads-legally-work-in-thailand-p177){: target="_blank"}.
 
 ## Education Visas and Programs in Chiang Mai for Digital Nomads
+
+The most commonly pursued option for
 
 Who it's for:
 
