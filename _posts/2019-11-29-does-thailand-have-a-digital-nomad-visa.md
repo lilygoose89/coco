@@ -148,9 +148,9 @@ Hopes were dashed when the details of Thailand's SMART Visa scheme were released
 
 Designed to encourage entrepreneurship, innovation and investment in innovative business sectors, the SMART Visa program has special visa classes for talent, executives, investors and entrepreneurs along with their spouses and children.
 
-For digital nomads working on a startup and looking for a permanent home, the SMART S for startup entrepreneurs may be worth checking. While the 1 year and 1 year options are clearly intended for those with capital and a strong intent to make Thailand a business base, a 6 month option is available for those admitted to approved incubator and accelerator programs.
+For digital nomads working on a startup and looking for a permanent home, the SMART S for startup entrepreneurs may be worth checking. While the 1 year and 1 year options are clearly intended for those with capital and a strong intent to make Thailand a business base (so yeah, probably not nomads), a 6 month option is available for those admitted to approved incubator and accelerator programs.
 
-Not startup-y nomads would do well to keep tabs on the SMART Visa program - rumor has it a so-called "SMART Freelancer" extension of the program is in the works.&nbsp;
+Non-startup-y nomads would do well to keep tabs on the SMART Visa program - rumor has it a so-called "SMART Freelancer" extension of the program is in the works.&nbsp;
 
 Further reading:
 
