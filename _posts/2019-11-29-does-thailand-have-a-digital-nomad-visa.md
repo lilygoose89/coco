@@ -126,31 +126,31 @@ Further reading:
 
 If you're committed to staying in Thailand and you've got money to burn, congratulations, you can make all your Thailand visa problems go away with the Elite Visa\!
 
-This is a privilege scheme with zero to no real perks, and frankly we admire the balls Thailand has to even offer something like this, but there's capitalism for you - there's always someone willing to pay if you can find them. Commentary aside, this is a program that's been around since 2013 and plenty of wealthy nomads and expats take advantage.
+This is a privilege scheme with zero to no real perks for residents in Chiang Mai, and frankly we admire the balls Thailand has to even offer something like this, but there's capitalism for you - there's always someone willing to pay if you can find them. Commentary aside, this is a program that's been around since 2013 and plenty of wealthy nomads and expats take advantage.
 
-The main benefit of the Elite Visa is you can get a renewable multiple-entry visa valid for 5 years ore more that requires no additional extensions or border runs. You also get access to fast-track visa services and a concierge to help you with the pesky day to days of setting up bank accounts, buying property etc.
+The main benefit of the Elite Visa is you can get a renewable multiple-entry visa valid for 5 years or more that requires no additional extensions or border runs. You also get access to fast-track visa services and a concierge to help you with the pesky day to days of setting up bank accounts, buying property etc.
 
-For these privileges, the Elite program asks for a mere THB500,000 (roughly US$16,500) fee for the 5 year visa. If you've got THB2 million on hand you can get a visa for an astonishing 20 years\!&nbsp;
+For these privileges, the Elite program asks for a mere THB500,000 fee (roughly US$16,500) for the 5 year visa. If you've got THB2 million on hand you can get a visa for an astonishing 20 years\!&nbsp;
 
-If you're living in Thailand longterm and you factor in visa fees over time along with the airfare and hotel costs of years' worth of visa runs, the numbers could well work out in your favor. You're basically paying a huge chunk up front to sidestep the hassle. But yeah, that's a lot of money in one go.
+Steep, but if you're living in Thailand longterm and you factor in visa fees over time along with the cumulative airfare and hotel costs the numbers could well work out in your favor. You're basically paying a huge chunk up front to sidestep the hassle.
 
 The Elite Visa is a pretty nice option considering that so few other visas suit digital nomads, but bear in mind that this visa doesn't give you the right to work in Thailand and you still need to do 90-day reporting (or a least have an agency do it for you).
 
 Further reading:
 
 * Go straight to the source for shiny branding at [ThailandElite.com](https://www.thailandelite.com/){: target="_blank"}.
-* [Expat Den again has the least biased and sales-y bullshit review we've found of the Elite Visa program](https://www.expatden.com/thailand/thailand-elite-visa-review/){: target="_blank"}.
+* [Expat Den again has the least biased and sales-y review we've found of the Elite Visa program](https://www.expatden.com/thailand/thailand-elite-visa-review/){: target="_blank"}.
 * [Nomad Capitalist isn't very sweet on this program, but still has great info to share along with interesting Thailand visa alternatives for the wealthy](https://nomadcapitalist.com/2018/01/22/thai-elite-visa/){: target="_blank"}.
 
 ## Thailand SMART Visa for Digital Nomad Startups
 
 Hopes were dashed when the details of Thailand's SMART Visa scheme were released a couple years ago and it turned out to be next to useless for digital nomads. While the first iteration of this program was universally panned for obscene and unrealistic criteria and capital requirements, [changes and updates to the requirements were rolled out pretty quickly](https://www.aseannomad.capital/blog/thailand-smart-visa-dec-24-updates-many-fantastic-changes){: target="_blank"}.
 
-Designed to encourage entrepreneurship, innovation and investment in innovative business sectors, the SMART Visa program has special visa classes for talent, executives, investors and entrepreneurs along with their spouses and children.
+Designed to encourage entrepreneurship and investment in innovative business sectors, the SMART Visa program has special visa classes for talent, executives, investors and entrepreneurs along with their spouses and children.
 
-For digital nomads working on a startup and looking for a permanent home, the SMART S for startup entrepreneurs may be worth checking. While the 1 year and 1 year options are clearly intended for those with capital and a strong intent to make Thailand a business base (so probably not nomads…), but a 6 month option is available for those admitted to approved incubator and accelerator programs (could be nomads?\!).
+For digital nomads working on a startup and looking for a permanent home, the SMART S for startup entrepreneurs may be worth checking out. While the 1 year and 2 year options are clearly intended for those with capital and a strong intent to make Thailand a business base (so probably not nomads…), a 6 month option is available for those admitted to approved incubator and accelerator programs (could be nomads?\!).
 
-The benefits of the SMART Visa program is that it eliminates the need for a redundant visa *and* work-permit, and also relaxes some of the check-in requirements, both excellent reductions in the usual red tape around Thai bureaucracy. Some criticism is warranted though since the program is new and lacks adequate administrative support. Jury's still out, but we say things are looking hopeful.
+The benefits of the SMART Visa program are that it eliminates the need for a redundant visa *and* work-permit, and also relaxes some of the check-in requirements, both excellent reductions in the usual red tape around Thai bureaucracy. Some criticism is warranted though since the program is new and lacks adequate administrative support. Jury's still out, but we say things are looking hopeful.
 
 Non-startup-y nomads would do well to keep tabs on the SMART Visa program - rumor has it a so-called "SMART Freelancer" extension of the program is in the works. Thailand is keen to attract talent and encourage knowledge sharing, and those with the skills to create and scale startups, digitize SMEs, and mentor techy businesses could be in luck.
 
@@ -162,6 +162,6 @@ Further reading:
 
 &nbsp;
 
-&nbsp;
+While nomads heading to Thailand have a number of visa options for short and long-term stays, none of these are ideal for the roving entrepreneur or remote worker. The digital nomad trend is fairly new in the scheme of things, however, so its unsurprising governments (who are not exactly known for moving fast and catching on to trends) have yet to catch up.
 
-Ok, we're as tired of writing as you are of reading now, but hopefully this answered your question about whether or not Thailand has a digital nomad visa and given you options to think about for your situation.&nbsp;
+Thailand has been going through some major political shifts and we're seeing [exciting changes that signal more openness in the government](http://www.khaosodenglish.com/politics/2019/11/14/finally-a-law-on-importing-and-producing-medical-cannabis-is-almost-here/){: target="_blank"}, as well as [baffling and backward blunders](https://www.bbc.com/news/world-asia-49470726){: target="_blank"}, but there's [cause to be hopeful that the kingdom will be one of the first countries in the world to truly embrace digital nomads with made-for-purpose visa policies](https://www.chiangmaicitylife.com/citynow/social-life/live-events/digital-nomad-visa-press-conference-at-chiang-mai-co/){: target="_blank"}.
