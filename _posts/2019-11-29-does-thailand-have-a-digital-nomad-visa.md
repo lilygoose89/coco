@@ -54,7 +54,7 @@ For a little background, here's a list of the visa and residency options used by
 
 Choosing the right visa option for you depends on 1) how long you want to stay in Thailand, 2) what country your passport is from and 3) where you're currently located. How much you have to spend on a visa and visa services is also relevant, but that mostly applies to those who want to be in Thailand long term.
 
-According to a recent survey on *The Economic Impact of Digital Nomads*, 86% of digital nomads have entered Thailand on a tourist visa (thanks to the [Chiang Mai Entrepreneurship Association](https://www.facebook.com/pg/ChiangMaiEntrepreneurs/about/){: target="_blank"} for putting out the survey and sharing their data with us\!). If Thailand is but one stop on your world tour or you're just dipping your toes into this lifestyle, a simple tourist visa is your best option.
+According to a recent [survey on *The Economic Impact of Digital Nomads*](https://drive.google.com/open?id=10wQvH3zwbRQV9s8kfk9pN6dxwFvMx_LQ){: target="_blank"}, 86% of digital nomads have entered Thailand on a tourist visa (thanks to the [Chiang Mai Entrepreneurship Association](https://www.facebook.com/pg/ChiangMaiEntrepreneurs/about/){: target="_blank"} for putting out the survey and sharing their data with us\!). If Thailand is but one stop on your world tour or you're just dipping your toes into this lifestyle, a simple tourist visa is your best option.
 
 For those wanting to stay longer in the country, education visas come in handy, and survey results indicate that 24% of nomads in Chiang Mai take advantage of this option. 16% are here longer term on non-immigrant visas of various description, while 12% of digital nomads have a non-immigrant business visa.
 
@@ -78,7 +78,7 @@ There's a lot of advice online that will make it seem like getting a visa for Th
 
 Further reading:
 
-* The official authority on these matters is the [Ministry of Foreign Affairs](http://www.mfa.go.th/main/en/home){: target="_blank"}. You can also check your home country's official embassy website for the most up-to-date an accurate info.
+* The official authority on these matters is the [Ministry of Foreign Affairs](http://www.mfa.go.th/main/en/home){: target="_blank"}. You can also check your home country's official embassy website for the most up-to-date and accurate info.
 * Thought not an official website, [ThaiEmbassy.com](https://www.thaiembassy.com/thailand/changes-visa-exempt.php){: target="_blank"} is a highly detailed resource.
 * [Hobo With a Laptop has an excellent guide to tourist visas here,](Hobo With a Laptop has a detailed guide to tourist visas here,){: target="_blank"}&nbsp;but while it says its updated for 2020 watch out - the address given for immigration is no longer correct.
 
@@ -88,7 +88,7 @@ Most "business visas" issued in Thailand are for employment. In other words, a l
 
 The other type of business visa is the Non-Immigrant B Visa (Conducting Business) which is for "[foreigners who wish to setup or conduct business in Thailand](https://www.siam-legal.com/thailand-visa/business-visa-thailand.php){: target="_blank"}," so again probably not relevant for most digital nomads who may be "working" in Thailand, but not actually "doing work" in Thailand.
 
-If you're looking to make Thailand a base and you wish to operate a business in the kingdom, or your work requires you to make frequent business trips to Thailand, then this may be the visa option for you. (But like, are you even a nomad then? Probably you call yourself location-independent and whatnot).
+If you're looking to make Thailand an official base of operations or your work requires you to make frequent business trips to Thailand, then this may be the visa option for you. (But like, are you even a nomad then? Probably you call yourself location-independent and whatnot).
 
 Bear in mind there'll be tons of fun paperwork involved to confirm your financials, travel itinerary and more. If you're self-employed then you'll almost certainly have to register a company in Thailand which involves lawyers and accountants and more paperwork. In order to legally work in Thailand, foreigners also need a work permit along with the appropriate visa. Yay, even more paperwork\!
 
@@ -98,7 +98,7 @@ Do note that if you're in Thailand on a typical business trip, you're fine. Thai
 
 Further reading:
 
-* A good [Q&A on the Ministry of Foreign Affair's website](http://www.mfa.go.th/main/en/services/4908/15380-Questions-&amp;-Answers-on-Thai-Visa.html){: target="_blank"}&nbsp;might help provide some clarity on your situation. Hint: 9/10 times though they'll tell you you need a proper visa.
+* A good [Q&A on the Ministry of Foreign Affair's website](http://www.mfa.go.th/main/en/services/4908/15380-Questions-&amp;-Answers-on-Thai-Visa.html){: target="_blank"}&nbsp;might help provide some clarity on your situation. Hint: 9/10 times though they'll tell you you need to apply for a proper business visa.
 * [Expat Den has a nice breakdown of business visas for more info](https://www.expatden.com/thailand/thailand-business-visa/){: target="_blank"}.
 * If you'd like to learn about setting up a business in Thailand, [check out Expat Den's hella thorough checklist and guide](https://www.expatden.com/thailand/thailand-company-registration/){: target="_blank"}.
 * If you're interested in the nuances of Thailand's labor laws as they pertain to digital nomads and work permits, [Chiang Mai Locator did a great interview on this in 2017](http://www.chiangmailocator.com/wiki-can-digital-nomads-legally-work-in-thailand-p177){: target="_blank"}.
@@ -115,12 +115,12 @@ The nice thing about ed visas is that they're pretty easy and straightforward to
 
 One downside of ed-visas though is they're not cheap since you have pay for the visa application *and* for your program of study which can range from a few hundred to a few thousand dollars depending on your school of choice. They're also not set up for multiple-entry so you will need to apply for re-entry permits when leaving the country and traveling during your course of study.
 
-You will also, of course, have to actually attend classes\! Depending on the program, this might just class a couple hours a week, though some courses will be more intensive. Some programs, however, literally just need you to show up once a week to sign the register and you leave right after (did we mention people are blatantly abusing this system?).
+You will also, of course, have to actually attend classes\! Depending on the program, this might be just class a couple hours a week, though some courses will be more intensive. Some programs, however, literally just need you to show up once a week to sign the register and you leave right after (did we mention people are blatantly abusing this system?).
 
 Further reading:
 
 * Once again we'd recommend [turning to Expat Den for their guide to education visas](https://www.expatden.com/thailand/thailand-education-visa/){: target="_blank"}.
-* Due to the blatant abuse of this system, schools get black-balled and run into issues constantly - even reputable ones - so at this point in time we'll decline to share links or comment on specific programs to follow up on. To get the latest, check out the [Thai Visa Forums](https://forum.thaivisa.com/search/?&amp;q=%22education%20visa%22&amp;search_and_or=or&amp;sortby=relevancy){: target="_blank"}.
+* Due to the widespread abuse of this system, schools get black-balled and run into issues constantly - even reputable ones - so at this point in time we'll decline to share links or comment on specific programs to follow up on. To get the latest, check out the [Thai Visa Forums](https://forum.thaivisa.com/search/?&amp;q=%22education%20visa%22&amp;search_and_or=or&amp;sortby=relevancy){: target="_blank"}.
 
 ## Elite Visa for Digital Nomads in Thailand
 
@@ -148,7 +148,7 @@ Hopes were dashed when the details of Thailand's SMART Visa scheme were released
 
 Designed to encourage entrepreneurship, innovation and investment in innovative business sectors, the SMART Visa program has special visa classes for talent, executives, investors and entrepreneurs along with their spouses and children.
 
-For digital nomads working on a startup and looking for a permanent home, the SMART S for startup entrepreneurs may be worth checking. While the 1 year and 1 year options are clearly intended for those with capital and a strong intent to make Thailand a business base (so probably not nomads...), but a 6 month option is available for those admitted to approved incubator and accelerator programs (could be nomads?\!).
+For digital nomads working on a startup and looking for a permanent home, the SMART S for startup entrepreneurs may be worth checking. While the 1 year and 1 year options are clearly intended for those with capital and a strong intent to make Thailand a business base (so probably not nomads…), but a 6 month option is available for those admitted to approved incubator and accelerator programs (could be nomads?\!).
 
 The benefits of the SMART Visa program is that it eliminates the need for a redundant visa *and* work-permit, and also relaxes some of the check-in requirements, both excellent reductions in the usual red tape around Thai bureaucracy. Some criticism is warranted though since the program is new and lacks adequate administrative support. Jury's still out, but we say things are looking hopeful.
 
