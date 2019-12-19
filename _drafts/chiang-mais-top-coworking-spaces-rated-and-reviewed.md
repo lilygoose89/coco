@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Chiang Mai's Top Coworking Spaces Rated and Reviewed
 images:
   - /assets/images/passport.jpg
 author: Lily
