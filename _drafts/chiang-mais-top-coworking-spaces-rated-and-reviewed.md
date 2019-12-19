@@ -27,11 +27,13 @@ If you're looking to tap into the magic of coworking in Chiang Mai, we've got a 
 
 Along with important details like location and price, we'll also be rating spaces based on the following criteria: 1 Workspace, 2) Ambiance/Environment 3) Amenities and 4) Community.
 
+Get ready, you're in for another beast of a post\! Here's a handy table of contents to skip through the places already on your radar:
+
 ## Punspace
 
 By far Chiang Mai's largest and most popular coworking brand, Punspace was founded in 2013 with their first Nimman branch and have since grown to a total of three locations across the city. These guys have been doing the coworking things for a while and they do it right.
 
-With hot desks for monthly members and drop-ins as well as private offices for small teams and startups, Punspace is a full-service coworking company. Each of the spaces has a different feel and vibe, but you can count on great internet, proper workspaces with desks and ergonomic chairs, Skype booths, and meeting rooms along with coffee and drinking water included.
+With hot desks for monthly members and drop-ins as well as private offices for small teams and startups, Punspace is a full-service coworking company. Each of the spaces has a different feel and vibe, but you can count on great internet, workspaces with desks and ergonomic chairs, Skype booths, and meeting rooms along with coffee and drinking water included.
 
 Due to its location, the original Nimman branch is quite popular, but that also makes it crowded. While the vibe here is great for getting work done and also meeting people, those who get distracted by a lot of nearby humans might not like this location.
 
@@ -41,63 +43,52 @@ Punspace Wiang Kaew in the Old City is their newest location and our personal fa
 
 If you want a proper desk and professional amenities, and you'd enjoy the convenience of access to multiple spaces, then a membership at Punspace is just the ticket. If you're turned off by work places that are full of dudes though, then Punspace might not be your vibe.
 
-Punspace have an active community and host tons of workshops and networking events, but the staff are pretty hands off, meaning that the quality of the workshop depends on the professionalism of the presenter. When it comes to networking there's no real facilitation, so you'll have to rely on your own social skills or hope for a good organic experience.&nbsp;
+Punspace have an active community and host tons of workshops and networking events, but the staff are pretty hands off, meaning that the quality of the workshop depends on the professionalism of the presenter - and when it comes to networking there's no real facilitation, so you'll have to rely on your own social skills or hope for a good group and organic experience.&nbsp;
 
-* Workspace: Lots of desks,&nbsp;
-* Ambiance/Environment
-* Amenities
-* Community
+**Our Rating:**
 
-#### Punspace Nimman
-
-* Location: &nbsp;7/2 Rachadamnoen Road, Soi 4, Chiang Mai, Thailand
-* Pricing:
-* Website:
-* Coworker.com Rating:&nbsp;
-
-#### Punspace Thae Pae
-
-* Location: &nbsp;7/2 Rachadamnoen Road, Soi 4, Chiang Mai, Thailand
-* Pricing:
-* Website:
-* Coworker.com Rating:&nbsp;
-
-#### Punspace Wiang Kaew
-
-* Location: &nbsp;7/2 Rachadamnoen Road, Soi 4, Chiang Mai, Thailand
-* Pricing:
-* Website:
-* Coworker.com Rating:&nbsp;
+* Workspace: 5/5
+* Ambiance/Environment: 5/5
+* Amenities: 5/5
+* Community: 4/5
 
 #### &nbsp;
 
-## Passion Project Cafe
-
-* Location:
-* Pricing:
-* Website:
-* Coworker.com Rating:&nbsp;
-
-&nbsp;
-
-* Workspace
-* Ambiance/Environment
-* Amenities
-* Community
+* Location: &nbsp;
+  * **Punspace Nimman**\: 14 Sirimangkalajarn Soi 11, Chiang Mai, Thailand
+  * **Punspace Thae Pae**\: 7/2 Rachadamnoen Road, Soi 4, Chiang Mai, Thailand
+  * **Punspace Wiang Kaew**\: 10 Wiang Kaew Road, Sri Phum, Chiang Mai, Thailand
+* Pricing: ฿289 for a day pass or ฿3,899 for a monthly hot-desk membership
+* Website:&nbsp;[punspace.com](http://www.punspace.com/){: target="_blank"}
+* Coworker.com Rating: [4\.5/5](https://www.coworker.com/thailand/chiang-mai/punspace-nimman){: target="_blank"}<br>&nbsp;
 
 ## Hub53
 
-* Location:
-* Pricing:
-* Website:
-* Coworker.com Rating:&nbsp;
+Another firm favorite of the Chiang Mai coworking scene, Hub53 is a coliving and coworking space located on the western edge of Nimmanhaemin along the Canal Road.
+
+One of the best things about Hub53 is it's small, which makes for a friendly and well-connected community. One of the worst things about Hub53 is that it's small, so being elbow to elbow with people you're really good friends with becomes hella distracting.
+
+In terms of amenities, they have good desks, chairs and plenty of outlets. They offer bookable Skype rooms (suitable for those who teach online), a meeting room, plus a projector for running workshops in the evenings.
+
+A great perk is the espresso machine and unlimited coffee, Hub53 also have a great smoothie and salad bar onsite which you can order from without even having to leave the coworking space\!
+
+If you're into coliving, this is one of the few on offer in Chiang Mai, but fair warning rooms are small, limited, and often booked out way in advance.
+
+Hub53 also have an active events calendar and they're a great venue to partner with if you want to put on a workshop or meetup.
+
+**Our Rating:**
+
+* Workspace: 4/5
+* Ambiance/Environment: 3/4 (a highway outside ain't the greatest)
+* Amenities: 4/5 (great amenities, just small)
+* Community: 5/5
 
 &nbsp;
 
-* Workspace
-* Ambiance/Environment
-* Amenities
-* Community
+* Location: 53 Chonprathan Road, Suthep, Mueang, Chiang Mai, Thailand
+* Pricing: ฿299 for a day pass or ฿2799 for a monthly hot-desk
+* Website:&nbsp;[hub53.com/coworking](https://www.hub53.com/coworking)
+* Coworker.com Rating: 4/5<br>&nbsp;
 
 ## Buristro Cafe (Burisiri Hotel)
 
