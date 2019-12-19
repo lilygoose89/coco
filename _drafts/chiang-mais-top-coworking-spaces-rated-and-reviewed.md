@@ -8,10 +8,9 @@ categories:
   - Resources
 comments: false
 tags:
-  - Visa
-  - SMART Visa
-  - Digital Nomad Visa
   - resources
+  - lists
+  - Coworking
 ---
 
 Chiang Mai's many coworking spaces are one of the top reasons the city is so popular with digital nomads. While you can access fast internet from just about anywhere in Thailand, coworking offers three main benefits for the location-independent entrepreneur or remote worker.
@@ -28,11 +27,14 @@ If you're looking to tap into the magic of coworking in Chiang Mai, we've got a 
 
 Along with important details like location and price, we'll also be rating spaces based on the following criteria: 1) Internet Speed, 2) Workspace, 3) Ambiance/Environment 4) Amenities and 5) Community.
 
-&nbsp;
-
-&nbsp;
-
 ## Punspace
+
+* Location:
+* Pricing:
+* Website:
+* Coworker.com Rating:&nbsp;
+
+&nbsp;
 
 * Internet Speed
 * Workspace
@@ -42,6 +44,13 @@ Along with important details like location and price, we'll also be rating space
 
 ## Passion Project Cafe
 
+* Location:
+* Pricing:
+* Website:
+* Coworker.com Rating:&nbsp;
+
+&nbsp;
+
 * Internet Speed
 * Workspace
 * Ambiance/Environment
@@ -49,6 +58,13 @@ Along with important details like location and price, we'll also be rating space
 * Community
 
 ## Hub53
+
+* Location:
+* Pricing:
+* Website:
+* Coworker.com Rating:&nbsp;
+
+&nbsp;
 
 * Internet Speed
 * Workspace
@@ -58,6 +74,13 @@ Along with important details like location and price, we'll also be rating space
 
 ## Buristro Cafe (Burisiri Hotel)
 
+* Location:
+* Pricing:
+* Website:
+* Coworker.com Rating:&nbsp;
+
+&nbsp;
+
 * Internet Speed
 * Workspace
 * Ambiance/Environment
@@ -65,6 +88,13 @@ Along with important details like location and price, we'll also be rating space
 * Community
 
 ## The Brick
+
+* Location:
+* Pricing:
+* Website:
+* Coworker.com Rating:&nbsp;
+
+&nbsp;
 
 * Internet Speed
 * Workspace
@@ -74,6 +104,13 @@ Along with important details like location and price, we'll also be rating space
 
 ## Heartwork the Sharing Space
 
+* Location:
+* Pricing:
+* Website:
+* Coworker.com Rating:&nbsp;
+
+&nbsp;
+
 * Internet Speed
 * Workspace
 * Ambiance/Environment
@@ -81,6 +118,13 @@ Along with important details like location and price, we'll also be rating space
 * Community
 
 ## CAMP (Maya)
+
+* Location:
+* Pricing:
+* Website:
+* Coworker.com Rating:&nbsp;
+
+&nbsp;
 
 * Internet Speed
 * Workspace
@@ -90,6 +134,13 @@ Along with important details like location and price, we'll also be rating space
 
 ## TCDC
 
+* Location:
+* Pricing:
+* Website:
+* Coworker.com Rating:&nbsp;
+
+&nbsp;
+
 * Internet Speed
 * Workspace
 * Ambiance/Environment
@@ -97,6 +148,13 @@ Along with important details like location and price, we'll also be rating space
 * Community
 
 ## The Common Space
+
+* Location:
+* Pricing:
+* Website:
+* Coworker.com Rating:&nbsp;
+
+&nbsp;
 
 * Internet Speed
 * Workspace
@@ -106,6 +164,13 @@ Along with important details like location and price, we'll also be rating space
 
 ## Starwork
 
+* Location:
+* Pricing:
+* Website:
+* Coworker.com Rating:&nbsp;
+
+&nbsp;
+
 * Internet Speed
 * Workspace
 * Ambiance/Environment
@@ -113,6 +178,13 @@ Along with important details like location and price, we'll also be rating space
 * Community
 
 ## M-A-N-A
+
+* Location:
+* Pricing:
+* Website:
+* Coworker.com Rating:&nbsp;
+
+&nbsp;
 
 * Internet Speed
 * Workspace
@@ -122,6 +194,13 @@ Along with important details like location and price, we'll also be rating space
 
 ## Planter's
 
+* Location:
+* Pricing:
+* Website:
+* Coworker.com Rating:&nbsp;
+
+&nbsp;
+
 * Internet Speed
 * Workspace
 * Ambiance/Environment
@@ -130,6 +209,13 @@ Along with important details like location and price, we'll also be rating space
 
 ## Yellow - Opening 2020
 
+* Location:
+* Pricing:
+* Website:
+* Coworker.com Rating:&nbsp;
+
+&nbsp;
+
 * Internet Speed
 * Workspace
 * Ambiance/Environment
@@ -137,6 +223,13 @@ Along with important details like location and price, we'll also be rating space
 * Community
 
 ## Coco Kala - Opening 2020
+
+* Location:
+* Pricing:
+* Website:
+* Coworker.com Rating:&nbsp;
+
+&nbsp;
 
 * Internet Speed
 * Workspace
