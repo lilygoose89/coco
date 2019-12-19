@@ -25,22 +25,51 @@ And the third reason coworking spaces are so great? The people\! Coworking space
 
 If you're looking to tap into the magic of coworking in Chiang Mai, we've got a list of the top coworking spaces around town along with details about the benefits they offer or who they're most suited to.
 
-Along with important details like location and price, we'll also be rating spaces based on the following criteria: 1) Internet Speed, 2) Workspace, 3) Ambiance/Environment 4) Amenities and 5) Community.
+Along with important details like location and price, we'll also be rating spaces based on the following criteria: 1 Workspace, 2) Ambiance/Environment 3) Amenities and 4) Community.
 
 ## Punspace
 
-* Location:
+By far Chiang Mai's largest and most popular coworking brand, Punspace was founded in 2013 with their first Nimman branch and have since grown to a total of three locations across the city. These guys have been doing the coworking things for a while and they do it right.
+
+With hot desks for monthly members and drop-ins as well as private offices for small teams and startups, Punspace is a full-service coworking company. Each of the spaces has a different feel and vibe, but you can count on great internet, proper workspaces with desks and ergonomic chairs, Skype booths, and meeting rooms along with coffee and drinking water included.
+
+Due to its location, the original Nimman branch is quite popular, but that also makes it crowded. While the vibe here is great for getting work done and also meeting people, those who get distracted by a lot of nearby humans might not like this location.
+
+The Thae Pae branch is the largest and most spacious, with a hip warehouse-y vibe. Sharing the same building is a Burkta Cafe and Makerspace Thailand, a cool fabrication space where you can work with 3D printers, laser cutters and power tools.
+
+Punspace Wiang Kaew in the Old City is their newest location and our personal favorite. With a large grassy courtyard and trees, it feels like an oasis in the city. When you need a break from work you can go sit in the hammock, grab coffee and lunch at the onsite cafes or pop into the zero-waste refill store. Also on this campus is Chiang Mai & Co, a one-top service for SMART Visa and business-services that is an active core of Chiang Mai's startup scene.
+
+If you want a proper desk and professional amenities, and you'd enjoy the convenience of access to multiple spaces, then a membership at Punspace is just the ticket. If you're turned off by work places that are full of dudes though, then Punspace might not be your vibe.
+
+Punspace have an active community and host tons of workshops and networking events, but the staff are pretty hands off, meaning that the quality of the workshop depends on the professionalism of the presenter. When it comes to networking there's no real facilitation, so you'll have to rely on your own social skills or hope for a good organic experience.&nbsp;
+
+* Workspace: Lots of desks,&nbsp;
+* Ambiance/Environment
+* Amenities
+* Community
+
+#### Punspace Nimman
+
+* Location: &nbsp;7/2 Rachadamnoen Road, Soi 4, Chiang Mai, Thailand
 * Pricing:
 * Website:
 * Coworker.com Rating:&nbsp;
 
-&nbsp;
+#### Punspace Thae Pae
 
-* Internet Speed
-* Workspace
-* Ambiance/Environment
-* Amenities
-* Community
+* Location: &nbsp;7/2 Rachadamnoen Road, Soi 4, Chiang Mai, Thailand
+* Pricing:
+* Website:
+* Coworker.com Rating:&nbsp;
+
+#### Punspace Wiang Kaew
+
+* Location: &nbsp;7/2 Rachadamnoen Road, Soi 4, Chiang Mai, Thailand
+* Pricing:
+* Website:
+* Coworker.com Rating:&nbsp;
+
+#### &nbsp;
 
 ## Passion Project Cafe
 
@@ -51,7 +80,6 @@ Along with important details like location and price, we'll also be rating space
 
 &nbsp;
 
-* Internet Speed
 * Workspace
 * Ambiance/Environment
 * Amenities
@@ -66,7 +94,6 @@ Along with important details like location and price, we'll also be rating space
 
 &nbsp;
 
-* Internet Speed
 * Workspace
 * Ambiance/Environment
 * Amenities
@@ -81,7 +108,6 @@ Along with important details like location and price, we'll also be rating space
 
 &nbsp;
 
-* Internet Speed
 * Workspace
 * Ambiance/Environment
 * Amenities
@@ -96,7 +122,6 @@ Along with important details like location and price, we'll also be rating space
 
 &nbsp;
 
-* Internet Speed
 * Workspace
 * Ambiance/Environment
 * Amenities
@@ -111,7 +136,6 @@ Along with important details like location and price, we'll also be rating space
 
 &nbsp;
 
-* Internet Speed
 * Workspace
 * Ambiance/Environment
 * Amenities
@@ -126,7 +150,6 @@ Along with important details like location and price, we'll also be rating space
 
 &nbsp;
 
-* Internet Speed
 * Workspace
 * Ambiance/Environment
 * Amenities
@@ -141,7 +164,6 @@ Along with important details like location and price, we'll also be rating space
 
 &nbsp;
 
-* Internet Speed
 * Workspace
 * Ambiance/Environment
 * Amenities
@@ -156,7 +178,6 @@ Along with important details like location and price, we'll also be rating space
 
 &nbsp;
 
-* Internet Speed
 * Workspace
 * Ambiance/Environment
 * Amenities
@@ -171,7 +192,6 @@ Along with important details like location and price, we'll also be rating space
 
 &nbsp;
 
-* Internet Speed
 * Workspace
 * Ambiance/Environment
 * Amenities
@@ -186,7 +206,6 @@ Along with important details like location and price, we'll also be rating space
 
 &nbsp;
 
-* Internet Speed
 * Workspace
 * Ambiance/Environment
 * Amenities
@@ -201,7 +220,6 @@ Along with important details like location and price, we'll also be rating space
 
 &nbsp;
 
-* Internet Speed
 * Workspace
 * Ambiance/Environment
 * Amenities
@@ -216,7 +234,6 @@ Along with important details like location and price, we'll also be rating space
 
 &nbsp;
 
-* Internet Speed
 * Workspace
 * Ambiance/Environment
 * Amenities
@@ -224,14 +241,13 @@ Along with important details like location and price, we'll also be rating space
 
 ## Coco Kala - Opening 2020
 
-* Location:
-* Pricing:
-* Website:
-* Coworker.com Rating:&nbsp;
+* Location: TBA
+* Pricing: TBA
+* Website:&nbsp;
+* Coworker.com Rating: NA
 
 &nbsp;
 
-* Internet Speed
 * Workspace
 * Ambiance/Environment
 * Amenities
