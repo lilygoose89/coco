@@ -115,10 +115,16 @@ If you want the full suite of office style amenities and space for private meeti
 
 ## The Brick
 
-* Location:
-* Pricing:
-* Website:
-* Coworker.com Rating:&nbsp;
+Tucked waaaaaaay in the back corner off Sirimankalajarn Rd (next to Nimman), this coworking space is run by Chiang Mai University through it's science, technology and innovation center, STeP. It's also home to STeP's incubator programs so you'll find a handful of Thai startups operating out of here.
+
+Plenty of Thai freelancers, startups and university students work out of here, making it one of the few places in town where locals mingle with the digital nomad population. If you want to feel more connected to the local tech scene, this is definitely a good place to check out.
+
+The Brick has a central coworking zone with desks and beanbags galore as well as meeting rooms and private offices for rent. It's a good place to host an event
+
+* Location: 31 Sirimangkalachan Rd. Soi 13, T. Sutep, A. Muang, Chiang Mai, Thailand
+* Pricing: ฿250 for a day pass or ฿3700 for a monthly pass
+* Hours:&nbsp;
+* Website:&nbsp;[facebook.com/thebrickspace](https://www.facebook.com/thebrickspace/){: target="_blank"}
 
 &nbsp;
 
