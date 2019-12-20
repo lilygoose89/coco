@@ -37,9 +37,9 @@ With hot desks for monthly members and drop-ins as well as private offices for s
 
 Due to its location, the original Nimman branch is quite popular, but that also makes it crowded. The Thae Pae branch is the largest and most spacious, with a hip warehouse-y vibe and it gets extra cool points for being next door to [Makerspace Thailand](https://www.facebook.com/makerspaceth/){: target="_blank"}.
 
-Punspace Wiang Kaew in the Old City is their newest location and our personal favorite. With a large grassy courtyard and trees, it feels like an oasis in the city. When you need a break from work you can go sit in the hammock, grab coffee and lunch at the onsite cafes or pop into the zero-waste refill store. Also on this campus is Chiang Mai & Co, a one-top service for SMART Visa and business-services that is an active core of Chiang Mai's startup scene.
+Punspace Wiang Kaew in the Old City is their newest location and our personal favorite. With a large grassy courtyard and trees, it feels like an oasis in the city. When you need a break from work you can go sit in the hammock or grab coffee and lunch at the onsite cafes or pop into the zero-waste refill store. Also on this campus is Chiang Mai & Co, a one-top service for SMART Visa and business-services that is an active core of Chiang Mai's startup scene.
 
-If you want a proper desk and professional amenities, and you'd enjoy the convenience of access to multiple spaces, then a membership at Punspace is just the ticket. If you're turned off by work places that are full of dudes though, then Punspace might not be your vibe.
+If you want a proper desk and professional amenities, and you'd enjoy the convenience of access to multiple spaces, then a membership at Punspace is just the ticket. If you're turned off by work places that are crammed full of dudes though, then Punspace might not be your vibe.
 
 Punspace have an active community and host tons of workshops and networking events, but the staff are pretty hands off, meaning that the quality of the workshop depends on the professionalism of the presenter - and when it comes to networking there's no real facilitation, so you'll have to rely on your own social skills or hope for a good group and organic experience.&nbsp;
 
@@ -135,8 +135,12 @@ The Brick has a central coworking zone with desks and beanbags galore as well as
 
 ## Heartwork the Sharing Space
 
+With it's pastel pink decor and abundance of tropical plants, Heartwork the Sharing Space definitely comes off a bit millenial girlie, but it's a nice place to work out of even if that's not your usual aesthetic. Located southeast of the Old City, it's very convenient for those who live nearby in Chang Klan.&nbsp;
+
+The owners run a graphic design and printing business and converted the large 2-storey space for coworking.&nbsp;
+
 * Location:
-* Pricing:
+* Pricing: Coffee + ฿50 gets you 3hrs wifi
 * Website:
 * Coworker.com Rating:&nbsp;
 
