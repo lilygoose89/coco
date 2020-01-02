@@ -10,7 +10,7 @@ comments: false
 tags:
 ---
 
-What's the best time to be in Chiang Mai as a digital nomad? No matter the time of year, the city's got plenty to offer the wandering entrepreneur or remote worker, but there's definitely peak seasons if you want to maximize your chance to connect with like-minded fellows.
+What's the best time to be in Chiang Mai as a digital nomad? No matter the time of year, the city's got plenty to offer the wandering entrepreneur or remote worker, but there's definitely peak seasons if you want to maximize your chance to connect with like-minded fellows and go to great events.
 
 The unofficial "season" for nomads in Chiang Mai typically run from September to February, with a definite peak in nomadic-type humans and nomad-focused events in December and January.
 
@@ -20,7 +20,15 @@ For those with the freedom to plan their timings and travels though, here are so
 
 ## Nomad Summit (January)
 
+Exactly what it says on the tin, the Nomad Summit is a roving conference that brings together digital nomads and those curious about the lifestyle to gather and share knowledge and experience. Founded in Chiang Mai, this event occasionally takes place in other corners of the globe, but it has returned home each year since its conception in 2015.
+
+In 2020, the Summit runs from January 17-21st. If you want to learn how to make it as a nomad, then this is the event for you\! Seasoned entrepreneurs and travelers take the stage to share tips, tricks and tactics for growing wealth and building businesses while traveling long term. The main ticketed event takes place on the 18th, but supplementary workshops, excursions and activities build around the conference.
+
+**[Learn more about the conference and book your tickets here](https://www.tickettailor.com/events/nomadsummit/291025){: target="_blank"}**
+
 ## Jai Thep Festival (January/February)
+
+&nbsp;
 
 ## Burning Season (February-April)
 
