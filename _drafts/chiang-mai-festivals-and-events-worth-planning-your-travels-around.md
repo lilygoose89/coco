@@ -34,7 +34,17 @@ While not specifically a nomad event, just about anybody in the Chiang Mai are w
 
 ## Burning Season (February-April)
 
+The biggest downer on this list and the only time of year during which we'd dissuade anybody from visiting our fair city, Chiang Mai experiences a city-wide haze issue that runs from roughly mid-February til mid-April.
+
+Nicknamed "burning season," those who can tend to evacuate the city as the air becomes dangerously polluted due to a noxious mix of agricultural burning, endemic forest fires, and urban haze that gets trapped in the valley due to seasonal atmospheric conditions.
+
+While those who are just visiting for a couple days will probably get by just fine by wearing a pollution-mask and limiting their time out of doors, we wouldn't recommend planning your first trip here during this time as the city is far more pleasant during literally any other time of year.
+
+As this coincides with the tail end of "the season" for nomads and the start of Thailand's hot season when temperatures soar, many nomadic folk time things to move on around this time, with Bali and Vietnam being popular alternative destinations. Those who are location independent often choose this time of year to take vacations elsewhere, returning once the rains arrive in April to clear the air.
+
 ## Songkran (April)
+
+A bucket-list worthy event for anyone, digital nomad or not, one of Chiang Mai's most famous festivals takes place mid-April of each year.
 
 ## TEDx (September)
 
