@@ -44,9 +44,13 @@ As this coincides with the tail end of "the season" for nomads and the start of 
 
 ## Songkran (April)
 
-A bucket-list worthy event for anyone, digital nomad or not, one of Chiang Mai's most famous festivals takes place mid-April of each year.
+A bucket-list worthy event for anyone, digital nomad or not, one of Chiang Mai's most famous festivals takes place mid-April of each year. Songkran is Thailand's New Year, and while the festival is celebrated nation-wide, nowhere is it as chaotic and delightful as it is in Chiang Mai.
 
-## TEDx (September)
+Traditionally during this hot-season celebration, water is poured as a blessing to wash away the previous year's worries and woes. These days the tradition has been dialed up to eleven and has turned into a five-day city-wise water war.
+
+Children and adults alike don brightly colored shirts and wield super-soakers in a no-holds-barred water fight. Entire sections of the city become gridlocked with celebrants splashing water at each other and massive parties are thrown across town with concert stages to be found in front of major shopping malls and urban plazas.
+
+Songkran in Chiang Mai is something that you truly have to experience yourself to understand. If you want to spend time in Chiang Mai, this is an event well worth planning you travels around.
 
 ## Loy Krathong and Yi Peng (October/November)
 
