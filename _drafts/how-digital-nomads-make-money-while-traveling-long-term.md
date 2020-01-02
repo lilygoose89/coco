@@ -14,3 +14,12 @@ tags:
   - resources
 ---
 
+Remote Work
+
+Teaching English Online
+
+Freelancing/Consulting
+
+Owning a Business
+
+Retirement/Passive Income
