@@ -54,4 +54,8 @@ Songkran in Chiang Mai is something that you truly have to experience yourself t
 
 ## Loy Krathong and Yi Peng (October/November)
 
+&nbsp;
+
 ## Chiang Mai SEO Conference (November)
+
+&nbsp;
